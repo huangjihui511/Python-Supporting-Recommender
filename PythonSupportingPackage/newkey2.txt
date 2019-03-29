@@ -1,0 +1,86 @@
+abstract  
+assert 
+break  
+case  
+catch  
+class  
+const  
+continue  
+default  
+do  
+else  
+enum 
+extends  
+final  
+finally  
+for  
+if  
+implements  
+import  
+instanceof  
+interface  
+native  
+new 
+package  
+private  
+protected  
+public  
+return  
+static  
+strictfp  
+super 
+switch  
+synchronized 
+this  
+throw  
+throws  
+transient 
+try  
+void  
+volatile  
+while 
+Random  
+main 
+args 
+null 
+++ 
+-- 
++= 
+-+ 
+*= 
+<= 
+>= 
+^= 
+|= 
+/= 
+%= 
+-> 
+&& 
+|| 
+== 
+!= 
+[]  
+( 2450157
+) 2442531
+; 1811476
+= 846154
+} 695496
+{ 695472
+> 235917
+< 235518
++ 187132
+- 
+* 
+: 152748
+[ 132252
+] 132016
+! 72259
+/ 68698
+& 59673
+@ 
+| 37198
+? 34626
+% 13194
+^ 5959
+~ 2594
+,

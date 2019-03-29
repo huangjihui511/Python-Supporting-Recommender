@@ -1,0 +1,3000 @@
+~~~ {
+0:
+1:
+2:try,595 catch,565 Node,30 can,27 Type,17 DATA,16 merges,15 request,14 replaces,12 setListener,12 Icon,11 RegularLinearTransformation,8 VerticalLinearTransformation,8 HASH,8 Comparator,8
+3:
+
+~~~ ;
+0:
+1:
+2:assertEquals,34561 assertThat,15784 assertTrue,5100 System.out.println,4820 super,4747 sb.append,3873 Assert.assertEquals,3007 fail,2937 this,2204 assertFalse,2159 List,1964 when,1814 assertNotNull,1771 assertNull,1546 check,1105
+3:
+
+~~~
+0:
+1:
+2:assertThat,538 catch,208 when,70 MoreObjects.toStringHelper,60 Color.parseColor,59 CacheBuilder.newBuilder,48 assertThatThrownBy,45 sb.append,44 try,44 assertThatExceptionOfType,38 builder.append,36 assertEquals,33 Assertions.assertThat,31 Mockito.when,26 Unirest.get,25
+3:
+
+~~~ , ~~~ ) ;
+0:
+1:
+2:is,94 UUID.randomUUID,8 plotSheet.xToGraphic,6 plotSheet.yToGraphic,6 toInt,4 Math.min,4 parse,2 nf.format,2 operation.getArg,2 Expressions.constant,2 ByteArray.toStr,2 blockHeaders.get,2 onErrorLogAndRethrow,2 batch.complete,2 start.getType,1
+3:
+
+~~~ ,
+0:client_event,1 true,1 nack,1 false,1
+1:H2O.MAX_PRIORITY,1 H2O.ACK_PRIORITY,1
+2:faw,1339 gmd,926 ion,730 Color.parseColor,590 wic,589 typ,334 fou,282 VK,255 pe7,200 dev,161 assertThat,96 assertEquals,49 met,46 ISO8859,30 JOB,26
+3:
+
+~~~ ) ;
+0:
+1:
+2:is,112 segments.add,39 hasPrototype,28 HealthCheckResponse.newBuilder,13 Literal.of,13 any,9 ArgumentMatchers.any,9 Arrays.asList,8 NDArrayIndex.interval,8 ard,7 from,7 Hex.decode,7 sb.toString,6 containsString,6 singletonMap,6
+3:
+
+~~~ )
+0:
+1:
+2:getSubjectGenerator,8 server.enqueue,6 assertThat,6 environment.add,4 testObserver.errors,3 add,2 activity.getString,2 Float.isNaN,1 AuthenticationPredicate.has,1 f.apply,1 equalTo,1 assertEquals,1 testSubscriber.errors,1 label.getCore,1
+3:
+
+~~~ ) ) ;
+0:
+1:
+2:Integer.valueOf,12 Endpoint.of,8 Hex.decode,7 Paths.get,3 context.getMessage,2 testResult.getFalsePositivesAllowed,2 meshBuilder.getNumIndices,2 Tuple.of,2 isFunction,2 property.getGetterMethodName,2 pub.getModulus,1 parallel,1 conf.getCroppingHeight,1 getClass,1 Collectors.toMap,1
+3:
+
+~~~ &&
+0:
+1:
+2:Objects.equals,128 ensure,5 Modifier.isPublic,4 Arrays.equals,2 sharedPrefs.getBoolean,2 MoreObjects.firstNonNull,2 catchTypes.equals,1 nextLabel.equals,1 metaData.equals,1 docId.equals,1 Objects.equal,1 ctx.getChild,1 headers.containsEntry,1 BigInteger.ZERO.equals,1 Character.isLowerCase,1
+3:
+
+~~~ $$$
+0:
+1:
+2:when,213 body,198 then,154 given,139 statusCode,102 param,89 post,70 multiPart,66 get,64 RestAssuredMockMvc.given,63 expect,60 formParam,45 config,42 contentType,37 queryParam,35
+3:
+
+~~~ $$$ (
+0:
+1:
+2:assertEquals,80 assertThat,27 bldr.append,7 db.getCollection,6 when,6 verify,5 tomcat.getConnector,4 results.tests,4 executionResults.all,4 appContext.getHttpCmdServer,4 LogUtil.getArthasLogger,2 field.annotate,2 look.set,2 node.addChild,2 getJavaChannel,1
+3:
+
+} ~~~ { }
+0:
+1:
+2:catch,902
+3:
+
+} ~~~ {
+0:
+1:
+2:catch,10111
+3:
+
+} finally {
+0:
+1:
+2:
+3:
+
+} else {
+0:
+1:
+2:
+3:
+
+} else if ( ~~~ ) {
+0:
+1:
+2:name.equals,122 type.equals,42 t.contains,37 key.equals,29 t.equals,26 jj,23 ELEMENT,22 s.equals,22 key.startsWith,16 ActionConstants.ACTION,16 opName.endsWith,16 DownloadManager.COLUMN,12 ImplementationType.IMPLEMENTATION,11 codec.startsWith,10 str.equals,10
+3:
+
+} else if ( $$$ instanceof ### ) {
+0:value,110 o,68 obj,60 type,54 mask,38 variableValue,36 val,29 cause,25 node,24 collection,20 v,20 object,19 container,18 op,16 input,15
+1:String,50 Integer,22 Long,19 Boolean,17 List,16 byte[],15 Double,15 IRegion,14 Number,14 GenericArrayType,14 ParameterizedType,13 Float,13 Object[],10 Map,10 Collection,10
+2:
+3:
+
+} else if ( $$$ == $$$ ) {
+0:id,24 i,17 cls,15 boxType,10 type,9 value,7 componentType,7 c,7 clz,6 expectedClass,6 mode,5 Integer.class,5 Long.class,5 Float.class,5 int.class,4
+1:
+2:
+3:
+
+} else if ( $$$ == ### ) {
+0:attr,77 s,22 t,21 type,20 node.status,20 types[i],18 stackType,17 cachingPolicy,10 outputMode,9 androidRes,8 prior,8 node.type,8 msg.what,8 clz,7 bottom.status,7
+1:StackType.MAIN,9 Types.NCLOB,8 Types.BLOB,8 Status.FILTER,6 Status.NON_RESIDENT,6 Types.CLOB,6 Status.MAIN,5 CachingPolicy.BEHIND,4 CachingPolicy.ASIDE,4 HUBER_PRIOR,4 QUARTIC_PRIOR,4 StackType.Q,4 StackType.NR,4 MeasureSpec.AT_MOST,4 Long.MAX_VALUE,4
+2:
+3:
+
+} else if ( $$$ == !!! ) {
+0:c,23 len,12 i,11 rem,10 bytesRemaining,9 shape.length,8 ch,7 status,5 paraNum,5 s.length,5 b,4 a,4 length,4 c3,4 pixelDepth,4
+1:
+2:
+3:"x",54 0,49 2,43 1,40 3,14 4,8 32,5 5,3 7,2 13,2 255,2 24,2 12,2 6,1 127,1
+
+} else if ( $$$ ( ) ) {
+0:args[i].equalsIgnoreCase,140 args[argIndex].equalsIgnoreCase,10 args[0].equals,3 had_words_array[offe].equalsIgnoreCase,2 args[i].equals,1 vecs[i].isUUID,1 vecs[i].isString,1 vecs[i].isTime,1
+1:
+2:
+3:
+
+} else if ( $$$ != null ) {
+0:extractorInput,6 charset,6 partial,5 value,4 matched,4 firstNormalCue,3 httpCon,2 url,2 column,2 tempFrom,2 tempTo,2 key,2 container,2 elementSerializer,2 defaultValue,2
+1:
+2:
+3:
+
+} else if ( !!! ~~~ ) {
+0:
+1:
+2:
+3:"x",179
+
+} else if ( ! ~~~ ) {
+0:
+1:
+2:json.isNull,9 type.equals,7 channel.equals,4 jgen.canOmitFields,4 value.equals,4 isNull,4 name.equals,3 accountId.equals,3 lotteryNumbers.equals,2 playerDetails.equals,2 bankAccountNumber.equals,2 emailAddress.equals,2 phoneNumber.equals,2 key.equals,2 application.equals,2
+3:
+
+} else if ( ! ~~~ )
+0:
+1:
+2:name.equals,27 value.equals,7 email.equals,4 infoProfile.equals,4 loginName.equals,4 penName.equals,4 personId.equals,4 department.equals,4 fax.equals,4 fullAddress.equals,4 homepageUrl.equals,4 jobTitle.equals,4 mobileNo.equals,4 phones.equals,4 area.equals,4
+3:
+
+} else
+0:
+1:
+2:
+3:
+
+}
+0:
+1:
+2:
+3:
+
+} ) ~~~ ;
+0:
+1:
+2:
+3:
+
+{ !!! , !!! , !!! , !!! } ,
+0:
+1:
+2:
+3:"x",448
+
+while ( ~~~ ) {
+0:
+1:
+2:it.hasNext,122 iterator.hasNext,93 rs.next,80 iter.hasNext,47 reader.hasNext,21 matcher.find,20 enumeration.hasMoreElements,17 i.hasNext,14 m.find,13 objects.hasNext,12 st.hasMoreTokens,11 it1.hasNext,10 entries.hasMoreElements,9 e.hasMoreElements,9 ts.incrementToken,9
+3:
+
+while ( ( ) != null ) {
+0:
+1:
+2:
+3:
+
+while ( $$$ < $$$ ) {
+0:i,32 n,18 offset,16 data.length,15 k,11 index,9 end,8 limit,7 count,7 position,6 len,6 inOffset,6 inLimit,6 max,5 length,5
+1:
+2:
+3:
+
+while ( $$$ ) {
+0:true,328 result,20 running,11 flag_exit,4 b,2 hasMore,2 found,2 more,1 changed,1 stillRunning,1 this.running,1 headT2.next.marked,1 needMoreInput,1 flag,1 hRes,1
+1:
+2:
+3:
+
+while ( $$$ != null ) {
+0:node,22 current,12 c,8 curChild,8 child,6 cause,4 in,4 s,4 next,4 cur,3 line,3 p,3 e,3 parentLoc,3 source,3
+1:
+2:
+3:
+
+while ( ! ~~~ ) {
+0:
+1:
+2:tsDurationReader.isDurationReadFinished,12 queue.isEmpty,10 Thread.interrupted,8 isInterrupted,7 q.isEmpty,7 stack.isEmpty,6 queuedInputBuffers.isEmpty,6 work.isEmpty,6 program.isStopped,4 eventPool.isEmpty,4 queuedOutputBuffers.isEmpty,3 terminating,3 dirs.isEmpty,3 stack.empty,3 cr.isAfterLast,3
+3:
+
+void ~~~ {
+0:
+1:
+2:setUp,109 enabledBecauseAnnotationIsNotPresent,24 before,17 remove,16 other,16 init,15 drain,15 test,12 add,12 set,11 run,11 otherError,9 write,9 cleanUp,9 addValue,9
+3:
+
+void ~~~ throws ### {
+0:
+1:Exception,202 IOException,31 SQLException,26 InterruptedException,14 TwitterException,11 ClassNotFoundException,8 T,6 DocumentException,5 SchedulerException,4 GeneralSecurityException,3 JSONException,3 CodegenException,2 ServiceException,2 NoSuchFieldException,2 SuspendExecution,1
+2:setUp,30 testReturn,23 testParam,8 throwIt,6 tearDown,6 toPdf,3 check,2 encode,2 write,2 send,2 newop,2 notSpecifyTimeout,2 specifyMappedStatementTimeoutOnly,2 specifyDefaultTimeoutOnly,2 specifyTransactionTimeout,2
+3:
+
+void ~~~ ;
+0:
+1:
+2:visit,65 getBytes,12 readBytes,12 setBytes,12 writeBytes,12 assign,11 set,9 run,7 setScale,7 clear,6 prepare,6 shutdown,6 mget,6 release,5 add,5
+3:
+
+try { ~~~ ; ~~~ ; } ~~~ { }
+0:
+1:
+2:fail,180 catch,180 Array.getBoolean,16 Array.getByte,16 Array.getChar,16 Array.setBoolean,16 Array.setDouble,16 Array.getShort,14 Array.setFloat,14 Array.setLong,12 Array.getInt,10 Array.setInt,10 Array.getLong,8 Array.setChar,8 Array.setShort,8
+3:
+
+try {
+0:
+1:
+2:
+3:
+
+throws ### {
+0:
+1:IOException,186 Exception,73 SQLException,12 SkipSchemaExpressionException,11 JSONException,7 ImpossibleSchedulingException,7 ClassNotFoundException,7 NotFoundException,6 UnhandledFormatException,6 InterruptedException,6 PreconditionViolationException,6 JsonParseException,5 RepositoryException,5 ReflectiveOperationException,5 SaslException,5
+2:
+3:
+
+throw ~~~ ;
+0:
+1:
+2:getStubException,60 closer.rethrow,32 CommandSyntaxException.BUILT,23 DbException.get,23 NotFoundException.getNotFoundInstance,22 FormatException.getFormatInstance,20 ExceptionHelper.wrapOrThrow,18 up,16 syntaxError,16 H2O.unimpl,16 cannotCreateNewFile,14 getMissingProxyClassException,13 unsupported,12 Exceptions.rethrow,12 expected,12
+3:
+
+throw new ~~~ ;
+0:
+1:
+2:UnsupportedOperationException,2096 IllegalArgumentException,1989 RuntimeException,1440 IllegalStateException,962 AssertionError,426 IOException,361 NullPointerException,214 ParseException,187 ActivitiIllegalArgumentException,153 Error,149 NoSuchElementException,123 IndexOutOfBoundsException,117 JSONException,101 Exception,81 GdxRuntimeException,75
+3:
+
+throw $$$ ;
+0:e,272 exception,21 ex,17 t,12 e1,12 e2,10 re,9 x,7 rethrown,6 loadingException,6 ise,5 localIOException,5 cause,4 ioe,3 error,3
+1:
+2:
+3:
+
+synchronized ( this ) {
+0:
+1:
+2:
+3:
+
+synchronized ( $$$ ) {
+0:lock,103 this.monitor,42 callStack,12 RippleManager.class,11 this.presences,11 eventQueue,10 mStickyEventMap,10 threadLock,9 System.class,9 monitor,8 partitions,8 eventQ,6 reloadQueue,6 mLock,6 mutex,6
+1:
+2:
+3:
+
+switch ( ~~~ ) {
+0:
+1:
+2:item.getItemId,30 event.getAction,12 access.getAction,6 result.getStatus,6 random.nextInt,5 notification.getCause,4 v.getId,4 type.getSort,4 meshes.size,3 insn.getType,3 AnsjAnalyzer.TYPE.valueOf,3 globalConfig.getDateType,3 compare,3 typeDefinition.getStackSize,3 splitter.toLowerCase,3
+3:
+
+switch ( $$$ ) {
+0:type,144 c,58 state,44 mode,36 containerType,36 collectionClass,22 b,22 k,21 from,20 value,17 i,17 token.type,16 index,14 level,14 position,13
+1:
+2:
+3:
+
+static {
+0:
+1:
+2:
+3:
+
+static void ~~~ {
+0:
+1:
+2:record,32 assertEquals,30 assertNotEquals,30 init,10 removeChannelIfDisconnected,8 clear,5 afterMethodsOfBothRulesWereExecuted,5 setSystemProperty,4 clearSystemProperty,4 close,4 afterClass,4 write,3 assertDoesNotThrow,3 e,3 loadMergers,2
+3:
+
+static public ### ~~~ {
+0:
+1:boolean,13 AlphaAction,7 SequenceAction,7 ParallelAction,7 MoveToAction,6 int,5 Value,5 Task,4 MoveByAction,3 SizeToAction,3 SizeByAction,3 ScaleToAction,3 ScaleByAction,3 RotateToAction,3 RotateByAction,3
+2:sequence,7 parallel,7 put,4 schedule,3 moveTo,3 moveToAligned,3 moveBy,3 sizeTo,3 sizeBy,3 scaleTo,3 scaleBy,3 rotateTo,3 rotateBy,3 color,3 alpha,3
+3:
+
+static final ### $$$ = !!! ;
+0:serialVersionUID,9 kNumBitModelTotalBits,2 kNumMoveBits,2 bufferSize,2 jlObject,2 jlcgdfs,2 jlcgdfsDescriptor,2 jlcgdf,2 jlcgdfDescriptor,2 jlcgf,2 jlcgfDescriptor,2 jlcgdms,2 jlcgdmsDescriptor,2 jlcgdm,2 jlcgdmDescriptor,2
+1:String,127 int,117 long,10 BASE_PATH,6 OTHER_STATE_HAS_VALUE,4 OTHER_STATE_CONSUMED_OR_EMPTY,4 byte,4 SEGMENTER_NAME,3 KEY,3 RUNNING,2 FAILED,2 COMPLETED,2 FINGERPRINTS_DIR_NAME,2 HEADER_TABLE_SIZE,2 ENABLE_PUSH,2
+2:
+3:"x",129 1,21 2,17 5,11 10,10 16,9 3,8 8,7 4,6 32,4 0,4 6,3 1000,3 11,2 54,2
+
+static class ### {
+0:
+1:ViewHolder,6 MeterRegistryConfiguration,5 MeanAndVariance,4 Item,3 Sample,3 State,3 TestConfiguration,3 User,3 FingerprintParams,2 PackageSuper,2 TestCase,2 MyReportingTestCase,2 TrackingTestWatcherRepeatedTestMethodsTestCase,2 TrackingTestWatcherTestFactoryMethodsTestCase,2 A,2
+2:
+3:
+
+static class ### extends ### {
+0:
+1:JpaQueryExecution,10 SavedState,6 BaseSavedState,6 AbstractTestCase,6 RecyclerView.ViewHolder,5 SingularArgument,5 Walker,5 MockProperty0,4 RequestMessage,4 SuperClass,4 Signal,4 MockPartial,3 BasePartial,3 A,3 B,3
+2:
+3:
+
+static ### ~~~ {
+0:
+1:boolean,90 int,76 String,65 byte[],14 long,14 Jid,12 Builder,10 BigInteger,9 HttpClient,8 String[],6 Object,6 double,5 DocumentOperationMessageV3,5 NettyChannel,4 Tree,4
+2:of,38 create,10 builder,10 getOrAddChannel,8 listProduct,8 convertUplo,5 convertDiag,5 convertTranspose,5 fitsInLong,4 lessThanBranchFree,4 calculateNewMeanNonFinite,4 charSequenceToUpperCase,4 convertOrder,4 convertSide,4 get,4
+3:
+
+static ### $$$ ;
+0:mapper,20 testWasRun,4 bindings,4 initCount,4 test,3 bw,3 cache,2 enableColor,2 count,2 userTokenManager,2 perTestSuiteClientAndServer,2 train,2 result,1 tileX,1 tileY,1
+1:ObjectMapper,20 int,13 Field,12 boolean,9 InstanceSet,6 Properties,4 ByteArrayWrapper,4 PrintWriter,3 LruCache,2 DefaultUserTokenManager,2 AreaSerializer,2 ClientAndServer,2 CWSTagger,2 Result,1 Person,1
+2:
+3:
+
+return ~~~ ;
+0:
+1:
+2:sb.toString,722 FEELFnResult.ofError,187 builder.toString,185 get,183 Objects.hash,155 String.format,148 Collections.emptyList,142 complete,142 delegate,138 Arrays.asList,134 Optional.empty,117 LocalHttpClient.executeJsonResult,117 buf.toString,115 Collections.unmodifiableList,110 Optional.ofNullable,108
+3:
+
+return ~~~
+0:
+1:
+2:MoreObjects.toStringHelper,56 toStringHelper,46 equals,30 newFetchedValueAnalysis,26 Arrays.stream,14 Futures.completedFuture,14 addAction,12 Objects.equals,10 isInit,8 config.getAsyncClient,8 isTaskRunning,8 VoteResponse.builder,7 createQuery,6 createBaseRequest,6 createObservable,6
+3:
+
+return ~~~ && ~~~ ;
+0:
+1:
+2:Objects.equals,13 Arrays.equals,12 Objects.equal,8 getType,6 name.equals,6 getElement,6 args.equals,5 n.has,5 n.get,5 eq,4 input.isFile,4 first.equals,3 second.equals,3 id.equals,3 Util.areEqual,3
+3:
+
+return ~~~ $$$ ;
+0:[0],18 [index],5 [1],3 [2],2 [sequence[pos]],1 [position],1 [column],1 [j],1
+1:
+2:getState,18 getClasses,13 ui.getState,7 processRows,6 safeGetFirstSong,6 projectLexicalRelation,4 getUserInfo,4 getOrAdd,3 observers.get,3 getFields,3 context.getPackageManager,3 values.get,3 root.intern,2 this.get,2 intervals.get,2
+3:
+
+return this ;
+0:
+1:
+2:
+3:
+
+return null ;
+0:
+1:
+2:
+3:
+
+return new ~~~ {
+0:
+1:
+2:Iterator,54 ListenerAdapter,16 Statement,14 Iterable,13 DecoratingIterator,10 CacheLoader,10 LazyResponseList,10 Collator,9 LazyFluentIterable,8 Runnable,8 ResponseAwareMatcher,8 InputStream,6 UnixSu,6 AbstractList,6 JsonAdapter,6
+3:
+
+return new ~~~ ;
+0:
+1:
+2:String,200 Builder,155 ArrayList,150 TestSuite,104 File,77 Pair,56 Date,50 ViewHolder,45 PrimitiveValue,44 HashSet,35 ByteArrayInputStream,33 HashMap,30 BigDecimal,27 MagicCommandOutput,27 RpcResult,24
+3:
+
+return new ~~~
+0:
+1:
+2:StringBuilder,26 SelectSql,24 ToStringBuilder,11 DeleteSql,11 AutoValue,7 EqualsBuilder,6 HashCodeBuilder,6 StringBuffer,5 Aeron.Context,5 TokenResult,5 Builder,5 Result,4 ClusterMetricNode,4 DropTableSql,4 Query.Builder,4
+3:
+
+return new ### ;
+0:
+1:String[0],18 Object[0],11 SavedState[size],7 Class[0],4 Certificate[0],4 Metadata[0],3 DownloadAction[0],3 TrackGroup[size],3 TrackGroupArray[size],3 BinaryFrame[size],3 CommentFrame[size],3 GeobFrame[size],3 InternalFrame[size],3 PrivFrame[size],3 TextInformationFrame[size],3
+2:
+3:
+
+return ;
+0:
+1:
+2:
+3:
+
+return - !!! ;
+0:
+1:
+2:
+3:1,547 2,2 100000000,2
+
+return ( ( ) $$$ ) ~~~ ;
+0:value,28 constraint,28 jv,18 obj,14 container,13 type,12 o,12 ocst,12 collection,9 bev,9 target,7 mProgressDrawable,6 result,6 data,6 m,6
+1:
+2:
+3:
+
+return ( ### ) ~~~ ;
+0:
+1:T,198 int,71 float,54 String,28 Long,25 InetSocketAddress,16 long,15 T[],15 byte,14 short,12 List,11 Boolean,11 Integer,10 Class,10 char,8
+2:super.clone,116 get,30 getDbSqlSession,27 Math.sqrt,26 queryColumn,15 f,13 data.get,12 Shadow.extract,12 super.getState,12 parse,11 readObject,10 constructor.newInstance,10 Math.pow,9 method.invoke,9 valueFromBytes,9
+3:
+
+return ( ### ) this ;
+0:
+1:Criteria,808 T,123 I,60 R,33 B,32 C,26 M,16 V,13 K,5 Item,4 ExpandableBadgeDrawerItem,4 S,4 N,3 AltAST,2 ResponseBody,2
+2:
+3:
+
+return ( ### ) ( ) ;
+0:
+1:int,98 byte,23 short,22 long,12 T,11 char,10 float,8 A,4 Object[],2 double,2 U,1 Class,1 XMPPErrorPE,1
+2:
+3:
+
+return ( ### ) $$$ ;
+0:value,79 result,29 obj,16 cachedRealmObject,12 ret,12 age,12 cause,11 object,10 o,9 v,7 data,7 cachedObject.object,6 instance,5 res,5 array,5
+1:T,105 int,53 byte,16 Boolean,11 String,11 Class,9 byte[],8 long,8 Integer,8 Long,7 V,6 T[],6 JSONArray,6 JSONObject,6 E,5
+2:
+3:
+
+return $$$ == ### ;
+0:type,18 upstream,14 code,12 family,10 status,9 state,7 callType,4 this.location,4 jump,4 current,3 mode,3 button,3 readyState,3 assignmentType,3 oldValue,2
+1:SubscriptionHelper.CANCELLED,12 TYPE_PROJ,3 EMPTY_INDEX,3 UNSET,2 BIZ_EXCEPTION,2 FORBIDDEN_EXCEPTION,2 TIMEOUT_EXCEPTION,2 NETWORK_EXCEPTION,2 SERIALIZATION_EXCEPTION,2 NO_INVOKER_AVAILABLE_AFTER_FILTER,2 ManagedCollection.MANAGED_REALMLIST,2 DisposableHelper.DISPOSED,2 CursorStatus.OPEN,2 CursorStatus.CONSUMED,2 PackageManager.PERMISSION_GRANTED,2
+2:
+3:
+
+return $$$ ;
+0:false,8437 true,4979 result,2094 name,645 id,581 value,562 ret,320 type,275 tmp,272 myself,224 data,216 i,175 map,171 list,168 r,152
+1:
+2:
+3:
+
+return $$$ - $$$ ;
+0:1],26 start,22 i,13 end,7 count,7 pos,7 position,6 mLimit,4 mPosition,4 left.length,4 right.length,4 values[values.length,4 timeOfSyncSamples[timeOfSyncSamples.length,4 snappedTimeNs,3 vsyncOffsetNs,3
+1:
+2:
+3:
+
+return ### ;
+0:
+1:INSTANCE,57 Reachability.UNKNOWN,42 C.RESULT_END_OF_INPUT,30 Integer.MAX_VALUE,30 NaN,24 State.CONTINUE,22 Boolean.TRUE,20 MODEL_NAME_VALUE,20 PixelFormat.TRANSLUCENT,19 VIEW_NAME_VALUE,19 NONE,17 ColumnType.STRING,17 EMPTY_BYTE_ARRAY,15 DbColumnType.STRING,15 ZERO,15
+2:
+3:
+
+return !!! ;
+0:
+1:
+2:
+3:"x",1507 0,1089 1,280 2,77 4,33 3,26 65535,20 65534,20 8,17 10,15 6,15 5,14 42,10 16,10 53,9
+
+return !!!
+0:
+1:
+2:
+3:"x",144
+
+return !!! +
+0:
+1:
+2:
+3:"x",333
+
+return !!! + $$$ ;
+0:name,16 value,10 position,4 expr,4 age,4 key,3 i,3 idx,3 max,3 part,2 service,2 message,2 tel,2 output,2 ch,2
+1:
+2:
+3:"x",122 1000,1 94,1 12,1
+
+return !!! + $$$ + !!! ;
+0:obj,8 tableName,6 channel,5 value,5 name,5 response,4 payload,4 data,4 minimum,4 requirements,3 t,3 id,3 s,3 part,2 connection,2
+1:
+2:
+3:"x",244
+
+return !!! + $$$ + !!! + $$$ + !!! ;
+0:id,87 data,47 name,15 type,13 value,6 x,5 y,5 left,5 right,5 code,4 reason,4 presentFeatures,4 absentFeatures,4 age,4 minimum,4
+1:
+2:
+3:"x",504
+
+return ! ~~~ ;
+0:
+1:
+2:isEmpty,8 queue.isEmpty,8 errors.isEmpty,4 isNotEmpty,4 isOpen,4 this.getBeanViolations,4 view.isDefault,3 line.startsWith,3 evaluators.get,3 container.canAcquireLock,3 transport.isStopped,2 isEmptyMap,2 Util.isEmptyString,2 nGoodTrees.isEmpty,2 record.getMessage,2
+3:
+
+public ~~~ { }
+0:
+1:
+2:Builder,15 BaseArchetype,4 GetUsableSpace,3 TemporarySpaceMonitor,3 InstrumentationApplication,3 ProxyState,2 AbstractFileResolvingResource,2 CollectionUtils,2 ANTLRInputStream,2 ParserRuleContext,2 RuleContext,2 DFAState,2 AttributeDict,2 GrammarAST,2 HKEY,2
+3:
+
+public ~~~ {
+0:
+1:
+2:Builder,141 ViewHolder,46 Node,39 ComplexNDArray,38 ByReference,37 VARIANT,30 LayoutParams,28 Person,26 Address,23 DoubleBuffer,22 FloatBuffer,22 LongBuffer,22 Entry,21 IntBuffer,20 Item,18
+3:
+
+public ~~~ throws ### {
+0:
+1:IOException,114 Exception,41 ParseException,8 InitializationError,7 RemotingException,6 LoadModelException,5 UnknownHostException,4 FileNotFoundException,4 UnsupportedEncodingException,3 FlacDecoderException,3 SQLException,3 MalformedURLException,3 IllegalArgumentException,3 JSONException,3 BadItemException,3
+2:BufferedRandomAccessFile,16 ANTLRInputStream,12 JavaObjectInput,4 GradleMultiDslSuite,4 DataBlock,4 MjpegFileWriter,4 IsoFile,4 FlacDecoderJni,3 TemporarySpaceMonitor,3 DataManager,3 HTKLatticeReader,3 ZipFile,3 WebSocketFrame,3 CameraDevice,3 JSONArray,3
+3:
+
+public ~~~
+0:
+1:
+2:PrintCommandListener,10 HeaderFlyweight,6 NakFlyweight,6 RttMeasurementFlyweight,6 SetupFlyweight,6 SetType,6 TelnetClient,4 AttributeListImpl,4 DirectBufferVector,4 GradientMapFilter,4 IrDecoder,4 ErrorHandler,4 MINAStatCollector,4 LexicalizedParserServer,3 Choice,3
+3:
+
+public void ~~~ { }
+0:
+1:
+2:close,14 setInto,6 onRemoval,4 flush,4 setTheProp,4 unchanged,4 init,4 remove,3 addTransferListener,3 onFinalized,3 onInitialize,3 onStarted,3 onDeleted,3 checkRead,3 set,2
+3:
+
+public void ~~~ {
+0:
+1:
+2:test,463 run,426 setId,423 setUp,374 visit,345 clear,332 setName,314 close,289 add,285 remove,278 onError,271 reset,236 dispose,226 onComplete,216 error,205
+3:
+
+public void ~~~ throws ### {
+0:
+1:Exception,8485 IOException,2307 Throwable,955 SQLException,321 InterruptedException,175 InvalidDateSequenceException,133 RemotingException,126 RemoteException,119 JSQLParserException,83 FailStoreException,72 LibrecException,60 NoSuchMethodException,57 SchedulerException,50 ParseException,46 XMLStreamException,45
+2:test,1178 testConstructor,654 write,267 setUp,241 close,184 tearDown,109 testCopyOf,108 send,72 read,64 process,57 testGet,51 testCreation,46 testSerialization,46 readData,46 writeData,44
+3:
+
+public void ~~~ throws ###
+0:
+1:Exception,187 IOException,157 UserNotFoundException,11 SocketException,8 Throwable,6 CertificateStoreConfigException,6 UnsupportedOperationException,6 SaslException,3 CertificateException,2 UnauthorizedException,1
+2:write,109 setUp,15 givenParentDir,12 open,6 testRender,6 tearDown,5 asFiles,4 toFiles,4 testReorder,3 toOutputStreams,3 writeExternal,3 dispose,3 insertProperty,3 updateProperty,3 deleteProperty,3
+3:
+
+public void ~~~ throws ### , ### {
+0:
+1:IOException,228 InterruptedException,122 SuspendExecution,58 ClassNotFoundException,50 NoSuchFieldException,49 SecurityException,47 ServletException,46 IllegalAccessException,26 ParseException,21 NoSuchMethodException,21 TimeoutException,19 ExecutionException,18 AccountApiException,14 EntitlementApiException,14 SAXException,9
+2:readExternal,25 test,23 run,22 sniff,15 doFilter,13 send,12 handle,10 initialize,9 qInterfaceType,8 custom,8 setup,6 serialize,5 prepareWorkspace,4 discardWorkspace,4 testNoOpScheduledExecutorInvokeAll,4
+3:
+
+public void ~~~ ;
+0:
+1:
+2:visit,5 clear,4 loadMore,4 add,2 putAll,2 onRotateEnd,2 onPageRequested,2 select,2 handleAction,2 setHeight,2 setWidth,2 handle,1 setGL20,1 setGL30,1 setTitle,1
+3:
+
+public void ~~~
+0:
+1:
+2:run,22 build,18 serialize,14 close,13 writeData,13 readData,13 test,12 after,11 of,10 preferredOutputFormatName,9 setUp,8 isSupportedOutputFormatType,7 norm,7 renameNoChange,6 renamePrefixDotThumbnail,6
+3:
+
+public void $$$ $$$ ~~~ {
+0:$,175 realmSet,148 set,10 realm,6 setRealm,2 setRow,2 setAcceptDefaultValue,2 setExcludeFields,2 setCoupon_batch_id_,1 setCoupon_id_,1 setCoupon_fee_,1
+1:
+2:ref,10 realm,8 name,6 age,6 injectObjectContext,6 columnString,3 columnLong,3 columnFloat,3 columnDouble,3 columnBoolean,3 columnDate,3 columnBinary,3 columnObject,3 columnRealmList,3 done,3
+3:
+
+public synchronized void ~~~ {
+0:
+1:
+2:clear,14 add,11 mark,10 update,8 close,7 putAll,5 reset,5 start,5 abort,4 updateAccessToken,4 log,4 setFirstSampleTimestampUs,3 init,3 free,3 stop,3
+3:
+
+public synchronized ### ~~~ {
+0:
+1:boolean,68 int,22 String,21 long,18 V,14 NottableString,8 Object,5 Throwable,5 Collection,4 byte[],3 Long,3 Cursor,3 ByteString,2 BigInteger,2 DataSet,2
+2:get,10 size,8 remove,8 put,8 isEmpty,6 contains,5 containsValue,5 add,5 getMessage,4 containsKey,4 containsKeyValue,4 check,3 fillInStackTrace,3 addNode,3 onError,2
+3:
+
+public static void ~~~ {
+0:
+1:
+2:main,508 checkArgument,48 checkState,48 checkNotNull,38 error,30 warn,29 info,24 debug,23 print,23 reset,21 closeQuietly,21 initClassStubData,20 trace,19 assertEquals,19 setUpClass,17
+3:
+
+public static void ~~~ throws ### {
+0:
+1:Exception,252 IOException,207 InterruptedException,11 RunnerException,10 Throwable,7 ClassNotFoundException,6 LoadModelException,5 ParseException,3 ParserException,3 SecurityException,3 JSQLParserException,3 MalformedURLException,2 FileNotFoundException,2 SuspendExecution,2 FrameGrabber.Exception,2
+2:main,230 setUpClass,24 write,10 json,8 tearDownClass,8 copyStream,6 tryLoad,6 setUp,5 writeFile,5 tearDown,5 writeLines,4 writeByteArrayToFile,4 before,4 generateClasses,4 unzipGzips,4
+3:
+
+public static final ~~~ ;
+0:
+1:
+2:Operator,122 AType,22 Map,12 Set,6 List,5 HashSet,2 Value,2 ConcatCoreMapListAggregator,2 Queue,1 ThreadLocal,1 ArrayList,1
+3:
+
+public static final ### ~~~ {
+0:
+1:long,21 float,18 boolean,17 String,16 int,11 JSONObject,10 JSONArray,10 float[],5 Chronology,4 byte[],3 Byte,2 Short,2 BigDecimal,2 BigInteger,2 Float,2
+2:newJSONObject,6 newJSONArray,6 mix,4 getIntervalChronology,2 toBinaryUsingDivideAndModulus,2 toBinaryUsingShiftsAndModulus,2 toBinaryUsingBigDecimal,2 print,2 toJSONString,2 toJSONObject,2 toJSONArray,2 parseArray,2 parseObject,2 castToString,2 castToByte,2
+3:
+
+public static final ### $$$ = ~~~ ;
+0:classId,14 logger,4 recurrencePeriodHours,3 systemLCID,1 compatibility,1 nodefaults,1 also_compatible_with,1 conformance,1 certificateValidity,1 log,1 spec,1
+1:int,328 GUID,204 CipherSuite,119 String,46 ArmAeabiAttributesTag,43 Type,29 ContentType,19 byte[],16 LOG,14 Logger,14 ByteString,12 Log,8 long,7 TAG,6 Pattern,6
+2:Util.getIntegerCodeForString,300 GUID.fromString,204 init,119 addTag,43 TypeUtils.parseType,24 create,19 stringToBytes,15 registerClass,14 LoggerFactory.getLogger,13 ByteString.encodeUtf8,12 LogFactory.getLog,7 Pattern.compile,6 System.getProperty,5 register,5 Charset.forName,5
+3:
+
+public static final ### $$$ = new ~~~ ;
+0:me,10 cat,4 m,2 n,2 instance,2 predefinedTokenDict,2 red,2 black,2 green,2 white,2 mazda,1 _1,1 _2,1 _3,1 _4,1
+1:Code,1000 INSTANCE,33 CREATOR,24 Type,19 ColorWrap,18 ChannelDescriptor,16 Months,15 ColorRGBA,15 EMPTY,14 Message1,13 GenericGF,12 TermNatures,11 Hours,11 ZERO,10 DEFAULT,10
+2:Code,1000 Type,19 ColorWrap,18 ChannelDescriptor,16 Months,15 ColorRGBA,15 Message1,13 GenericGF,12 TermNatures,11 Hours,11 Days,10 Option,8 MoneyUnit,8 Character,8 PrimitiveType,8
+3:
+
+public static final ### $$$ = $$$ ;
+0:false,57 true,30 0L,23 0x1,12 0x2,10 0x1000,7 0x04,6 0.5f,5 0x02,5 0x01,5 0x03,5 0x05,5 0x06,5 0x10000,5 0x00,4
+1:int,785 boolean,72 Long,23 double,22 float,18 Boolean,15 long,9 byte,8 DEFAULT_ENABLED,6 DEFAULT_STATUS,5 LOAD_FACTOR,4 DEFAULT_LOAD_FACTOR,3 FIELD_FLOAT_DEFAULT_VALUE,2 FIELD_DOUBLE_DEFAULT_VALUE,2 FIELD_BOOLEAN_DEFAULT_VALUE,2
+2:
+3:
+
+public static final ### $$$ = ### ;
+0:defaultPrecision,1
+1:int,72 String,30 Unit,9 java.nio.ByteOrder,8 BYTE_ORDER,8 java.nio.ByteOrder.LITTLE_ENDIAN,8 ByteString,8 ByteString.EMPTY,8 TimeUnit,6 OutputOption,6 Color.BLACK,5 GenericGF,4 long,4 Integer.MAX_VALUE,4 EXTRA_PREFIX,4
+2:
+3:
+
+public static final ### $$$ = ### + !!! ;
+0:
+1:String,157 BASE_TYPE_AUDIO,48 BASE_TYPE_APPLICATION,42 BASE_TYPE_VIDEO,24 HOST,13 PREFIX,12 BASE_TYPE_TEXT,4 EXTRA_CONFIGURATION,4 EXTRA_PREFIX,4 LdapConfiguration.PREFIX,3 NAMESPACE,3 VIDEO_MP4,2 VIDEO_WEBM,2 VIDEO_H263,2 VIDEO_H264,2
+2:
+3:"x",157 1,1
+
+public static final ### $$$ = !!! ;
+0:name,8 tag,6 type,4 testString,2 _RANGE,2 kEncode,1 kDecode,1 kBenchmak,1 kNumRepDistances,1 kNumStates,1 kNumPosSlotBits,1 kDicLogSizeMin,1 kNumLenToPosStatesBits,1 kMatchMinLen,1 kNumAlignBits,1
+1:String,2998 int,1508 byte,48 Integer,40 TYPE,30 NAME,23 CLASS_NAME,23 ID,15 MODEL_NAME_VALUE,15 VIEW_NAME_VALUE,14 long,13 SIZE,12 char,12 ELEMENT,12 SCHEMA_VERSION,11
+2:
+3:"x",3005 0,181 1,166 2,115 4,77 3,75 8,59 5,55 6,47 7,40 10,30 16,26 9,26 12,23 11,19
+
+public static class ### {
+0:
+1:Builder,111 TestCls,51 VO,40 User,24 Model,21 Item,14 Foo,12 A,11 Entity,11 V0,8 Person,8 Criterion,8 C,7 Config,6 B,6
+2:
+3:
+
+public static class ### implements ### {
+0:
+1:Serializable,51 JavaDelegate,27 Reachability.Inspector,22 NamedElement,7 Runnable,6 FacetProvider,5 Converter,4 OuNum,3 JiNum,3 Person,3 ObjectDeserializer,3 Entity,3 ArcProcessor,3 ExecutionListener,3 Cloneable,3
+2:
+3:
+
+public static class ### implements ### < ### > {
+0:
+1:String,40 ArgumentExtractor,34 GenericAnnotation,23 CoreAnnotation,16 IConverter,14 Comparable,12 ChannelInitializer,5 FloatChannel,5 Integer,5 CustomComparableLiteral,4 String[],4 Comparator,3 Object,3 Vertex,2 ParamHelper,2
+2:
+3:
+
+public static class ### extends ### {
+0:
+1:BaseParserTestDescriptor,108 Structure,37 BaseLexerTestDescriptor,32 DescriptorImpl,31 BaseCompositeParserTestDescriptor,30 TestStringListGenerator,28 ViewHolder,23 Processor,18 HANDLE,16 BaseViewHolder,13 IOException,12 PrimitiveException,11 Exception,10 AbstractEntity,10 AbstractMessage,10
+2:
+3:
+
+public static < ### > ### ~~~ {
+0:
+1:T,234 V,18 String,11 T[],11 int,10 boolean,6 A,6 K,6 GeoRadiusStoreArgs,6 byte[],3 TraversalControl,3 RestResponseBo,3 C,2 E,2 N,2
+2:newInstance,8 createPropertiesConfiguration,8 getLast,6 toArray,5 fromXml,5 join,4 get,4 getNext,4 findValueOfType,3 read,3 alias,3 ok,3 initValue,3 accept,2 acceptFull,2
+3:
+
+public static < ### > ### < ### > ~~~ {
+0:
+1:T,494 E,48 List,45 V,26 Set,21 R,20 X,16 Traverser,16 Iterable,14 Iterator,12 Future,11 L,10 Message,10 Optional,9 Collection,9
+2:create,25 empty,8 of,6 getLineIterator,6 depthFirst,6 breadthFirst,6 init,5 newHashSet,5 succeededFuture,4 failedFuture,4 ofClassAndContents,4 reverse,4 query,4 toPublisher,4 copyOf,4
+3:
+
+public static ### ~~~ {
+0:
+1:String,1433 boolean,907 int,762 byte[],259 long,223 INDArray,146 Builder,143 double,140 TestSuite,96 float,76 Result,58 Object,51 Date,51 BigInteger,51 File,46
+2:create,154 getInstance,131 suite,104 get,100 builder,84 parse,61 of,58 from,43 getCPtr,42 toString,37 newInstance,33 valueOf,28 decode,28 encode,27 convert,27
+3:
+
+public static ### ~~~ throws ### {
+0:
+1:IOException,284 String,112 Exception,75 byte[],74 RemotingException,36 IllegalArgumentException,32 Algorithm,24 ParseException,21 long,19 TwitterException,19 ExchangeClient,16 Reflect,16 ReflectException,16 int,15 BlockException,15
+2:read,27 parse,25 connect,20 bind,16 toString,16 from,13 load,12 write,10 create,10 entry,10 createDefault,9 execute,9 getInstance,7 getMD5,6 readFile,6
+3:
+
+public static ### ~~~
+0:
+1:int,148 boolean,20 String,14 short,12 Class,11 long,10 Gradient,9 byte[],7 CoreMapAggregator,5 RateLimiter,5 LossGenerator,5 AuthToken,5 Object,4 PrimitiveTypeCodec,4 SignalCodec,4
+2:get,12 createOrUpdateUsingJsonObject,6 createUsingJsonStream,6 copyLarge,5 getAggregator,4 create,4 blockLengthEncodingOffset,4 blockLengthEncodingLength,4 blockLengthNullValue,4 blockLengthMinValue,4 blockLengthMaxValue,4 templateIdEncodingOffset,4 templateIdEncodingLength,4 templateIdNullValue,4 templateIdMinValue,4
+3:
+
+public static ### < ### > ~~~ {
+0:
+1:List,268 String,142 Set,70 Collection,41 Matcher,34 Object[],30 Policy,29 Optional,27 Integer,23 Comparator,20 Boolean,16 Record,16 Long,15 Constant,13 ResponseAwareMatcher,12
+2:policies,29 data,19 create,13 matchesDtd,12 all,11 asList,10 tokenize,8 parameters,8 matchesXsd,8 getSystemIdsByProfile,8 list,7 getParameters,6 getLineIterator,6 paginate,5 getVisited,5
+3:
+
+public static ### $$$ = $$$ ;
+0:false,23 true,20 0.5f,4 0.25,4 0x1000,4 0x2000,4 0x4000,4 0xfff,3 closed,2 closing,2 1.0,2 0x8000,2 0x0001,2 0x0002,2 0x0004,2
+1:int,66 boolean,39 double,8 CtClass,6 float,5 FIELD_FLOAT_DEFAULT_VALUE,4 FIELD_DOUBLE_DEFAULT_VALUE,4 FIELD_BOOLEAN_DEFAULT_VALUE,4 Boolean,4 DEBUG,2 JLC_GETDECLAREDFIELDS,2 JLC_GETDECLAREDFIELD,2 JLC_GETFIELD,2 JLC_GETDECLAREDMETHODS,2 JLC_GETDECLAREDMETHOD,2
+2:
+3:
+
+public static ### $$$ = !!! ;
+0:rowsHeight,3 name,2 invokerTypeName,2 myStaticField,2 prependVertexCode,1 prependFragmentCode,1 baseUrl,1 defaultTimeout,1 readerLogLevel,1 entityResultsPrinters,1 relationFeatures,1 relationResultsPrinters,1 relationsToSkipDuringTraining,1 eventResultsPrinters,1 kfold,1
+1:String,264 int,117 long,9 FIELD_IGNORED,4 FIELD_RANDOM_STRING,4 FIELD_STRING,4 FIELD_SHORT,4 FIELD_INT,4 FIELD_LONG_PRIMARY_KEY,4 FIELD_LONG,4 FIELD_BYTE,4 FIELD_FLOAT,4 FIELD_DOUBLE,4 FIELD_BOOLEAN,4 FIELD_DATE,4
+2:
+3:"x",266 0,13 1,11 2,9 5,8 100,5 3,5 1234,4 123456,4 4,4 64,3 8,3 16,3 640,3 480,3
+
+public interface ### {
+0:
+1:Callback,8 Builder,8 ClickListener,8 Configuration,4 OnCheckedChangeListener,4 OnLoadMoreListener,4 SeekMap,3 AudioBufferSink,3 Listener,3 Cache,3 AffectedFile,3 Visitor,3 Context,3 FragmentRefWatcher,2 RealmRunnable,2
+2:
+3:
+
+public final void ~~~ {
+0:
+1:
+2:set,8 remove,7 onSubscribe,7 addTransferListener,6 onComplete,5 update,5 register,4 clear,4 onNext,4 setState,4 visitExpressionStatement,4 setName,3 reevaluateBuffer,3 release,3 flush,3
+3:
+
+public final static native void ~~~ ;
+0:
+1:
+2:delete,109 btMultiBody,75 btRigidBody,53 btMultibodyLink,43 btSliderConstraint,41 btGeneric6DofSpring2ConstraintData,41 btGeneric6DofSpring2ConstraintDoubleData2,41 btGeneric6DofSpring2Constraint,39 btTypedConstraint,36 btMultiBodySolverConstraint,35 btWheelInfo,34 btSolverBody,28 btHingeConstraint,27 btGeneric6DofConstraint,26 btSolverConstraint,26
+3:
+
+public final static native ### ~~~ ;
+0:
+1:long,653 float,340 int,160 boolean,78 Vector3,68 double,55 String,47 Matrix4,32 java.nio.FloatBuffer,10 Matrix3,8 float[],8 boolean[],6 double[],6 Quaternion,4 int[],4
+2:new,144 btMultiBody,64 btRigidBody,54 btSliderConstraint,54 btTypedConstraint,43 btGeneric6DofSpring2ConstraintData,41 btGeneric6DofSpring2ConstraintDoubleData2,41 btMultibodyLink,41 btMultiBodySolverConstraint,35 btConeTwistConstraint,34 btHingeConstraint,34 btWheelInfo,34 btGeneric6DofSpring2Constraint,27 btGeneric6DofConstraint,26 btSolverConstraint,26
+3:
+
+public final static ### $$$ = !!! ;
+0:kF_None,1
+1:String,107 int,51 char,3 CLASS_NAME,2 TOPIC,2 GROUP_ID,2 NUM_BYTES_LONG,2 byte,2 VERSION,2 LOGBACK_CONFIGURATION_FILE_PROPERTY,2 CHARS_CACH_INIT_SIZE,1 CHARS_CACH_INIT_SIZE_EXP,1 CHARS_CACH_MAX_SIZE_EXP,1 BYTES_CACH_INIT_SIZE,1 BYTES_CACH_INIT_SIZE_EXP,1
+2:
+3:"x",110 0,11 1,11 2,6 3,4 1024,2 10,2 17,2 5,2 8,2 32,1 30,1 4,1 10000,1 6,1
+
+public final class ### {
+0:
+1:Decoder,6 Log,4 EventMessageEncoderTest,4 BigIntegerMath,4 IntMath,4 PairedStatsAccumulator,4 StatsAccumulator,4 TesterRequirements,4 ListGenerators,4 StringUtils,4 ClassLoaderUtil,4 PlaybackParameters,3 MediaFormatUtil,3 ActionFile,3 SonicAudioProcessorTest,3
+2:
+3:
+
+public final class ### implements ### {
+0:
+1:Policy,28 Serializable,24 GeneratorSource,13 Parcelable,10 Reader,6 Extractor,6 DataSource,6 LexerAction,6 java.io.Serializable,6 NamedTypeInfo,4 Cloneable,3 GeoLocationGenerator,3 RawCcExtractor,3 Metadata,3 TrackGroup,3
+2:
+3:
+
+public final class ### extends ### {
+0:
+1:Assert,29 Message,22 Id3Frame,21 BaseDataSource,15 TestCase,15 Completable,13 ResultHandler,8 ParsedResult,8 BaseSingleFieldPeriod,7 OryxTest,7 DownloadHelper,6 AbstractClimber,6 AbstractALSServingTest,6 Tokenizer,5 AbstractJCacheTest,5
+2:
+3:
+
+public final ### ~~~ {
+0:
+1:boolean,156 int,94 String,87 Hasher,40 double,37 T,33 long,24 BooleanExpression,17 byte[],13 Object,10 float,6 DruidPlugin,6 V,5 Object[],4 HashCode,4
+2:set,23 equals,17 getName,16 toString,14 hashCode,14 get,12 isEmpty,8 putBytes,8 offer,6 size,6 getType,5 contains,5 remove,5 toSchema,5 unregister,4
+3:
+
+public final ### $$$ ;
+0:name,27 value,22 id,15 type,12 message,11 data,11 description,10 key,9 code,9 text,8 length,6 mimeType,6 size,6 stream_id,5 last_stream_id_received,5
+1:String,214 int,132 Integer,39 long,32 Long,25 boolean,23 Boolean,19 ByteString,18 byte[],16 float,11 double,9 SeekPoint,6 Object,5 E[],4 E,4
+2:
+3:
+
+public enum ### {
+0:
+1:Type,37 Status,8 State,6 Mode,5 Player,4 Size,4 Impl,4 Operation,4 StyleEnum,4 MyEnum,4 EventType,4 Permission,3 SessionTrackingMode,3 ErrorCode,3 Position,3
+2:
+3:
+
+public class ### {
+0:
+1:Person,17 App,16 Utils,13 Target,13 User,12 FileUtils,9 Source,9 IOUtils,8 CollectionUtils,7 Node,7 TestUtils,7 Configuration,7 Config,7 Snake,6 Util,6
+2:
+3:
+
+public class ### implements ### {
+0:
+1:Serializable,264 IImageFilter,25 Runnable,24 Filter,23 DataSetIterator,23 Cache,17 Parcelable,16 java.io.Serializable,15 Statement,15 Channel,14 DemoServiceImpl,14 DemoService,14 ITypeface,12 Logger,11 Config,11
+2:
+3:
+
+public class ### implements ### < ### > {
+0:
+1:Comparable,33 Iterable,20 String,19 NormalizerSerializerStrategy,9 WbExpression,9 ProtoCapsule,8 Transformation,8 Bitmap,8 Serializer,7 ClusterTask,7 StackNode,6 TimeSet,6 QAWarning,6 Identifiable,6 Long,6
+2:
+3:
+
+public class ### implements ### , ### {
+0:
+1:Serializable,25 Cloneable,10 Externalizable,7 NativeObject,5 Savable,5 Runnable,4 Logger,4 Cleanable,4 Cacheable,4 Shape2D,3 Comparable,3 BeanPostProcessor,3 InitializingBean,3 IdentifiedDataSerializable,3 IPlugin,3
+2:
+3:
+
+public class ### extends ### {
+0:
+1:TestCase,489 BaseEnversJPAFunctionalTestCase,97 PluggableActivitiTestCase,81 GdxTest,73 BaseNd4jTest,73 RealmObject,70 SimpleApplication,56 IntegrationTest,55 Activity,47 HttpServlet,35 AbstractTest,29 GenerativeSpringLoadedTest,28 WithJetty,24 MatrixFactorizationRecommender,22 View,20
+2:
+3:
+
+public class ### extends ### implements ### {
+0:
+1:Serializable,18 BusEventBase,17 ThemeManager.OnThemeChangedListener,13 Drawable,13 SimpleApplication,11 View,10 Animatable,10 View.OnClickListener,10 Discrollvable,10 ActionBarActivity,10 LinearLayout,9 BaseComponentSystem,9 ASTNodeAccessImpl,9 AbstractAuthorizationService,8 Activity,8
+2:
+3:
+
+public class ### extends ### < ### > {
+0:
+1:String,22 BaseViewModel,22 Schema,13 LayerSpace,8 ILoggingEvent,7 SimpleChannelInboundHandler,7 BaseLegacyDeserializer,6 StdSerializer,6 AcknowledgedRequest,6 byte[],5 ArrayAdapter,5 PublisherVerification,5 AbstractJavaParserContext,5 TronStoreWithRevoking,5 BodyMatcher,5
+2:
+3:
+
+public abstract void ~~~ ;
+0:
+1:
+2:interrupt,5 warn,5 put,4 debug,4 info,4 error,4 add,3 write,3 setValue,3 prepareTest,2 runTest,2 increment,2 decrement,2 close,2 accept,2
+3:
+
+public abstract class ### {
+0:
+1:ByteSink,4 LinearTransformation,4 ViewGroupMixIn,3 SU,3 StepRegistryProperties,3 Mixin,2 AbstractRouterRule,2 LuminanceSource,2 AbstractExpandedDecoder,2 Test,2 ObjectUtils,2 AnsiLog,2 StringUtils,2 CollectionTests,2 BaseIntegrationTest,2
+2:
+3:
+
+public abstract class ### implements ### {
+0:
+1:Serializable,12 ExtensionPoint,9 AbstractCompiler,4 Compiler,4 Closeable,4 Runnable,4 AbstractRegistryService,3 RegistryService,3 BaseDataSource,3 DataSource,3 SCMListener,3 QueueTaskFilter,3 Queue.Task,3 AbstractHttpServer,2 HttpServer,2
+2:
+3:
+
+public abstract class ### extends ### {
+0:
+1:Indexer,10 BaseFragment,8 TestCase,6 Fragment,5 Test,4 AbstractTableReadTest,4 BaseDateTimeField,4 Influencer,3 BaseActivity,3 AbstractNegativeBlackBoxTestCase,2 AbstractBlackBoxTestCase,2 PerfTestEventBus,2 PerfTestOtto,2 RemoteTestService,2 Service,2
+2:
+3:
+
+public abstract ### ~~~ ;
+0:
+1:String,111 boolean,103 int,67 long,45 double,23 ByteIndexer,16 T,15 byte[],12 CharIndexer,10 DoubleIndexer,10 FloatIndexer,10 IntIndexer,10 LongIndexer,10 ShortIndexer,10 UByteIndexer,10
+2:get,83 put,70 getName,14 noAddOverflow,8 noMulOverflow,8 createPresenter,8 set,7 documentation,6 getDisplayName,5 build,5 getType,5 getAsText,5 getAsShortText,5 add,5 getMinimumValue,5
+3:
+
+public < ### extends ### > ### ~~~ {
+0:
+1:T,181 ChunkVisitor,24 A,20 Annotation,19 E,13 Component,11 Node,7 IAttribute,4 boolean,4 int,4 U,4 ParseTree,4 I,4 Block,4 SocketAddress,4
+2:processRows,24 getAnnotation,12 get,5 getComponent,5 addComponent,3 synthesize,3 testGenericsWithExtends,3 getAnnotationsByType,2 contains,2 addChannel,2 sort,2 build,2 as,2 addAnyChild,2 getChild,2
+3:
+
+public < ### > ### ~~~ {
+0:
+1:T,650 T[],46 P,11 boolean,9 Hasher,8 V,8 UpdateResults,8 U,7 Q,7 JsonAsserter,6 X,6 A,5 ExchangeHandlerDispatcher,4 ReplierDispatcher,4 R,4
+2:toArray,52 get,36 as,15 getObject,15 read,13 putObject,8 deserialize,8 getProperty,6 Spy,6 findAndModify,6 newInstance,5 deserialze,5 getValue,5 parse,5 addReplier,4
+3:
+
+public < ### > ### < ### > ~~~ {
+0:
+1:T,289 U,32 List,20 Optional,17 Codec,14 Future,13 V,12 E,12 R,10 ListenableFuture,7 JFXKeyValueBuilder,6 A,6 TransformingReceivePort,5 S,5 AsyncResult,4
+2:get,29 submit,13 map,8 create,8 executeRequest,6 getList,5 startProcess,4 set,4 createQuery,4 save,4 dispatch,4 then,4 newFiber,3 createWithInitialRequest,2 getAll,2
+3:
+
+public ### ~~~ { return ~~~ ; }
+0:
+1:int,34 String,21 boolean,18 BytePointer,11 double,8 long,8 ByteIndexer,6 CharIndexer,6 DoubleIndexer,6 FloatIndexer,6 IntIndexer,6 LongIndexer,6 ShortIndexer,6 UByteIndexer,6 UShortIndexer,6
+2:get,104 put,92 toString,9 buf.getByteBuffer,6 size,5 visit,4 v.visit,4 isEmpty,3 method.equals,3 getShort,3 getInt,3 getLong,3 getFloat,3 getDouble,3 eq,3
+3:
+
+public ### ~~~ { return $$$ ; }
+0:true,38 false,29 Boolean.class,11 value,10 defaultValue,6 String.class,5 index,4 parent,3 _len,3 i,3 count,3 left,3 right,3 type,3 identity,2
+1:boolean,88 int,44 Class,25 String,23 double,17 long,12 byte[],10 float,8 long[],5 Token,4 int[],3 Long,3 ExpressionNode,3 ASTree,3 AnnotationIndexTypes,2
+2:getSupportedType,25 showDFA,12 valid,9 hasFloat,7 asBool,4 asLong,4 asDouble,4 asData,4 isAtom,3 getName,3 isUseOptionalForGetters,3 isReadableInterval,3 stopping,3 isVolatile,3 getCount,3
+3:
+
+public ### ~~~ {
+0:
+1:String,11626 boolean,10192 int,7625 long,2206 Builder,1204 Integer,1147 Object,985 Criteria,848 float,840 double,783 Long,631 byte[],464 T,449 Boolean,356 SELF,316
+2:toString,2715 equals,1738 hashCode,1690 getName,747 getId,701 get,517 getValue,406 size,389 getType,329 add,286 remove,277 isEmpty,260 build,254 clone,241 hasNext,227
+3:
+
+public ### ~~~ throws ### {
+0:
+1:IOException,1170 Exception,393 int,350 String,256 boolean,228 Object,228 SQLException,226 long,170 byte[],79 JSONException,58 InputStream,56 InterruptedException,51 Throwable,48 double,46 UBJsonWriter,46
+2:read,167 invoke,82 decode,45 call,44 write,39 get,35 load,35 parse,32 open,31 value,29 skip,28 readInt,26 readLong,25 readFloat,25 readDouble,25
+3:
+
+public ### ~~~ throws ### , ### {
+0:
+1:InterruptedException,143 IOException,97 SuspendExecution,95 boolean,54 Result,28 T,27 ResultException,26 Exception,26 Object,16 TimeoutException,15 Message,14 ClassNotFoundException,13 ExecutionException,12 String,12 V,12
+2:receive,38 test,26 send,22 get,17 readObject,13 run,13 decode,11 sniff,9 snapshot,8 perform,6 createSocket,6 read,5 doCreateItem,5 discard,4 setUp,4
+3:
+
+public ### ~~~ ;
+0:
+1:boolean,59 IComplexNumber,56 String,41 int,35 Object,28 float,14 long,7 byte,5 short,5 double,5 Number,5 JSONObject,4 JSONArray,4 Boolean,4 Byte,4
+2:newInstance,13 remove,6 getBoolean,5 getByte,5 getShort,5 getLong,5 getFloat,5 getDouble,5 size,4 isEmpty,4 add,4 addAll,4 get,4 getJSONObject,4 getJSONArray,4
+3:
+
+public ### ~~~
+0:
+1:int,198 String,157 boolean,114 Object,34 long,33 SetupFlyweight,16 Habit,11 PrimitiveType,11 DirectBufferVector,10 NakFlyweight,10 RttMeasurementFlyweight,10 MessageHeaderEncoder,10 byte[],8 short,8 HeaderFlyweight,8
+2:toString,45 length,15 sessionId,14 streamId,14 decode,13 equals,13 encodedLength,13 buffer,12 offset,12 evaluate,11 hashCode,11 deserialize,9 apply,9 termOffset,9 wrap,9
+3:
+
+public ### < ? extends ### > ~~~ {
+0:
+1:Class,77 Collection,33 List,23 CasEvent,15 Annotation,12 Set,12 SymbolReference,12 ValueDeclaration,10 WbExpression,9 BaseElement,9 MultifactorAuthenticationTrustRecord,8 HasWord,7 Action,5 DataBuffer,5 Element,4
+2:getManagedEntityClass,16 annotationType,11 getBpmnElementType,9 solveSymbol,9 get,8 getTrigger,6 getProjectActions,5 getEventsOfTypeForPrincipal,4 getEventsOfType,4 getEventsForPrincipal,4 getLastFmArtwork,4 getItemGroup,3 getSubTasks,3 getAffectedFiles,3 getSubject,3
+3:
+
+public ### < ? > ~~~ {
+0:
+1:Class,166 Expression,19 Matcher,10 List,9 Future,8 Mono,8 Publisher,8 Path,7 ScheduledFuture,6 Flux,6 Observable,6 Iterable,5 TypeInformation,5 Replier,4 Invoker,4
+2:apply,39 type,15 visit,15 getAnswerMessage,15 getObjectType,13 submit,8 matcher,8 getLiteral,8 getType,7 getSetterType,7 getGetterType,7 getDeserializedType,6 getSupportedType,6 getRoot,6 nativeType,5
+3:
+
+public ### < ### > ~~~ {
+0:
+1:List,1985 String,887 T,486 Set,477 Collection,292 CompletableFuture,287 Iterator,241 Optional,210 Integer,192 E,185 RealmList,166 Class,140 Object,115 Boolean,112 V,104
+2:iterator,198 keySet,58 values,56 getChildren,55 getType,54 listIterator,40 getExtractedType,34 getLabels,32 getList,29 remove,26 getItems,25 get,25 subList,21 getFields,21 getSuccessors,21
+3:
+
+public ### < ### > ~~~ throws ### {
+0:
+1:List,87 IOException,46 SQLException,41 String,26 Object,15 SchedulerException,14 TwitterException,14 Exception,13 BasicDocument,12 L,12 ResponseList,12 T,8 Enumeration,8 URL,8 Record,8
+2:handle,18 init,11 getResources,7 getResult,7 getNullableResult,6 event,5 record,4 loadFromMetaData,4 execute,3 build,3 resolve,3 reply,2 find,2 readLines,2 loadSequenceFromMetaData,2
+3:
+
+public ### < ### > $$$ ;
+0:persons,5 values,3 anns,3 children,3 setting,3 images,2 next,2 go,2 predicate,2 entities,2 tokenNames,2 literalNames,2 symbolicNames,2 ruleNames,2 rules,2
+1:List,81 String,43 Set,12 RealmList,11 T,8 Long,7 Double,7 SectionItem,7 Array,6 LongObjectMap,6 InternalInstrumented,5 Integer,4 DexAnnotationNode,4 Node,3 Class,3
+2:
+3:
+
+public ### < ### < ### > > ~~~ {
+0:
+1:List,127 CompletableFuture,44 V,37 Observable,28 BaseResponse,28 T,27 String,25 Tree,20 FeedArticleListData,20 ScoredObject,19 Versioned,18 Collection,17 HttpResponse,16 Set,13 Class,12
+2:getType,10 iterator,6 values,5 get,5 next,4 getKBestParses,4 getSubscriber,4 asEmptyAsync,4 asStringAsync,4 asJsonAsync,4 asFileAsync,4 getBestPCFGParses,3 getKGoodFactoredParses,3 getKBestPCFGParses,3 getChildren,3
+3:
+
+public ### < ### < ### , ### > > ~~~ {
+0:
+1:String,126 V,84 K,75 Set,62 List,54 Map.Entry,53 Pair,51 Entry,49 Iterator,26 Map,23 Object,19 CompletableFuture,18 Integer,14 T,14 java.util.Map.Entry,12
+2:entrySet,58 getSlaveGrammars,36 iterator,30 getType,5 getEncoderClass,3 testReturnType5,2 keySet,2 asPriorityQueue,2 asReversedPriorityQueue,2 getIterator,2 getTopTree,2 getRequestHeaders,2 entries,2 getSubscriber,2 master,2
+3:
+
+public ### < ### , ### > ~~~ {
+0:
+1:String,772 Map,608 Object,199 V,144 K,137 Integer,89 java.util.Map,49 Long,42 Pair,31 HashMap,25 T,23 L,23 Rule,23 MetricName,22 F,22
+2:getExtensions,33 next,24 getAdditionalProperties,21 getVariables,19 getParameters,18 getProperties,18 getMap,15 getCharacters,12 getTags,11 toMap,11 getAttributes,10 getHeaders,10 getExtParams,10 getMetadata,9 add,9
+3:
+
+public ### $$$ = null ;
+0:errors,153 output,17 mdClassifier,2 bar,2 title,2 foo,2 lr,2 choiceGenerator,2 timestamp,2 generator,2 context,2 param1,2 pathParam1,2 param2,2 pathParam2,2
+1:String,203 Byte,4 Long,4 PrintStream,2 MentionDetectionClassifier,2 Bar,2 LogRecord,2 Integer[],2 IChoiceGenerator,2 Time_Expression,2 Time_Initial,2 Context,2 Transaction,2 T,1 Model,1
+2:
+3:
+
+public ### $$$ = new ~~~ ;
+0:mockitoRule,59 j,22 javaVersionRule,14 rule,9 name,9 folder,6 r,5 temporaryFolder,4 jenkinsRule,4 testDir,4 tempFolder,4 runIdMigrator,3 logs,3 looperThread,2 cli,2
+1:TestRule,59 JenkinsRule,34 LongWarning,30 TemporaryFolder,20 MethodRule,17 TestName,10 LoggerRule,6 PowerMockRule,5 ExternalResource,4 TimePoint,4 RunIdMigrator,3 Jsonschema2PojoRule,3 Vector3f,3 RunInLooperThread,2 CliTester,2
+2:MockitoRule,60 JenkinsRule,34 LongWarning,30 TemporaryFolder,20 JavaVersionRule,14 TestName,10 LoggerRule,6 PowerMockRule,5 MyExternalResource,4 TimePoint,4 RunIdMigrator,3 Jsonschema2PojoRule,3 Vector3f,3 RunInLooperThread,2 CliTester,2
+3:
+
+public ### $$$ = $$$ ;
+0:false,108 true,55 0.0,8 1f,6 1.0f,5 0f,4 enableMotor,3 0.01,3 0.25f,3 0.5f,3 enabled,2 10f,2 enableLimit,2 1.0,2 0.5,2
+1:boolean,163 int,156 float,29 double,23 Size,3 FILE_DEVICE_BEEP,2 FILE_DEVICE_CD_ROM,2 FILE_DEVICE_CD_ROM_FILE_SYSTEM,2 FILE_DEVICE_CONTROLLER,2 FILE_DEVICE_DATALINK,2 FILE_DEVICE_DFS,2 FILE_DEVICE_DISK,2 FILE_DEVICE_DISK_FILE_SYSTEM,2 FILE_DEVICE_FILE_SYSTEM,2 FILE_DEVICE_INPORT_PORT,2
+2:
+3:
+
+public ### $$$ = !!! ;
+0:input,188 startRule,188 grammarName,188 output,98 errors,26 cb,8 dwFlags,6 size,5 listSize,4 dwInitialFrames,4 dwSuggestedBufferSize,4 motorSpeed,3 th,2 referenceAngle,2 maxMotorTorque,2
+1:String,717 int,210 float,21 short,19 long,12 double,10 BannerNum,4 FSCTL_GET_COMPRESSION,2 FSCTL_SET_COMPRESSION,2 FSCTL_SET_REPARSE_POINT,2 FSCTL_GET_REPARSE_POINT,2 FSCTL_DELETE_REPARSE_POINT,2 METHOD_BUFFERED,2 METHOD_IN_DIRECT,2 METHOD_OUT_DIRECT,2
+2:
+3:"x",717 0,161 1,26 10,10 100,7 15,7 2,6 3,4 16,4 40,4 200,3 42,3 500,2 100000,2 50,2
+
+public ### $$$ ;
+0:grammar,188 name,101 output,72 value,53 id,42 type,33 slaveGrammarS,32 driver,24 size,20 b,17 longField,16 data,13 title,12 height,12 d,11
+1:String,1013 int,410 boolean,193 long,170 float,62 double,52 Integer,50 String[],44 int[],37 Long,37 TextView,29 char,23 Boolean,20 short,18 Object,17
+2:
+3:
+
+public ### $$$ $$$ ~~~ {
+0:$,137 realmGet,118 get,10 getRealm,2 getRow,2 getAcceptDefaultValue,2 getCoupon_batch_id_,1 getCoupon_id_,1 getCoupon_fee_,1
+1:String,32 boolean,17 Date,9 byte[],9 Boolean,6 Byte,6 Short,6 Integer,6 Long,6 Float,6 Double,6 int,6 long,3 float,3 double,3
+2:ref,10 name,6 age,6 realm,6 columnString,3 columnLong,3 columnFloat,3 columnDouble,3 columnBoolean,3 columnDate,3 columnBinary,3 columnObject,3 columnMutableRealmInteger,3 done,3 isReady,3
+3:
+
+protected ~~~ {
+0:
+1:
+2:Criterion,40 Builder,9 BasePartial,9 AbstractStreamingHasher,8 ProxyServerActor,8 GeneratedCriteria,8 Criteria,8 BaseInterval,7 ViewJob,6 RunListener,6 ChangeLogSet,6 SCMDescriptor,6 LazyFluentIterable,4 JobPropertyDescriptor,4 ExtensionList,4
+3:
+
+protected ~~~ ;
+0:
+1:
+2:List,83 Map,66 ArrayList,6 Array,4 ConcurrentHashMap,3 ThreadLocal,3 HashMap,3 IntMap,3 Queue,3 Set,2 LinkedList,2 ClassicCounter,1 ObjectProperty,1 SimpleObjectProperty,1 Hashtable,1
+3:
+
+protected void ~~~ {
+0:
+1:
+2:onCreate,137 subscribeActual,136 reset,50 init,39 onDraw,31 doGet,28 doPost,28 onAttachedToWindow,27 onDetachedFromWindow,27 validate,26 addCriterion,24 onStart,22 onMeasure,21 append,18 configure,18
+3:
+
+protected void ~~~ throws ### {
+0:
+1:Exception,369 LibrecException,124 IOException,113 Throwable,65 TwitterException,28 SuspendExecution,15 RemotingException,10 FailStoreException,8 SQLException,7 ExoPlaybackException,6 JdbcException,4 ParserException,3 ParseException,3 RuntimeException,3 EOFException,3
+2:setUp,172 tearDown,121 setup,61 trainModel,52 finalize,48 writeInternal,16 readInternal,15 init,10 writeAdditionalAttributes,9 writeAdditionalChildElements,9 prepareInternal,6 sendMessage,6 channelRead0,5 beforeEach,5 encodeData,4
+3:
+
+protected static final ### $$$ = !!! ;
+0:zNode,1 sessionTimeoutMillis,1 intervalTail,1
+1:String,76 int,51 byte,4 char,3 SERVER_THREAD_POOL_NAME,2 NONE,2 YOURCO_EXTENSIONS_PREFIX,2 ATTRIBUTE_NAME,2 ATTRIBUTE_VALUE,2 ELEMENT_I18LN_LOCALIZATION,2 DURATION,2 LAG_BETWEEN_ITEMS,2 DIST_Y,2 DRAG,1 X_ZOOM,1
+2:
+3:"x",80 1,12 0,10 2,6 3,4 4,4 100,3 1000,3 5,2 25,2 700,2 6,1 8,1 10000,1 11000,1
+
+protected static ### ~~~ {
+0:
+1:boolean,44 String,41 int,18 long,13 float,4 long[],4 byte[],4 double,4 char[],3 Node,3 Number,3 int[],3 ExtensionElement,2 Memory,2 Date,2
+2:nativeGetString,6 serviceKey,4 targetShape,4 nativeGetBlob,4 nativeGetLong,4 nativeGetDouble,4 nativeGetType,4 nativeGetNumRows,4 nativePutBlob,4 nativePutString,4 nativePutLong,4 nativePutDouble,4 nativePutNull,4 nativeAllocRow,4 nativeSetNumColumns,4
+3:
+
+protected final ### ~~~ {
+0:
+1:E,20 K,20 V,20 int,15 String,7 boolean,7 ColumnInfo,6 T,3 BitArray,2 GeneralAppIdDecoder,2 long,2 SourceFolder,1 ClassLoaderFile,1 Mode,1 OutputStream,1
+2:copy,6 e0,4 e1,4 e2,4 e3,4 e4,4 k0,4 v0,4 k1,4 v1,4 k2,4 v2,4 k3,4 v3,4 k4,4
+3:
+
+protected final ### $$$ ;
+0:url,8 config,8 name,7 context,5 configuration,5 id,4 executor,3 loaders,3 size,3 typeHandlerRegistry,3 op,3 value,3 type,3 logger,3 k,3
+1:String,31 int,30 boolean,10 URL,8 String[],8 byte[],5 Context,4 int[],4 Logger,4 SequenceableLoader[],3 Section,3 Configuration,3 TypeHandlerRegistry,3 Options,3 T,3
+2:
+3:
+
+protected abstract void ~~~ ;
+0:
+1:
+2:doClose,4 createPersistent,4 createEphemeral,4 removeTargetChildListener,4 reload,4 update,4 process,4 decode,3 primaryView,3 run,3 doOnSubscribe,3 doOnNext,3 doOnError,3 doOnComplete,3 doRetry,2
+3:
+
+protected abstract ### ~~~ ;
+0:
+1:String,51 boolean,26 int,21 T,16 View,7 ExecutableElement,6 TargetChildListener,4 I,4 E,4 long,4 HashCode,4 S,4 AttributeBuilderThirdPartyModel,4 Subtitle,3 O,3
+2:createTargetChildListener,4 makeHash,4 create,4 createPersistent,4 createEphemeral,4 isNewSubtitleDataAvailable,3 createSubtitle,3 createInputBuffer,3 createOutputBuffer,3 createUnexpectedDecodeException,3 getPermission,3 getACL,3 primaryView,3 sudoExe,3 newBuilder,3
+3:
+
+protected ### ~~~ {
+0:
+1:String,385 boolean,285 int,200 double,80 Object,74 long,61 T,44 R,32 ExecutionCondition,16 Integer,14 float,14 AbstractJClass,14 String[],14 byte[],14 Response,14
+2:initialValue,29 getTargetPackage,28 getName,20 getResource,20 getContentSize,17 doExecute,16 getExecutionCondition,16 matchesSafely,15 predict,15 doInBackground,14 doForward,14 doBackward,14 getState,13 onGetClassId,13 getBillingPeriod,13
+3:
+
+protected ### ~~~ throws ### {
+0:
+1:IOException,74 Exception,69 LibrecException,59 double,52 Object,42 Throwable,17 boolean,16 String,11 SQLException,11 Result,9 Fingerprint,9 BaseElement,9 int,8 File,8 RejectedChoice,8
+2:predict,49 method,11 convertXMLToElement,9 doInvoke,8 sudoWithPass,6 writeReplace,6 readResolve,6 clone,5 decodeData,4 connect,4 loadFingerprint,4 createTest,4 getFile,4 transferContentTo,4 choice,4
+3:
+
+protected ### < ### > ~~~ {
+0:
+1:List,85 String,72 T,39 E,29 Set,25 Collection,24 Node,22 LinkedHashSet,22 Integer,13 Class,12 DataManager,10 MinimalCollection,8 SampleElements,8 Object,6 Long,6
+2:create,32 getFieldOrder,12 getDataManager,10 getSampleElements,8 ofAll,8 addValue,5 createArrayWithDuplicateElement,4 getOrderedElements,4 createDisjointCollection,4 emptyCollection,4 sampleKeys,4 sampleValues,4 getUserToken,4 getEntityClass,4 getTryOperationScope,4
+3:
+
+protected ### < ### > $$$ ;
+0:lossFunction,8 hasBias,8 oredCriteria,8 criteria,8 samples,4 nIn,4 nOut,4 poolingDimensions,4 collapseDimensions,4 poolingType,4 pNorm,4 strategy,3 list,3 deploymentIds,3 qs,2
+1:List,56 ParameterSpace,48 String,30 Set,13 T,12 Boolean,12 Integer,12 E,9 ILossFunction,8 Criteria,8 Criterion,8 Collection,5 SampleElements,4 S,4 Double,4
+2:
+3:
+
+protected ### < ### , ### > ~~~ {
+0:
+1:String,64 Map,33 V,28 K,27 HashMap,22 Serializable,22 Integer,19 Object,14 ConcurrentMap,14 LoadingCache,8 Callable,6 IOException,6 Multimap,6 SortedMap,5 CaffeineConfiguration,5
+2:content,22 getMap,12 delegate,11 createCallable,6 getConfiguration,5 createMap,5 resetContainer,4 getRuns,3 transform,3 create,2 copy,2 connect,2 getSyncConnection,2 createCache,2 headers,1
+3:
+
+protected ### $$$ = new ~~~ ;
+0:counter,4 eventsCount,3 currentPoolSize,3 mBadgeStyle,3 key,3 buffer,3 configurationFactory,2 totalCount,2 dirty,2 toStringValue,2 value,2 position,2 readLock,2 writeLock,2 defaultResourceLoader,2
+1:Vector3f,17 AtomicLong,9 AtomicInteger,9 AtomicBoolean,5 ALock,5 DatabaseEntry,4 ColorRGBA,4 BadgeStyle,3 StringBuilder,3 ConfigurationWrapper,2 FeatureInfoMap,2 AtomicDouble,2 StringBuffer,2 CrawlDatums,2 ResourceLoader,2
+2:Vector3f,17 AtomicLong,9 AtomicInteger,9 AtomicBoolean,5 ALock,5 DatabaseEntry,4 ColorRGBA,4 BadgeStyle,3 StringBuilder,3 ConfigurationWrapper,2 FeatureInfoMap,2 AtomicDouble,2 StringBuffer,2 CrawlDatums,2 FileSystemResourceLoader,2
+3:
+
+protected ### $$$ = $$$ ;
+0:false,60 true,49 enabled,6 0L,5 1f,4 verbose,3 1e30f,3 readerThread,2 mEnabled,2 5f,2 iconTinted,2 1.0,2 0.0f,2 debug,2 inOrStatement,2
+1:boolean,107 float,17 double,13 long,5 ItemIdValue,2 Boolean,2 JavaKeyword,1 Number,1
+2:
+3:
+
+protected ### $$$ = !!! ;
+0:length,4 n,4 currentPrime,4 stride,3 title,3 template,3 index,2 scaleFactor,2 arrowRotationAngleStart,2 arrowRotationAngleEnd,2 numFeatures,2 numClasses,2 p,2 arrowhead,2 rankdir,2
+1:int,88 long,21 String,21 float,9 double,2 Integer,2 CharSequence,2 char,1 K,1 Rsum,1
+2:
+3:0,67 "x",24 1,20 3,5 2,3 100,3 5,3 180,2 40,2 20,2 50,2 64,1 1024,1 30,1 60,1
+
+protected ### $$$ ;
+0:name,48 buffer,24 id,23 type,22 processInstanceId,21 executionId,18 array,14 mStyleId,14 value,12 processDefinitionId,12 tenantId,12 pointer,12 taskId,11 key,10 deploymentId,10
+1:String,573 int,208 boolean,159 long,58 float,42 double,39 DenseMatrix,35 Date,33 T,25 Integer,18 Object,17 ColorHolder,16 VectorBasedDenseVector,15 int[],13 Long,13
+2:
+3:
+
+private ~~~ { }
+0:
+1:
+2:BigIntegerMath,4 IntMath,4 ListGenerators,4 Params,3 MediaFormatUtil,3 CacheAsserts,3 FfmpegLibrary,3 ClearKeyUtil,3 WebvttParserUtil,3 Assertions,3 ProjectionDecoder,3 Log,3 TestUtils,3 LabelFactoryHolder,3 Builder,3
+3:
+
+private ~~~ {
+0:
+1:
+2:Builder,69 Utils,8 SavedState,7 ViewHolder,6 Reflect,6 NettyChannel,4 CollectionUtils,4 LookupUserIdResponse,4 UndirectedGraphConnections,4 AsCharSink,4 LinearTransformationBuilder,4 ArrayWithDuplicate,4 Target,4 LoggerFactory,4 ViewServer,4
+3:
+
+private ~~~ ;
+0:
+1:
+2:List,369 Map,232 Set,60 ArrayList,38 Array,12 HashMap,9 LinkedList,8 Stack,7 SparseArray,7 ThreadLocal,6 AtomicReference,6 ConcurrentMap,4 Collection,4 ConcurrentLinkedQueue,4 ClassicCounter,3
+3:
+
+private volatile ### $$$ ;
+0:result,10 closed,7 name,5 closing,4 taskDone,4 state,4 response,3 lastSampleTimestampUs,3 isSleeping,3 cancelled,3 ex,3 subscription,3 value,3 namingConvention,3 url,2
+1:boolean,63 long,48 int,14 String,12 Throwable,8 Object,5 RequestPartitionResult,5 TeePrintStream,4 Thread,3 T,3 Exception,3 Subscription,3 NamingConvention,3 URL,2 HttpResponse,2
+2:
+3:
+
+private void ~~~ {
+0:
+1:
+2:init,62 add,25 check,22 validateModel,20 update,19 encode,18 evict,16 log,14 onMiss,14 resetAnimation,12 parse,11 write,11 reset,10 regular,10 process,9
+3:
+
+private void ~~~ throws ### {
+0:
+1:IOException,230 Exception,121 SQLException,24 BadBytecode,19 ParseException,14 CodegenException,13 InterruptedException,11 TwitterException,9 ChecksumException,8 JClassAlreadyExistsException,8 DocumentException,8 IllegalAccessException,6 DupEntryException,6 InvalidObjectException,5 JSONException,5
+2:init,17 writeObject,14 readObject,7 kill,6 reward,6 handleCollisions,6 reset,5 correctErrors,4 checkDecode,4 configureTest,4 checkNotClosed,4 checkOpen,4 advance,4 write,4 runTest,4
+3:
+
+private static void ~~~ {
+0:
+1:
+2:resetToFalse,10 test,9 checkLimit,9 record,7 check,6 sneakyThrow,6 assertEquals,6 checkEqual,5 testContainsAll,5 testContainsAny,5 testIntersect,5 testDifference,5 testSymmetricDifference,5 testUnion,5 testCount,5
+3:
+
+private static void ~~~ throws ### {
+0:
+1:IOException,97 Exception,15 ScriptException,8 SQLException,6 RunnerException,6 VirtualMachineException,3 MergeResult,2 BadBytecode,2 EOFException,1 InterruptedException,1 RequestProcessAdviceException,1 JMException,1 SecurityException,1 NotFoundException,1 Throwable,1
+2:search,5 json,4 write,4 testMergingMediaSourcePrepare,3 writeStatsMap,3 writeNormalizerStats,3 writeMinMaxStats,3 writeStrategy,3 writeNoStrategy,3 writeStandardizeStrategy,3 writeMinMaxStrategy,3 scanDirectory,3 deleteSchema,2 createSchema,2 performOperationsUsing,2
+3:
+
+private static final ~~~ ;
+0:
+1:
+2:Map,97 Set,27 ConcurrentMap,22 List,16 ThreadLocal,10 ConcurrentHashMap,10 Graph.Vertex,8 ArrayList,7 HashMap,5 Constant,4 Int2ObjectHashMap,2 EnumTypeHandler,2 CopyOnWriteArrayList,2 ClassLoaderWeakCache,2 Graph,2
+3:
+
+private static final ### $$$ = ~~~ ;
+0:logger,220 log,111 nativeFinalizerPtr,8 expectedObjectSchemaInfo,6 _unsafe,3 _Lbase,3 _Lscale,3 loggerWire,3 loggerNet,3 variablesToRemoveIndex,2 executorService,2 ip,2 version,2 nativeFinalizerMethodPtr,2 pattern,2
+1:Logger,741 LOGGER,282 Pattern,191 DateTimeZone,160 LOG,110 Log,102 Chronology,92 String,71 PARIS,68 LONDON,56 int,47 long,34 ImageIcon,32 TAG,19 byte[],19
+2:LoggerFactory.getLogger,553 Pattern.compile,190 Logger.getLogger,178 DateTimeZone.forID,154 LogFactory.getLog,31 Util.getIntegerCodeForString,27 Utils.openIcon,24 CopticChronology.getInstance,23 ISOChronology.getInstanceUTC,19 Redwood.channels,17 ISOChronology.getInstance,16 GregorianChronology.getInstance,11 System.getProperty,10 BuddhistChronology.getInstanceUTC,10 createByteArray,9
+3:
+
+private static final ### $$$ = new ~~~ ;
+0:instance,15 lock,11 usage,7 lf,5 mapper,5 duh,4 libzfs,3 me,3 om,3 nextIndex,2 emptyMap,2 emptySet,2 shutdownHookListener,2 dubboShutdownHook,2 seedUniquifier,2
+1:INSTANCE,39 Object,38 Period,24 AtomicLong,20 AtomicInteger,14 DecimalFormat,11 File,11 Locale,11 ObjectMapper,10 SimpleCommandExceptionType,10 DynamicCommandExceptionType,9 int,8 RANDOM_SEED,8 BitSet,8 FORMAT,8
+2:Object,38 Period,24 AtomicLong,20 AtomicInteger,14 DecimalFormat,12 File,11 Locale,11 SimpleDateFormat,10 ObjectMapper,10 SimpleCommandExceptionType,10 DynamicCommandExceptionType,9 Random,8 BitSet,8 Dynamic2CommandExceptionType,8 ReentrantReadWriteLock,7
+3:
+
+private static final ### $$$ = new $$$ ;
+0:int[ARRAY_SIZE],48 long[ARRAY_SIZE],32 int[256],23 double[ARRAY_SIZE],20 positive,16 longs,12 byte[0],9 factorials,8 positiveDoubles,8 nonnegative,8 ints,8 nonzero,8 slowFactorials,4 binomials,4 doubles,4
+1:int[],81 long[],32 double[],21 byte[],10 EMPTY,5 int[][],4 char[],4 byte[][],3 NO_INDEX_CHANGES,2 NO_BYTES,2 EMPTY_BYTE_ARRAY,2 long[][],2 INDEXES,2 RCON,2 FS,2
+2:
+3:
+
+private static final ### $$$ = - $$$ ;
+0:serialVersionUID,345 5851777807851030925L,6 4592979584110982903L,6 2935427570954647017L,6 2809475196591179431L,4 3029755663834015785L,4 1.2e55,4 4415279469780082174L,4 2142349338699797436L,3 7346385463600070225L,3 3517602651313910099L,3 1953724749712440952L,3 7650903191002190468L,3 8505586483570518029L,2 5167631809472116969L,2
+1:long,347 Double,4 D1,4 float,1 STEP_SIZE,1 UNAVAILABLE,1 double,1 MIN,1 MAX_VALUE,1
+2:
+3:
+
+private static final ### $$$ =
+0:serString,3 __DEFAULT_SOCKET_FACTORY,2 logger,2 getApplicationContextMethod,2 getTestInstanceMethod,2 setAttributeMethod,2 getAttributeMethod,2 algorithmAssertionMsg,2 german1,1 english1,1 english2,1 usage,1 log,1 base32Chars,1 base32Lookup,1
+1:String,74 Pattern,11 Method,8 int,6 Type,6 Signature,6 State,6 OLD_WHITESPACE_TABLE,4 double,4 long,4 LibraryLoader,3 LOADER,3 GAPLESS_COMMENT_PATTERN,3 Logger,3 KEY_FACTORY,3
+2:
+3:
+
+private static final ### $$$ = $$$ ;
+0:serialVersionUID,647 1L,247 false,54 true,21 0L,16 0.1,12 93872874L,8 delta,8 2L,7 multiplier,6 0x5DEECE66DL,6 addend,6 0xBL,6 4109457741734051389L,6 119L,6
+1:long,688 int,88 boolean,75 double,49 float,44 DEBUG,20 DELTA,9 Double,5 SPEED,4 D0,4 INPUTS_COUNT,4 INPUTS_MASK,4 NONNEGATIVE_LONG_MASK,4 ARRAY_SIZE,4 ARRAY_MASK,4
+2:
+3:
+
+private static final ### $$$ = ### ;
+0:__FIRST_OPTION,2 __LAST_OPTION,2 binaryFile,2 entity3,2 e1,2 e2,2 codingErrorAction,1 pdh,1 alice,1 bob,1
+1:int,48 String,11 DateTimeZone,9 UTC,9 DateTimeZone.UTC,9 Integer.MAX_VALUE,8 long,7 Level,6 ERROR_LIMIT,4 CHANNEL,4 PathInits,4 INITS,4 PathInits.DIRECT,4 Color.BLACK,4 Uri,3
+2:
+3:
+
+private static final ### $$$ = !!! ;
+0:serialVersionUID,34 minArgs,10 nodeId,4 auth0IssPayload,4 packagePath,4 dbPath,3 header310x11,2 header320x11,2 header310x13,2 header320x13,2 header310x15,2 header320x15,2 header310x17,2 header320x17,2 featureDir,2
+1:String,1678 int,1050 TAG,98 long,86 char,35 CLASS_NAME,24 FOO,21 SUB_TAG,18 NAME,13 STREAM_ID,12 TTF_FILE,11 float,11 FAKE_USER_ID,10 TEST_SIZE,10 byte,10
+2:
+3:"x",1720 1,137 0,114 2,88 10,77 3,60 4,47 5,36 1000,34 8,33 100,33 16,29 32,25 7,20 20,19
+
+private static final ### $$$ ;
+0:serBytes,3 usage,2 defaultOptions,2 threadLocalMapTableField,2 threadLocalMapEntryValueField,2 optionalEmptyMethod,2 streamEmptyMethod,2 intStreamEmptyMethod,2 doubleStreamEmptyMethod,2 longStreamEmptyMethod,2 completableFutureCompletedFutureMethod,2 fallbackMessagesMap,1 localLocale,1 arthasLogger,1 resultLogger,1
+1:VarHandle,29 Method,20 Field,17 String,11 boolean,5 long,5 TAIL,5 int,4 HEAD,4 Logger,3 UNSAFE,3 Constructor,3 byte[],3 SINGLETON,3 ANDROID_LOG_AVAILABLE,2
+2:
+3:
+
+private static class ### {
+0:
+1:ViewHolder,14 Foo,9 Model,7 Human,6 Place,6 LabelFactoryHolder,5 Constants,5 Entry,4 Params,4 StringWrapper,4 A,4 Entity,4 Sample,3 NestedClass,3 LazyHolder,3
+2:
+3:
+
+private static class ### implements ### {
+0:
+1:Evaluator,19 Runnable,15 LiteralAnalyzer,8 Executor,5 Serializable,5 QueuingExecutor,4 TestWatcher,4 ReleaserImpl,4 ObjectReleaser,4 UpstreamDataSource,3 DataSource,3 X509TrustManager,3 TokenHandler,3 JsonTemplate,3 java.io.FileFilter,3
+2:
+3:
+
+private static class ### extends ### {
+0:
+1:Testable,52 RuntimeException,7 OutputStream,7 ArrayAdapter,6 InputStream,5 IncomingHandler,4 Handler,4 CharSequenceCharSource,4 L,4 SpringLooper,4 CustomWebSocketAdapter,4 WebSocketAdapter,4 PathRef,4 SubCommand,4 TimeoutSource,4
+2:
+3:
+
+private static ### ~~~ {
+0:
+1:String,399 boolean,321 int,266 long,78 double,50 Object,49 byte[],45 int[],25 BigInteger,17 BitMatrix,16 String[],15 File,14 XStream,14 Method,13 char[],12
+2:get,14 config,14 indexOf,13 getLimitBytes,12 isEmpty,9 sqrtFloor,8 oldSlowFactorial,8 format,7 getMethod,7 getDifferingByteCount,6 lastIndexOf,6 getContext,6 createExpectedObjectSchemaInfo,6 invoke,6 hashCode,6
+3:
+
+private static ### ~~~ throws ### {
+0:
+1:IOException,75 Exception,32 String,22 byte[],12 Object,9 FakeDataSource,9 NormalizerStats,9 boolean,8 NotFoundException,7 long,7 NormalizerStrategy,6 Reflect,6 ReflectException,6 int,5 ParseException,3
+2:on,6 buildDataSource,3 buildFailingDataSource,3 buildLargeDataSource,3 createDefaultExtractorInput,3 parse,3 exc,3 readNormalizerStats,3 readDistributionStats,3 readMinMaxStats,3 readStrategy,3 readMinMaxStrategy,3 getMD5,2 toArray,2 estimateBlackPoint,2
+3:
+
+private static ### < ### > ~~~ {
+0:
+1:List,61 String,36 Optional,18 Set,16 Message,10 ArrayList,9 Stream,8 Object,7 Arguments,7 StreamKey,6 Iterable,4 Integer,3 Word,3 ImmutableList,3 Tag,3
+2:toStreamKeys,6 getResult,4 readAmfStrictArray,3 convertDatesToString,2 getRotations,2 getOrientationPoints,2 filterPrecedencePredicates,2 createThreadLocalNumberformat,2 getQualifierAnnotations,2 getIdleMessage,2 getFirstSentMessage,2 getError,2 getStringItems,2 copyParams,2 toEnumValues,2
+3:
+
+private static ### $$$ = ~~~ ;
+0:log,143 logger,41 c1,2 c2,2 finalizerPtr,2 adapter,2 groupKey,2 errorCallback,1 nativeOps,1 mBeanServer,1 acronymPattern,1 whitespacePattern,1 random,1 instance,1 version_pattern,1
+1:Logger,98 Redwood.RedwoodChannels,82 Log,17 Pattern,8 String,7 NestedClass,4 LOGGER,3 Charset,3 LOG,3 OS,2 long,2 MBeanServer,2 SENTINEL_CHARSET_NAME,2 SENTINEL_CHARSET,2 JSONAdapter,2
+2:LoggerFactory.getLogger,87 Redwood.channels,82 LogFactory.getLog,13 Pattern.compile,8 Logger.getLogger,6 LogUtil.getArthasLogger,4 get,4 Charset.forName,3 System.getProperty,2 nativeGetFinalizerPtr,2 ManagementFactory.getPlatformMBeanServer,2 SentinelConfig.charset,2 JSONFactory.getJSONAdapter,2 HystrixCommandGroupKey.Factory.asKey,2 GLFWErrorCallback.createPrint,1
+3:
+
+private static ### $$$ = !!! ;
+0:parameterLength,4 counter,4 modelFile,4 path,3 dataPath,3 trainDataPath,3 count,2 previousLogTime,2 responseMessageFieldSize,2 numberOfRule1InstancesCreated,2 numberOfRule2InstancesCreated,2 testPath,2 nextTypeId,2 size,2 preferenceName,2
+1:int,71 String,61 long,6 VIEW_MARGIN,3 RECYCLE_PERIOD,2 REALM_JAVA_TAG,2 BASE_MSG_ID,2 CRLF,2 PROCESS_DEFINITION_KEY,2 PROCESS_DEFINITION_KEY_2,2 PROCESS_DEFINITION_KEY_3,2 MAX_RADIUS,2 DEFAULT_DOWN_SAMPLING,2 NOTIFICATION_ID_DUMMY,2 CHANNEL_ID,2
+2:
+3:"x",61 0,26 1,7 1000,6 5,5 4,4 12,4 60000,2 100,2 3,2 20,2 10,2 2,2 5000,2 25,2
+
+private static ### $$$ ;
+0:instance,33 serializer,12 typeface,11 client,9 kernel,9 tomcat,8 legacyMapper,6 mapper,6 mockServerClient,6 context,5 handler,5 mediaDriver,4 aeron,4 currentIndex,4 echoServer,4
+1:String,30 Chronology,20 int,17 boolean,13 ObjectMapper,12 byte[],12 ITypeface,11 JULIAN,9 ISO,9 Tomcat,8 String[],6 INSTANCE,6 File,6 MockServerClient,6 LifecycleTestPresenter,5
+2:
+3:
+
+private native void ~~~ ;
+0:
+1:
+2:nativeEqual,10 allocateArray,9 nativeNotEqual,8 nativeGreater,6 nativeGreaterEqual,6 nativeLess,6 nativeLessEqual,6 nativeBetween,6 nativeStartListening,4 nativeStopListening,4 flacFlush,3 flacReset,3 flacRelease,3 nativeGroup,2 nativeEndGroup,2
+3:
+
+private final ~~~ ;
+0:
+1:
+2:Map,255 List,188 Set,65 ConcurrentMap,31 ArrayList,15 Deque,15 Queue,14 BlockingQueue,12 Stack,10 Array,9 AtomicReference,8 HashMap,8 Collection,6 Graph.Vertex,6 ConcurrentHashMap,5
+3:
+
+private final static ### $$$ = !!! ;
+0:k_smallGroup,1 storeName,1 hostname,1 costMilk,1 test1,1 zeroAddr,1
+1:byte,53 String,46 int,23 CONSTANT_Utf8,4 CONSTANT_Integer,4 CONSTANT_Float,4 CONSTANT_Long,4 CONSTANT_Double,4 CONSTANT_Class,4 CONSTANT_String,4 CONSTANT_Fieldref,4 CONSTANT_Methodref,4 CONSTANT_InterfaceMethodref,4 CONSTANT_NameAndType,4 DEFAULT_STACK_DEEP,3
+2:
+3:"x",46 1,8 12,7 5,7 16,6 9,5 4,5 10,5 3,4 6,4 7,4 8,4 11,4 2,3 50,2
+
+private final ### < ### > $$$ ;
+0:data,18 injectHelper,17 tags,12 values,11 listeners,10 queue,10 delegate,9 type,8 entries,7 directives,7 queuedInputBuffers,6 params,6 patterns,6 fields,6 children,6
+1:List,313 String,117 T,96 Set,53 Object,33 Collection,33 E,28 Class,27 Integer,22 Optional,22 InjectHelper,17 Converter,17 ArrayDeque,14 Node,13 Iterable,12
+2:
+3:
+
+private final ### < ### , ### > $$$ ;
+0:redis,15 mapper,13 map,11 variables,10 properties,8 connection,8 cache,7 mMemoryCache,6 metadata,5 delegate,5 clients,4 accounts,4 adjacentNodeValues,4 generator,4 executionVariables,4
+1:String,229 Map,160 Object,74 V,33 K,31 Function,27 T,26 Integer,23 HashMap,12 Cursor,12 Long,11 E,10 RedisCommands,9 RedisClusterCommands,6 LruCache,6
+2:
+3:
+
+private final ### $$$ = ~~~ ;
+0:logger,12 aeron,9 termAtt,6 offsetAtt,6 fromAddress,6 typeAtt,5 termBuffer,5 start,4 columnMutableRealmInteger,4 scratch,4 log,4 positionAttr,4 toAddress,4 executor,3 listener,3
+1:Logger,23 Pattern,19 byte[],11 long,10 String,10 Aeron,9 UnsafeBuffer,7 ByteBuffer,6 EWMA,6 CharTermAttribute,6 OffsetAttribute,6 LOGGER,5 PositionIncrementAttribute,5 TypeAttribute,5 Font,5
+2:mock,35 addAttribute,23 LoggerFactory.getLogger,20 Pattern.compile,19 PublicMethed.getFinalAddress,10 Aeron.connect,9 Executors.newSingleThreadExecutor,5 System.currentTimeMillis,4 ByteBuffer.allocate,4 spy,4 String.format,4 getClass,4 state,3 Json.mapper,3 LongCounterFactory.create,3
+3:
+
+private final ### $$$ = new ~~~ ;
+0:lock,23 count,11 context,11 monitor,10 buffer,7 server,7 registry,7 scheduler,6 tmp,6 base64Converter,6 started,6 encoder,5 decoder,5 repository,5 number,4
+1:AtomicBoolean,38 AtomicInteger,33 AtomicLong,30 Object,30 TextBox,19 LongAdder,14 RectF,12 Vector3f,11 UnsafeBuffer,9 Paint,9 ReentrantLock,8 StatsAccumulator,8 IntArray,7 StringBuilder,7 BooleanProperty,7
+2:AtomicBoolean,38 AtomicInteger,33 AtomicLong,30 Object,30 TextBox,19 LongAdder,14 ReentrantLock,13 UnsafeBuffer,13 RectF,12 Vector3f,11 Paint,9 StatsAccumulator,8 ReentrantReadWriteLock,8 IntArray,7 StringBuilder,7
+3:
+
+private final ### $$$ = !!! ;
+0:resourceName,4 threshold,4 attribute,2 bucketSpace,2 maxDataEntrySize,2 cacheName,2 a,1 b,1 type,1 trainExtension,1 testExtension,1 devExtension,1 flatExtension,1 bwAlefChar,1 parentTagString,1
+1:int,181 String,63 SUB_TAG,13 long,10 float,3 STEP,3 SSTORE,3 ZEROSTEP,3 QUICKSTEP,3 FASTESTSTEP,3 FASTSTEP,3 MIDSTEP,3 SLOWSTEP,3 EXTSTEP,3 BALANCE,3
+2:
+3:"x",64 3,15 0,14 20,12 10,11 4,10 1,9 5,8 2,6 8,6 5000,6 375,6 200,4 300,3 1000000,3
+
+private final ### $$$ ;
+0:name,176 value,123 type,81 id,58 delegate,52 key,52 context,50 logger,41 path,31 url,30 data,30 message,30 description,27 parent,27 config,26
+1:String,1136 int,698 boolean,321 long,275 Object,107 UUID,98 byte[],74 double,73 int[],48 Context,44 T,44 Boolean,42 Integer,35 File,33 Type,33
+2:
+3:
+
+private ### ~~~ {
+0:
+1:boolean,793 String,545 int,349 Object,111 long,91 double,91 byte[],50 float,35 File,28 int[],23 String[],21 Method,16 double[],16 ByteBuffer,16 Comparator,16
+2:jj,188 readResolve,38 toIndentedString,35 toString,14 getKey,13 getPhysicsSpace,11 expectFailureWhenTestingThat,11 indexOf,9 getTableName,9 createInverse,8 add,8 validate,8 b3,8 get,8 writeReplace,7
+3:
+
+private ### ~~~ throws ### {
+0:
+1:IOException,148 String,58 Exception,50 boolean,35 int,21 GeneratorException,18 Object,17 NoSuchMethodException,12 NoSuchAlgorithmException,11 InterruptedException,10 byte[],10 Method,10 JsonNode,10 InputStream,7 SQLException,7
+2:decode,5 getTelField,4 finishLine,4 processConstantPoolEntry,4 getMethodSignatures,4 load,4 getLongitudeField,3 getLatitudeField,3 getNext,3 readResolve,3 read,3 parse,3 readString,3 field0,3 exactMethod,3
+3:
+
+private ### < ? > $$$ ;
+0:callerClazz,26 targetClass,26 clazz,15 constructor,5 notDoneFuture,4 jobRunnerClass,4 valueType,4 future,3 keyType,3 handler,2 type,2 typeHandler,2 iter,2 target,2 builder,2
+1:Class,92 Constructor,7 ScheduledFuture,5 Facade,4 Iterator,3 List,3 Replier,2 TypeHandler,2 DynamicType.Builder,2 TypeInformation,2 Sketch,1 Collection,1 ArrayList,1 Callable,1 CollQuery,1
+2:
+3:
+
+private ### < ### > ~~~ {
+0:
+1:List,141 String,84 Set,42 Optional,31 T,24 Object,17 ArrayList,17 Collection,14 AllJavaTypes,10 Integer,10 OrderedRealmCollection,8 Stream,7 Node,7 JavaFileObject,6 RealmCollection,6
+2:createCollection,8 takeNotification,5 createEmptyCollection,4 getAllOption,4 method,4 getSuffixes,4 findMatches,4 loadItems,4 getItems,4 getResult,3 getCallFlags,3 getServer,3 uniqueSortedKeys,2 startThreads,2 allCommands,2
+3:
+
+private ### < ### > $$$ ;
+0:list,29 children,18 collection,17 controller,12 columnRealmList,10 items,9 columnStringList,8 columnBinaryList,8 columnBooleanList,8 columnLongList,8 columnDoubleList,8 columnFloatList,8 columnDateList,8 values,8 activationFunction,8
+1:List,471 String,283 RealmList,273 Set,114 Integer,91 ArrayList,67 T,66 ParameterSpace,60 Double,58 byte[],45 Object,40 Boolean,38 Long,37 Collection,33 java.util.List,31
+2:
+3:
+
+private ### < ### , ### > $$$ ;
+0:map,21 extParams,10 properties,9 params,7 headers,6 tags,6 internalExtParams,6 parameters,5 index,5 mapToTest,4 forward,4 mock,4 values,4 storeTxLogEngine,4 dataBlockEngine,4
+1:String,332 Map,204 Integer,47 V,29 K,28 Object,28 HashMap,14 Boolean,12 java.util.Map,12 Long,9 Element,8 LoadingCache,8 byte[],8 Double,7 Function,7
+2:
+3:
+
+private ### $$$ = ~~~ ;
+0:logger,14 step,13 objectMapper,6 charset,5 connectTimeout,5 id,4 timeout,4 config,4 meterTimeToLive,3 configRefreshFrequency,3 configTimeToLive,3 readTimeout,3 pollingFrequency,3 client,3 node1,3
+1:Duration,54 String,24 Logger,15 long,11 int,10 RedisClusterNode,10 Charset,6 ObjectMapper,6 ItemIdValue,4 Long,4 NottableString,4 DimenHolder,3 ByteBuffer,3 RuleFactory,3 Config,3
+2:Duration.ofMinutes,22 Duration.ofSeconds,21 mock,20 LoggerFactory.getLogger,14 createNode,13 Duration.ofMillis,10 System.getProperty,9 System.currentTimeMillis,7 ObjectMapperFactory.createObjectMapper,6 UUID.randomUUID,4 Color.rgb,4 Charset.forName,4 string,4 DimenHolder.fromDp,3 ByteBuffer.allocate,3
+3:
+
+private ### $$$ = null ;
+0:zone,37 originalDateTimeZone,35 originalLocale,33 originalTimeZone,31 description,13 locale,10 value,9 name,7 url,6 channelFull,6 blockingStubFull,6 id,5 listener,5 channelSolidity,5 blockingStubSolidity,5
+1:String,155 DateTimeZone,72 Locale,46 Boolean,34 TimeZone,31 Integer,22 ManagedChannel,13 Drawable,11 String[],11 Long,10 Object,9 Operation,8 WalletGrpc.WalletBlockingStub,8 T,6 Date,6
+2:
+3:
+
+private ### $$$ = new ~~~ ;
+0:sql,10 lock,9 registry,8 counter,6 pathMatcher,6 headers,5 timer,4 columnDate,4 fieldDateNotNull,4 createdAt,4 updatedAt,4 line,4 compressor,4 actionSpace,4 rule,4
+1:AtomicLong,76 StringBuilder,26 Date,22 AtomicBoolean,19 Vector3f,18 Vector2,15 AtomicInteger,14 StringCounter,9 StackAggregator,8 ReentrantReadWriteLock,7 DecimalFormat,7 MeterRegistry,7 SimpleDateFormat,6 Properties,6 Paint,6
+2:AtomicLong,76 StringBuilder,26 Date,22 AtomicBoolean,19 Vector3f,18 Vector2,15 AtomicInteger,14 StringCounter,9 SimpleDateFormat,8 ReentrantReadWriteLock,8 StackAggregator,8 DecimalFormat,7 SimpleMeterRegistry,7 AntPathMatcher,6 Properties,6
+3:
+
+private ### $$$ = - !!! ;
+0:index,6 mark,5 term,5 port,4 endPosition,3 hc,3 prevIndex,3 nextIndex,3 entryIndex,3 version,3 intIndex,2 stringIndex,2 segmentCount,2 fileSize,2 timestamp,2
+1:int,152 long,45 short,4 float,3 Integer,1
+2:
+3:1,202 99,2 5,1
+
+private ### $$$ =
+0:onDrop,4 onRemove,4 ssProfile,2 borderColor,2 mBorderColor,2 german2,1 applicationThreadDeframer,1 contextString,1 frameWriter,1 serverSet,1
+1:long,145 TEST_TIME_NOW,54 TEST_TIME2,37 TEST_TIME1,35 DragSortListView.DropListener,4 ColorStateList,4 String,2 TEST_TIME_NOW_UTC,2 TEST_TIME_NOW_LONDON,2 TEST_TIME1_UTC,2 TEST_TIME1_LONDON,2 TEST_TIME1_PARIS,2 TEST_TIME2_UTC,2 TEST_TIME2_LONDON,2 TEST_TIME2_PARIS,2
+2:
+3:
+
+private ### $$$ = $$$ ;
+0:false,661 true,320 0.0,39 enabled,38 0L,15 closed,11 mRunning,9 1f,9 dirty,8 hasNext,7 1.0f,7 0.f,7 compatibleSerialization,7 0.0f,6 0f,6
+1:boolean,954 float,74 double,61 Boolean,28 long,27 int,24 Double,8 Long,6 Float,5 Sort,4 DEFAULT_SCALE_INITIAL,4 PrintStream,3 AllopatricLoginMode,2 IREnabled,2 int[],2
+2:
+3:
+
+private ### $$$ = ### ;
+0:state,10 ignoredChars,9 rateUnits,8 durationUnits,8 status,8 enabled,7 length,6 min,6 max,6 protocol,5 type,5 addressingMode,4 color,4 charset,4 mInitialScaleX,4
+1:int,149 String,54 long,38 boolean,38 float,36 TimeUnit,22 DEFAULT_SCALE_INITIAL,16 double,15 LogLevel,14 LogLevel.INFO,12 TimeUnit.SECONDS,11 TimeUnit.MILLISECONDS,10 Integer.MIN_VALUE,10 IgnoredChars,9 IgnoredChars.EMPTY,9
+2:
+3:
+
+private ### $$$ = !!! ;
+0:index,20 size,20 i,16 port,16 name,15 host,13 count,12 start,10 value,10 age,8 key,8 prefix,7 offset,7 position,7 cursor,7
+1:int,584 String,346 long,74 float,63 Integer,56 double,33 Byte,4 Short,4 char,3 IRFrameRate,2 M,1 CharSequence,1 byte,1 K,1 START_ANIMATION_DURATION,1
+2:
+3:0,466 "x",350 1,56 10,24 100,23 2,14 5,13 1000,12 32,10 64,10 10000,9 60,9 11,8 500,8 4,8
+
+private ### $$$ ;
+0:id,481 name,366 value,178 type,132 data,132 key,63 size,62 description,57 url,54 count,54 realm,50 status,49 context,49 listener,47 b,45
+1:String,4134 int,2133 boolean,1137 Integer,1000 long,748 Long,457 float,366 double,221 Float,218 Object,187 byte[],163 Date,155 Boolean,153 File,105 Double,97
+2:
+3:
+
+private ### $$$ , $$$ ;
+0:first,6 second,5 m,4 left,4 right,4 minRange,3 maxRange,3 userTopicProbs,3 userTopicSumProbs,3 startX,2 startY,2 font,2 smallFont,2 x,2 y,2
+1:float,20 int,13 TypeDescription.Generic,11 TypeDescription,7 DenseMatrix,7 double,6 INDArray,4 double[][][],3 BitmapFont,2 Stmt,2 AgentBuilder.RawMatcher,2 TypeWriter.MethodPool.Record,2 QCat,2 RowSequentialAccessSparseMatrix,2 VectorBasedDenseVector,2
+2:
+3:
+
+package $$$ ;
+0:hudson.model,88 com.google.common.collect.testing.google,84 org.joda.time,80 twitter4j,70 com.google.common.math,68 com.alibaba.json.bvt.parser,66 com.badlogic.gdx.tests,66 com.google.common.collect,65 io.realm,64 com.querydsl.apt.domain,58 io.reactivex.internal.operators.flowable,55 com.amazonaws.services.iot.model,54 com.sun.jna.platform.win32,51 com.google.common.io,50 org.bytedeco.javacpp.indexer,48
+1:
+2:
+3:
+
+new ~~~ {
+0:
+1:
+2:AbstractIterator,46 Thread,29 Parcelable.Creator,21 Runnable,20 Fiber,18 ConstructorFunction,16 Callable,12 Converter,10 MongoOperation,10 Function,9 CacheLoader,8 ThreadLocal,6 Comparator,6 Predicate,6 Correspondence,6
+3:
+
+new ~~~ ;
+0:
+1:
+2:TimeOfDay,44 LocalTime,37 DateTime,33 BufferedImage,29 DateMidnight,27 YearMonthDay,27 MutableDateTime,27 LocalDateTime,24 LocalDate,24 MockServerRequestEncoder,24 Random,23 Partial,23 SecureRandom,23 MockServerResponseEncoder,23 SuccessCommand,22
+3:
+
+new ~~~
+0:
+1:
+2:ByteBuddy,31 StyleableToast.Builder,20 EqualsTester,16 FakeExtractorInput.Builder,12 FixedSizeThumbnailMaker,9 PeriodFormatterBuilder,6 Runner,6 ScaledThumbnailMaker,5 MockPlan,4 NetworkRequest.Builder,3 DashTestRunner,3 TestRunnable,3 ProcessBuilder,3 Option,3 JsonObject,2
+3:
+
+new ~~~ ,
+0:
+1:
+2:TimeZoneInfo,64 Color,23 TestRunnable,12 Graph.Edge,9 Font,9 SimpleDateFormat,8 MockPlan,8 PropertyFilter,7 Dish,7 CallbackInfo,7 Geometry,5 Document,4 ExponentialSchedule,4 InverseSchedule,4 PolySchedule,4
+3:
+
+import static $$$ ;
+0:org.junit.Assert.assertEquals,666 org.assertj.core.api.Assertions.assertThat,363 org.junit.Assert.assertTrue,345 org.junit.Assert.assertThat,246 org.junit.Assert.fail,208 org.hamcrest.MatcherAssert.assertThat,204 org.mockito.Mockito.mock,191 org.hamcrest.CoreMatchers.is,168 org.junit.Assert.assertFalse,165 org.mockito.Mockito.when,164 org.junit.Assert.assertNotNull,152 com.google.common.truth.Truth.assertThat,151 com.google.common.base.Preconditions.checkNotNull,131 org.junit.Assert.assertNull,110 org.mockito.Mockito.verify,109
+1:
+2:
+3:
+
+import static $$$ * ;
+0:org.junit.Assert.,350 org.mockito.Mockito.,109 org.hamcrest.Matchers.,74 org.hamcrest.CoreMatchers.,51 org.assertj.core.api.Assertions.,22 org.junit.jupiter.api.Assertions.,20 org.hamcrest.MatcherAssert.,15 org.junit.Assume.,10 org.hswebframework.web.oauth2.core.ErrorType.,10 org.apache.commons.lang3.StringUtils.,10 org.bytedeco.opencv.global.opencv_core.,10 org.killbill.billing.invoice.TestInvoiceHelper.,10 org.bytedeco.javacpp.opencv_core.,8 org.bytedeco.javacpp.opencv_imgproc.,7 io.restassured.RestAssured.,7
+1:
+2:
+3:
+
+import static ### ;
+0:
+1:com.google.common.collect.testing.features.CollectionSize.ZERO,88 com.google.common.collect.testing.features.MapFeature.ALLOWS_NULL_KEYS,52 com.google.common.collect.testing.features.MapFeature.ALLOWS_NULL_VALUES,48 java.nio.charset.StandardCharsets.UTF_8,45 com.google.common.collect.testing.features.MapFeature.SUPPORTS_REMOVE,40 com.google.common.collect.testing.features.MapFeature.SUPPORTS_PUT,36 com.google.common.collect.testing.features.MapFeature.ALLOWS_NULL_KEY_QUERIES,36 com.google.common.math.MathBenchmarking.ARRAY_MASK,36 com.google.common.math.MathBenchmarking.ARRAY_SIZE,36 com.argusapm.android.Env.TAG,31 com.google.common.math.MathBenchmarking.RANDOM_SOURCE,28 com.argusapm.android.Env.DEBUG,28 com.google.common.collect.testing.features.CollectionSize.ONE,24 com.google.common.collect.testing.features.MapFeature.ALLOWS_NULL_VALUE_QUERIES,24 com.google.common.collect.testing.features.CollectionSize.SEVERAL,20
+2:
+3:
+
+import $$$ ;
+0:lombok.val,96 com.simplecity.amp_library.R,58 com.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder,26 com.simplecityapps.recycler_adapter.model.BaseViewModel,24 com.simplecity.amp_library.model.Song,22 uk.co.real_logic.sbe.PrimitiveType,19 com.simplecity.amp_library.ui.adapters.ViewType,18 com.jwetherell.algorithms.data_structures.Graph,14 org.java_websocket.WebSocket,12 org.java_websocket.WebSocketImpl,12 com.simplecity.amp_library.ShuttleApplication,12 com.simplecity.amp_library.utils.SettingsManager,12 com.bumptech.glide.load.engine.bitmap_recycle.BitmapPool,11 org.java_websocket.drafts.Draft,10 org.java_websocket.exceptions.InvalidDataException,10
+1:
+2:
+3:
+
+import $$$ * ;
+0:java.util.,529 java.io.,190 io.reactivex.,166 org.reactivestreams.,71 java.util.concurrent.atomic.,44 com.badlogic.gdx.physics.bullet.linearmath.,41 javax.swing.,32 java.awt.,32 org.junit.,32 java.lang.reflect.,27 water.,26 org.spockframework.util.,26 org.spockframework.runtime.model.,26 io.reactivex.internal.util.,23 net.librec.math.structure.,23
+1:
+2:
+3:
+
+import ### ;
+0:
+1:java.util.List,4307 org.junit.Test,2581 java.util.Map,2373 java.util.ArrayList,2356 java.io.IOException,2311 java.util.Arrays,1319 java.util.HashMap,1172 java.util.Set,1092 java.util.Collections,1062 java.util.Collection,936 java.io.File,870 org.junit.Before,842 java.io.Serializable,736 org.slf4j.LoggerFactory,649 org.slf4j.Logger,645
+2:
+3:
+
+if ( ~~~ || ~~~ ) {
+0:
+1:
+2:status.equals,16 className.startsWith,8 line.startsWith,6 StringUtils.isBlank,5 this.isUnparseable,5 other.isUnparseable,5 isEmpty,5 rawText.startsWith,4 codec.startsWith,4 Double.isNaN,4 Double.isInfinite,4 opt.equals,4 lowerCaseSystemId.contains,4 format.toLowerCase,4 r.namedActions.containsKey,4
+3:
+
+if ( ~~~ instanceof ### ) {
+0:
+1:CoreLabel,4 HasTag,4 BackPressHandler,4 PrimitiveException,4 IconicsDrawable,3 BoundaryEvent,3 LambdaExpr,3 DL4JConfiguration,2 HasWord,2 ChangedTermValue,2 SubProcess,2 SubSelect,2 PostgreSQL82Dialect,2 Callback,2 TypeElement,2
+2:getParentNode,14 e.getCause,9 sentence.get,9 getActivity,9 handledFlowElements.get,3 execution.getCurrentFlowElement,3 getDialect,3 e.getValue,3 result.getCandidate,2 viewHolder.arrow.getDrawable,2 tagNode.label,2 term.getValue,2 callbacks.get,2 t.asElement,2 httpResponse.getBody,2
+3:
+
+if ( ~~~ > !!! ) {
+0:
+1:
+2:sb.length,32 paras.size,22 url.getParameter,16 list.size,9 buf.length,8 conjChildren.size,8 this.size,8 paramsList.size,7 results.size,6 message.length,6 values.size,6 buffer.remaining,6 element.length,6 tokens.size,5 result.size,5
+3:0,390 1,116 2,11 64,7 3,5 100,4 9,3 4,3 150,2 20,2 253,2 128,2 63,1 12,1 255,1
+
+if ( ~~~ == null ^ ~~~ == null )
+0:
+1:
+2:other.getNextToken,29 this.getNextToken,29 other.getMaxResults,15 this.getMaxResults,15 other.getName,9 this.getName,9 other.getTags,6 this.getTags,6 other.getStatus,5 this.getStatus,5 other.getArn,5 this.getArn,5 other.getCreationDate,5 this.getCreationDate,5 other.getAccelerationSettings,4
+3:
+
+if ( ~~~ == null ) {
+0:
+1:
+2:getItem,7 context.get,6 getProcessingEnvironment,6 task.getExecutionId,6 appContext.getExecutingJobQueue,6 getBitmapFromMemCache,6 upstream.get,4 entity.getSortIndex,4 entry.getValue,4 getAsBinary,4 expression.getTimeAfter,4 getPath,4 getDomain,4 listenerMap.putIfAbsent,4 getLatitudeField,3
+3:
+
+if ( ~~~ == $$$ ) {
+0:false,13 Object.class,11 type,8 Phased.before,6 pc,4 ttype,4 desiredIndex,4 ISpockMockObject.class,4 clazz,3 index,3 maximumSize,3 x,3 limit,3 void.class,3 studentId,2
+1:
+2:item.getItemId,11 view.getId,10 method.getDeclaringClass,9 m.getDeclaringClass,7 context.getDefinition,6 str.charAt,5 symbol.getType,4 escapeIndexes.get,4 v.getId,4 method.getReturnType,4 compoundButton.getId,4 it.next,3 truncated.size,3 student.getStudentId,2 mi.getLockedStackDepth,2
+3:
+
+if ( ~~~ == ### ) {
+0:
+1:TERMINATED,16 JsonToken.NULL,11 ANTLRParser.PLUS_ASSIGN,10 DataBuffer.AllocationMode.HEAP,5 JDBCType.VARCHAR,4 FieldValueInfo.CompleteValueType.OBJECT,4 AbstractInsnNode.TYPE_INSN,4 Opcodes.NEW,4 AbstractInsnNode.METHOD_INSN,4 OperationStatus.SUCCESS,4 DataBuffer.Type.DOUBLE,4 JSONToken.LITERAL_STRING,3 ElementKind.FIELD,3 JsonReader.Token.NULL,3 MotionEvent.ACTION_DOWN,3
+2:labelAST.parent.getType,10 reader.peek,9 subscribers.get,8 observers.get,8 insn.getType,7 in.peek,5 lexer.token,4 column.getJdbcType,4 oInstruction.getType,4 nInstruction.getType,4 jsonParser.getCurrentToken,4 get,3 message.getEncryption,3 getContext,3 response.status,3
+3:
+
+if ( ~~~ == !!! ) {
+0:
+1:
+2:strVal.length,26 decrementAndGet,15 elements.size,13 str.charAt,11 getAndIncrement,11 buffer.remaining,11 buffer.limit,9 wip.getAndIncrement,8 values.count,8 str.length,8 type.getGenericArgumentTypes,8 exprList.length,8 oredCriteria.size,8 list.size,7 peek,7
+3:0,364 1,153 "x",77 2,17 200,2 3,2 4,2 10,2 5,1 207,1 12,1 27,1 7,1
+
+if ( ~~~ < !!! ) {
+0:
+1:
+2:retval.longValue,18 code.length,6 rawInformation.length,6 compare,5 buffer.remaining,4 c.compare,4 base.compareTo,4 string.length,3 key.length,2 context.getNewEncoding,2 contents.length,2 comp.compare,2 data.get,2 article.optInt,2 result.length,2
+3:0,70 2,23 1,12 64,7 4,7 3,4 8,4 "x",1 6,1 100,1 30,1 5,1 40,1
+
+if ( ~~~ ) {
+0:
+1:
+2:StringUtils.isNotEmpty,206 StringUtils.isEmpty,152 jj,90 StringUtils.isBlank,86 StringUtils.isNotBlank,86 readModule,80 json.has,80 processEngineConfiguration.getHistoryLevel,74 SubscriptionHelper.validate,72 match.find,72 proxyState.isUnderConstruction,70 context.testExpression,63 CollectionUtils.isNotEmpty,60 logger.isDebugEnabled,58 isEmpty,58
+3:
+
+if ( ~~~ ) return $$$ ;
+0:true,292 false,18 i,5 d,3 emitter,2 s,2 existing,2 e,2 t,2 ds,2 f,2 index,2 data,2 o,2 element,1
+1:
+2:jj,234 chk2.set,5 comparator.equals,4 filter.select,4 address.equals,4 super.onTransact,4 identifierSet.excludes,3 collection.isEmpty,3 challenge.scheme,2 o.equals,2 key,2 s.equals,2 opnd.eval,2 visitedStates.contains,2 d.name.equals,2
+3:
+
+if ( ~~~ )
+0:
+1:
+2:ends,40 match.find,38 isRunning,25 l.targetType.isInstance,15 isSendClosed,14 StrKit.isBlank,14 Nd4j.getExecutioner,12 LOGGER.isLoggable,10 line.isEmpty,10 Debug.isDebug,10 dataMap.containsKey,7 v.getViewName,6 os.equals,6 file,6 this.tags.containsKey,6
+3:
+
+if ( ~~~ && ~~~ ) {
+0:
+1:
+2:isFinite,24 StringUtils.isNotEmpty,17 StringUtils.isNotBlank,10 hasLength,8 EnumDict.class.isAssignableFrom,6 xtr.isStartElement,6 ELEMENT,6 node.has,5 file.isFile,5 document.containsKey,5 HighLevelEncoder.isDigit,4 StringUtils.hasText,4 type.isEnum,4 left.isNumberNode,4 right.isNumberNode,4
+3:
+
+if ( ~~~ != ~~~ ) {
+0:
+1:
+2:obj.getClass,76 getClass,74 this.getClass,6 Float.floatToIntBits,6 o.hashCode,5 bitMatrix.get,4 this.hashCode,4 size,4 other.size,4 getRangeDurationField,4 nextField.getDurationField,4 Double.doubleToLongBits,4 labelso.size,4 labelsn.size,4 getLongField,4
+3:
+
+if ( ~~~ != null ) {
+0:
+1:
+2:element.element,15 getTypeface,8 getCurrentCommandExecution,8 config.getListener,8 environment.getApplication,8 System.getProperty,7 error.get,6 element.getAnnotation,6 remoting.getChannelEventListener,6 getDialog,6 getVREnvironment,6 getHandler,5 filtered.getPaths,5 t.getStatePointer,4 prop.getIndex,4
+3:
+
+if ( ~~~ != null )
+0:
+1:
+2:getNextToken,29 getMaxResults,15 getHandler,10 getName,9 getTags,6 getParent,5 getStatus,5 getArn,5 getCreationDate,5 server,4 getAccelerationSettings,4 getQueue,4 getSettings,4 getStatusUpdateIntervalInSecs,4 getDescription,4
+3:
+
+if ( ~~~ != null && ~~~ == $$$ )
+0:false,415
+1:
+2:other.getNextToken,58 other.getMaxResults,30 other.getName,18 other.getTags,12 other.getStatus,10 other.getArn,10 other.getCreationDate,10 other.getAccelerationSettings,8 other.getQueue,8 other.getSettings,8 other.getStatusUpdateIntervalInSecs,8 other.getDescription,8 other.getId,8 other.getResourceArn,8 other.getCertificateId,8
+3:
+
+if ( ~~~ != ### ) {
+0:
+1:JsonToken.NULL,35 DisposableHelper.DISPOSED,16 View.GONE,6 Long.MIN_VALUE,4 HEADER_ID,3 TYPE_OGGS,3 Requirements.NETWORK_TYPE_NONE,3 ID3_TAG,3 ApplicationType.Android,3 PackageManager.PERMISSION_GRANTED,3 AudioManager.RINGER_MODE_NORMAL,2 AsyncTask.Status.FINISHED,2 ElementKind.PARAMETER,2 GT,2 EOF,2
+2:reader.peek,35 get,11 getAndSet,7 child.getVisibility,6 Gdx.app.getType,4 ContextCompat.checkSelfPermission,4 dataScratch.readInt,3 scratch.readUnsignedInt,3 requirements.getRequiredNetworkType,3 scratch.readUnsignedInt24,3 resource.get,3 audioService.getRingerMode,2 outstandingTask.getStatus,2 element.getKind,2 x.nextToken,2
+3:
+
+if ( ~~~ != !!! ) {
+0:
+1:
+2:getAndIncrement,19 sb.length,11 b.length,5 Float.compare,5 collection.size,5 map.size,5 error.getErrorCode,5 javaImpl.compare,4 unsafeImpl.compare,4 data.labelIndex.size,4 builder.length,4 data.remaining,3 children.size,3 field.getGeneratorBase,2 dotsAndXs.charAt,2
+3:0,138 1,20 "x",13 2,13 4,5 200,5 16,3 3,3 500,2 10,1 64,1
+
+if ( this == $$$ ) {
+0:o,590 obj,172 other,9 object,9 that,4 inputObject,2 this.previous,1 duration,1 readableInstant,1 readableInterval,1 partial,1 period,1 _root,1 thatObject,1
+1:
+2:
+3:
+
+if ( this == $$$ ) return $$$ ;
+0:true,311 o,292 obj,15 other,2 object,1 jsonNode,1
+1:
+2:
+3:
+
+if ( this == $$$ )
+0:obj,153 o,39 type,2
+1:
+2:
+3:
+
+if ( null == $$$ ) {
+0:toast,18 obj,13 user,13 article,12 old,6 comment,6 this.tags,6 dividerConfig,5 loggerFactory,5 liveness,4 result,4 context,4 id,4 properties,4 this.preferenceMatrix,4
+1:
+2:
+3:
+
+if ( null != $$$ ) {
+0:user,10 mAttacher,8 parent,5 userToken,5 strategy,4 authentication,4 type,4 blob,3 cl,3 toast,3 superClass,2 loader,2 relation,2 ret,2 visitsCookie,2
+1:
+2:
+3:
+
+if ( ( ) != !!! ) {
+0:
+1:
+2:
+3:0,150
+
+if ( $$$ instanceof ### ) {
+0:value,192 obj,144 o,90 object,82 type,58 jv,44 target,33 node,33 container,28 t,27 e,26 result,25 v,25 element,23 mask,22
+1:String,108 Number,97 ParameterizedType,32 Map,29 Integer,28 List,26 Boolean,25 Class,24 byte[],19 Collection,19 BigDecimal,19 Object[],18 JSONArray,17 Expression,15 JSONObject,14
+2:
+3:
+
+if ( $$$ instanceof ### )
+0:obj,23 type,10 t,9 data,5 m,5 node,5 appContext,5 pv,3 v,3 background,3 value,3 ex,3 e,3 array,3 light,2
+1:org.codehaus.jettison.json.JSONArray,6 org.codehaus.jettison.json.JSONObject,6 IComplexNDArray,6 HabitsApplication,5 ParameterizedType,4 String,4 Constructor,4 DelegatingEquals,4 ViewGroup,3 TextView,3 RippleDrawable,3 InvocationTargetException,3 MultiType,3 AbsTypeVar,3 DirectionalLight,2
+2:
+3:
+
+if ( $$$ >= $$$ ) {
+0:i,21 index,20 size,15 pos,14 end,14 mPosition,12 mLimit,10 len,9 count,8 state,8 mSize,6 least,6 bound,6 currentDepth,6 cachedObject.minDepth,6
+1:
+2:
+3:
+
+if ( $$$ >= !!! ) {
+0:i,21 count,10 index,10 g,8 format,7 n,6 b,6 p,6 len,5 startCol,5 shift,4 position,4 fID,4 f,4 stacktrace.length,4
+1:
+2:
+3:0,194 2,20 1,11 3,8 5,7 4,6 10,6 8,4 32,4 7,2 6,2 64,2 18,2 16,1 400,1
+
+if ( $$$ > $$$ ) {
+0:0.0,21 value,19 size,14 max,14 len,12 length,10 newcount,9 1f,9 x,9 score,8 min,8 tot,7 start,7 maxWidth,7 buffer.length,6
+1:
+2:
+3:
+
+if ( $$$ > !!! ) {
+0:i,135 len,48 args.length,32 size,19 count,17 index,16 k,15 n,14 x,12 length,12 pad,8 timeout,7 read,7 a,7 bytesRead,7
+1:
+2:
+3:0,736 1,80 2,19 5,12 3,7 64,4 1000,4 255,4 4,3 9,3 "x",3 15,3 62,2 31,2 50,2
+
+if ( $$$ > !!! )
+0:kind,30 i,21 canvasSize,8 fc,5 size,4 array[i],4 base,4 iter,3 len,2 c,2 bc,2 prob,2 mAlpha,2 vH,2 hue,2
+1:
+2:
+3:0,81 1,11 255,7 21,6 7,6 10,6 13,3 20,2 19,2 9,2 14,2 16,2 8,2 "x",2 127,2
+
+if ( $$$ == null || ~~~ ) {
+0:values,10 name,7 list,6 nearest,6 tokens,6 value,5 cli,4 type,4 this.intervals,4 scope,4 fieldGlobPattern,4 tags,3 v,3 scoredTrees,3 filter,3
+1:
+2:values.isEmpty,10 list.isEmpty,6 tokens.isEmpty,6 name.isEmpty,5 isWindowDeprecated,5 cli.isHidden,4 type.isInstance,4 this.intervals.isEmpty,4 scope.isEmpty,4 fieldGlobPattern.isEmpty,4 tags.isEmpty,3 nearest.before,3 nearest.after,3 scoredTrees.isEmpty,3 keys.isEmpty,3
+3:
+
+if ( $$$ == null || ~~~ != ~~~ ) {
+0:o,309 obj,53 other,3 that,2 object,2 oldValue,1 thatObject,1
+1:
+2:getClass,368 o.getClass,309 obj.getClass,53 other.getClass,3 this.getClass,2 that.getClass,2 object.getClass,2 oldValue.getClass,1 newValue.getClass,1 thatObject.getClass,1
+3:
+
+if ( $$$ == null || ~~~ != ~~~ ) return $$$ ;
+0:false,221 o,214 obj,6 other,1
+1:
+2:getClass,215 o.getClass,214 obj.getClass,6 this.getClass,5 other.getClass,1 dis.getClass,1
+3:
+
+if ( $$$ == null || ! ~~~ ) {
+0:other,19 obj,6 c,2 value,2 parent,2 fp,2 interruptHandler,2 suspendHandler,2 set,2 innerIt,2 reciprocalLinks,2 fileTypedResource,2 file,2 v,2 resource,2
+1:
+2:getClass,6 QAWarning.class.isInstance,3 WbItemDocumentExpr.class.isInstance,3 WikibaseSchema.class.isInstance,3 c.isOpen,2 HEX,2 parent.mkdirs,2 fp.isAlive,2 interruptHandler.deliver,2 suspendHandler.deliver,2 set.remove,2 innerIt.hasNext,2 m.find,2 reciprocalLinks.contains,2 EntityIdValue.class.isInstance,2
+3:
+
+if ( $$$ == null ) {
+0:value,357 obj,141 o,111 result,91 name,64 url,54 node,54 item,51 v,49 type,48 list,47 array,47 key,42 logger,39 listener,36
+1:
+2:
+3:
+
+if ( $$$ == null ) throw new ~~~ ;
+0:e,8 item,7 type,6 text,6 url,4 c,4 list,3 map,3 protoMember,3 result,2 route,2 response,2 scheme,2 request,2 message,2
+1:
+2:NullPointerException,55 IllegalArgumentException,32 IllegalStateException,9 FileNotFoundException,3 RuntimeException,3 GdxRuntimeException,3 NotFoundException,2 H2OColumnNotFoundArgumentException,1 java.util.NoSuchElementException,1 Error,1
+3:
+
+if ( $$$ == null ) return null ;
+0:in,12 data2,6 obj,6 node,5 children,5 data,4 s,4 dfa.s0,4 bucket,4 key,4 iterable,4 elements,4 l,3 p,3 input,3
+1:
+2:
+3:
+
+if ( $$$ == null )
+0:obj,163 value,15 token,15 strs,14 os,14 v,12 m,11 mRippleManager,11 s,10 p,10 unit,9 node,8 provider,8 mData,7 className,7
+1:
+2:
+3:
+
+if ( $$$ == - !!! ) {
+0:index,26 read,10 bytesRead,10 id,9 size,9 result,7 i,6 pos,5 count,5 foundIdx,5 port,5 mark,4 nRead,4 dividend,4 digit,4
+1:
+2:
+3:1,257 2,3 99,1
+
+if ( $$$ == $$$ ) {
+0:c,51 i,50 type,43 clazz,29 widget,24 id,23 index,22 value,22 target,19 position,17 j,16 max,15 b,14 node,14 key,13
+1:
+2:
+3:
+
+if ( $$$ == $$$ )
+0:i,19 false,14 l,12 1f,12 rippleManager,11 k,8 mAnimProgress,7 progress,7 isInTransaction,6 isTrue,6 bitIndex,6 true,5 f,4 k0,4 tail,4
+1:
+2:
+3:
+
+if ( $$$ == ### ) {
+0:level,72 type,46 result,27 state,21 status,18 mode,17 c,13 a,13 stackType,13 opcode,13 metaValue,11 len,10 lS,10 rS,10 mRunState,10
+1:Float.NEGATIVE_INFINITY,34 TERMINATED,13 Integer.MAX_VALUE,12 Extractor.RESULT_SEEK,12 Status.OK,12 SystemMetaObject.NULL_META_OBJECT,11 NULL_ARRAY_LENGTH,10 C.RESULT_END_OF_INPUT,9 C.TIME_UNSET,9 FileType.Internal,9 StackType.FILTER,9 VARIABLE_LENGTH,8 NONE,8 RUN_STATE_STARTING,8 Long.MAX_VALUE,7
+2:
+3:
+
+if ( $$$ == ### )
+0:level,48 type,11 attr,11 mRunState,6 mState,6 mMode,5 heightMode,3 l,2 playMode,2 pretrainedType,2 feat,2 mRippleType,2 result,2 overflowPolicy,2 newState,2
+1:RUN_STATE_STARTING,4 STATE_RELEASE_ON_HOLD,4 Level.ALL,4 Level.TRACE,4 Level.DEBUG,4 Level.INFO,4 Level.WARN,4 Level.ERROR,4 MeasureSpec.EXACTLY,4 FileType.Absolute,3 Float.NEGATIVE_INFINITY,3 MODE_UP,3 Long.MIN_VALUE,2 PretrainedType.IMAGENET,2 MeasureSpec.AT_MOST,2
+2:
+3:
+
+if ( $$$ == !!! ) {
+0:c,73 i,60 len,55 result,52 count,47 length,45 n,35 size,32 ch,19 rem,18 a,18 s.length,14 parts.length,13 values.length,13 status,13
+1:
+2:
+3:0,921 1,219 "x",151 2,63 3,18 4,13 7,9 8,8 200,8 5,7 10,6 255,5 13,5 6,4 126,3
+
+if ( $$$ == !!! )
+0:curChar,23 types.length,12 i,9 c,6 fa.length,6 errorCode,5 length,5 week,5 decompiler,4 resId,4 bufferLength,4 arrayShape.length,4 File.pathSeparatorChar,3 uid,3 args.length,3
+1:
+2:
+3:0,135 1,29 "x",14 36,5 3,5 7,5 61,3 92,3 47,2 13,2 69,2 24,2 2,2 35,1 46,1
+
+if ( $$$ <= !!! ) {
+0:n,24 c,16 len,12 i,12 size,9 mTransformDuration,6 timeoutMillis,6 x,5 score,4 m,4 longValue,4 waitTime,3 repeat,3 remaining,3 av,3
+1:
+2:
+3:0,160 1,15 "x",8 20,8 127,6 31,4 33,4 9,3 2,2 40,2 160,2 320,2 863,2 6,2 18,2
+
+if ( $$$ < $$$ ) {
+0:len,26 i,23 index,22 d,19 min,17 value,16 n,15 count,14 0f,14 args.length,12 0x80,10 start,9 1f,9 minArgs,9 number,9
+1:
+2:
+3:
+
+if ( $$$ < !!! ) {
+0:i,31 index,27 x,21 len,20 j,14 off,11 value,10 n,9 size,9 result,9 length,8 position,8 read,8 number,8 args.length,8
+1:
+2:
+3:0,455 1,42 10,23 2,16 4,11 3,9 64,7 16,7 "x",4 500,4 30,4 5,4 100,4 6,3 32,3
+
+if ( $$$ < !!! )
+0:i,5 index,4 bufferLength,4 valueLength,4 r,4 idx,4 old,3 len,3 batchSize,3 first,3 c,2 numConcurrentWrite,2 newSize,2 h,2 diff,2
+1:
+2:
+3:0,117 1,21 "x",5 2,5 3,3 20,2 10,2 1582,1 64,1 4,1 9,1 128,1 30,1 6,1
+
+if ( $$$ ) {
+0:inOrStatement,82 done,81 swigCMemOwn,42 first,37 b,27 enableColor,26 success,26 debugTime,24 invertIcons,24 typeIsNullable,22 closed,20 empty,20 verbose,20 op.testOptions.verbose,19 cancelled,18
+1:
+2:
+3:
+
+if ( $$$ )
+0:emulateIsAbsent,36 mReverse,14 mIsRtl,8 done,7 GroovyCompletionTypes.debug,7 collectTrace,6 checkValidity,6 mCircular,5 initialized,5 true,5 waitFor,5 initialize,5 basicCheck,4 receiveClosed,4 oneSkipped,4
+1:
+2:
+3:
+
+if ( $$$ $$$ $$$ != null ) {
+0:realmGet,112 $,112 firstName,8 lastName,8 columnDate,4 columnBinary,4 columnMutableRealmInteger,4 fieldStringNotNull,4 fieldStringNull,4 fieldBooleanNotNull,4 fieldBooleanNull,4 fieldBytesNotNull,4 fieldBytesNull,4 fieldByteNotNull,4 fieldByteNull,4
+1:
+2:
+3:
+
+if ( $$$ != null ? ! ~~~ : $$$ != null ) {
+0:id,155 that.id,149 data,80 that.data,80 name,20 str1,17 that.str1,17 accountId,15 that.accountId,13 objectId,12 that.name,11 that.objectId,11 numVal,10 id1,9 id2,9
+1:
+2:id.equals,155 data.equals,80 name.equals,20 str1.equals,17 accountId.equals,15 objectId.equals,12 numVal.equals,10 id1.equals,9 id2.equals,9 tagDefinition.equals,8 description.equals,7 value.equals,7 note.equals,7 type.equals,7 str.equals,6
+3:
+
+if ( $$$ != null ? ! ~~~ : $$$ != null ) return $$$ ;
+0:false,183 name,12 title,10 uri,8 identity,6 that.identity,6 simple.name,5 path,5 otherPath,5 tableName,5 otherTableName,5 that.name,5 copyright,4 media.copyright,4 format,4
+1:
+2:name.equals,12 title.equals,10 uri.equals,8 identity.equals,6 path.equals,5 tableName.equals,5 copyright.equals,4 format.equals,4 persons.equals,4 value.equals,4 url.equals,4 username.equals,3 x.equals,3 y.equals,3 images.equals,2
+3:
+
+if ( $$$ != null ) ~~~ ;
+0:train,19 model,17 score,10 input,6 value.name,5 listener,4 factLB,4 _next,4 fileOut,4 zipIn,4 in,4 out,4 action,3 right,3 tTrain,3
+1:
+2:train.delete,21 model.delete,17 sb.append,13 score.delete,10 children.add,9 builder.append,7 input.close,6 name,5 features.incrementCount,4 pwErr.print,4 jgen.writeStringField,4 fileOut.close,4 zipIn.close,4 in.close,4 out.close,4
+3:
+
+if ( $$$ != null ) {
+0:value,132 listener,82 result,64 parent,51 context,48 v,38 message,34 reply,33 type,31 locationAwareLogger,30 in,30 visitor,30 callback,29 file,28 ex,28
+1:
+2:
+3:
+
+if ( $$$ != null )
+0:other.name,27 nv,19 m,17 preProcessor,15 mDrawable,14 t,13 s,10 v,8 forgetGateBiasInit,8 other.value,7 value,7 flightRecorder,7 recorder,7 resolved,7 mOnTimeChangedListener,6
+1:
+2:
+3:
+
+if ( $$$ != null && ~~~ > !!! ) {
+0:iterationListeners,6 backup,4 country,4 area,4 number,4 extensionNumber,4 valueIterationListeners,4 policyIterationListeners,4 values,4 list,3 stops,3 recommendedList,3 repliers,2 map,2 config,2
+1:
+2:iterationListeners.size,6 backup.length,4 country.length,4 area.length,4 number.length,4 extensionNumber.length,4 valueIterationListeners.size,4 policyIterationListeners.size,4 values.size,4 list.size,3 stops.size,3 recommendedList.size,3 repliers.size,2 map.size,2 config.length,2
+3:0,141 1,3
+
+if ( $$$ != null && ~~~ ) {
+0:token,11 transientVariabes,9 value,6 o,5 mimeType,4 currentIterator,4 type,4 element,4 foundOrder,4 cur.data,4 subtype,4 lb,3 str,3 arg,3 v2,3
+1:
+2:StringUtils.isNotEmpty,12 transientVariabes.containsKey,9 token.isText,6 currentIterator.hasNext,4 type.isArray,4 foundOrder.getStatus,4 cur.data.containsKey,4 spec.isAnnotationPresent,4 subtype.equals,4 lb.equals,3 str.equals,3 v2.equals,3 demoDocument.exists,3 channel.isOpen,3 StringUtils.isNotBlank,3
+3:
+
+if ( $$$ != null && $$$ != null ) {
+0:start,16 end,16 value,7 str,6 key,5 name,5 next,4 tint,4 tintMode,4 prev,3 userId,3 algorithm,3 method,3 service,2 processor,2
+1:
+2:
+3:
+
+if ( $$$ != null && ! ~~~ ) {
+0:value,7 que,6 password,5 listeners,4 name,4 ch,4 parent,4 cls,4 connection,3 runs,3 var,3 classORrestrictions,3 instanceList,3 pattern,3 file,3
+1:
+2:que.isEmpty,6 Files.exists,4 cls.isEmpty,4 listeners.contains,3 name.isEmpty,3 password.isEmpty,3 runs.remove,3 this.classORrestrictions.isEmpty,3 instanceList.isEmpty,3 field.type,3 TextUtils.isEmpty,3 authToken.trim,3 orderByElements.isEmpty,3 p.isEmpty,2 key.isEmpty,2
+3:
+
+if ( $$$ != - !!! ) {
+0:result,12 colorFilter,12 index,9 i,6 pos,6 max,6 indexToDifferAt,4 id,4 prevHighSurrogate,4 indexOfP,4 idx,3 decodedValue,2 dot,2 previousStop,2 ndx,2
+1:
+2:
+3:1,123
+
+if ( $$$ != $$$ ) {
+0:i,27 j,18 expected,18 0L,17 actual,14 id,14 mCurrentStyle,14 style,14 0.0,13 longField,13 that.longField,13 type,12 a.length,12 b.length,12 objectType,11
+1:
+2:
+3:
+
+if ( $$$ != $$$ ) return $$$ ;
+0:false,251 id,21 size,13 width,10 height,9 canRead,6 that.canRead,6 canUpdate,6 that.canUpdate,6 canDelete,6 that.canDelete,6 canSetPermissions,6 that.canSetPermissions,6 canQuery,6 that.canQuery,6
+1:
+2:
+3:
+
+if ( $$$ != $$$ )
+0:result,48 check,48 age,12 other.age,12 buffer,9 this.buffer,9 status,4 other.status,4 female,4 other.female,4 male,4 other.male,4 p1,4 other.p1,4 p2,4
+1:
+2:
+3:
+
+if ( $$$ != ### ) {
+0:listType,22 bytesRemaining,15 type,13 mState,11 state,10 eno,9 value,7 v,6 o,6 lastSampleTimestampUs,6 dataSpec.length,6 currentSortOrder,6 m,6 d,6 this.direction,6
+1:C.LENGTH_UNSET,21 DisposableHelper.DISPOSED,12 XAttr.ERANGE,9 STATE_OUT,7 Format.NO_VALUE,6 C.TIME_END_OF_SOURCE,6 C.TIME_UNSET,6 NONE,6 Integer.MAX_VALUE,6 Direction.NONE,6 SINK_NODE,5 NA,5 InternalThreadLocalMap.UNSET,4 Level.OFF,4 BINARY_LIST,4
+2:
+3:
+
+if ( $$$ != !!! ) {
+0:swigCPtr,42 i,35 args.length,16 mStyleId,14 word,13 count,11 result,11 x,10 fallback,10 ch,8 c,7 patArr[i],6 mapType,6 retval,6 compare,6
+1:
+2:
+3:0,393 1,31 "x",27 2,25 3,7 4,5 5,2 200,2 32,2 32769,2 7,1 500,1 14,1
+
+if ( $$$ != !!! )
+0:value,16 mStyleId,14 l,13 testRound,10 numerator,9 i,6 this.minRange,3 resId,3 test,3 affectedRow,3 stdevs[fID],2 first,2 shadowColor,2 bfi,2 bfactor,2
+1:
+2:
+3:0,114 1,5 2,4 69,1
+
+if ( ### ) {
+0:
+1:DEBUG,245 Env.DEBUG,73 VERBOSE,11 OLD_JDK,10 SubLoader.DEBUG_LOADING,6 HASH_ARRAY,5 DUMMY_NODE_ALGORITHM,5 TestAll.FAST,4 IREnabled,4 WRITE_DUMP,3 Scheduler.DEBUG,3 Symphonys.ALGOLIA_ENABLED,3 Symphonys.ES_ENABLED,3 BuildConfig.DEBUG,3 ADD_LINE_NUMBERS,2
+2:
+3:
+
+if ( !!! ~~~ ) {
+0:
+1:
+2:
+3:"x",256
+
+if ( ! ~~~ ) {
+0:
+1:
+2:super.equals,60 file.exists,30 hasNext,28 TextUtils.isEmpty,23 element.isInstanceOf,20 hasLength,18 pageNums.isEmpty,18 analyticsEnabled,18 isDisposed,17 validation.isValid,16 dir.exists,15 isInEditMode,15 StringUtils.isEmpty,14 isEmpty,14 json.isNull,14
+3:
+
+if ( ! ~~~ ) return $$$ ;
+0:false,216 file,2 node,1
+1:
+2:runTests,40 testJavaCollection,30 name.equals,12 super.equals,11 Arrays.equals,10 testJavaMap,10 validate,7 ModelComponent.areEqualInModel,6 type.equals,4 this.containsFast,4 feature.isExcluded,4 table.equals,4 properties.equals,3 identity.equals,2 tag.equals,2
+3:
+
+if ( ! ~~~ )
+0:
+1:
+2:Arrays.equals,23 hasNext,19 isInEditMode,14 isComplete,13 line.equals,10 times.containsKey,9 props.containsKey,9 queue,8 longCalls.containsKey,6 isEligible,6 isRunning,6 cons,6 it.hasNext,5 file.exists,5 running.get,5
+3:
+
+if ( ! ( ) ) {
+0:
+1:
+2:
+3:
+
+if ( ! ( ) ) return $$$ ;
+0:false,141
+1:
+2:
+3:
+
+if ( ! $$$ ) {
+0:b,89 success,23 done,21 showAlbumArt,18 result,17 initialized,17 found,15 logStackTraces,12 allowNulls,12 isValid,12 isFirstCondition,12 mSloppyGesture,12 valid,11 started,10 ok,10
+1:
+2:
+3:
+
+if ( ! $$$ )
+0:destroyed,85 enabled,14 afterOfRule1WasExecuted,5 afterOfRule2WasExecuted,5 found,4 saveData,4 suppressOutput,4 expand,3 wasAdded,2 exist,2 autoTimestamp,2 edgesSizeEquals,2 firstTimeThru,2 hourDefined,1 mLocationDirty,1
+1:
+2:
+3:
+
+for ( final ### $$$ : $$$ ) {
+0:cur,18 connectionPoolListeners,8 value,7 follow,6 host,5 hosts,5 key,4 keys,4 followings,4 user,4 users,4 f,3 record,3 records,3 values,3
+1:String,31 JSONObject,21 ConnectionPoolListener,8 Object,7 T,4 File,4 ClusterListener,3 ClassInfo,3 ModelInstance,2 Tree,2 VariableMapping,2 Suggestion,2 EthereumListener,2 EntitlementContext,2 Field,2
+2:
+3:
+
+for ( ; ; ) {
+0:
+1:
+2:
+3:
+
+for ( ### < ### > $$$ : $$$ ) {
+0:c,10 row,8 table,8 matcher,6 matchers,6 as,6 a,5 p,5 topK,5 ts,5 multiCol,5 array,4 result,4 results,4 nodePatterns,4
+1:T,50 List,33 String,19 Counter,8 ScoredObject,8 Tree,8 Integer,7 Matcher,6 Future,6 Collection,6 Mention,4 Set,4 IntervalData,4 O,4 Consumer,4
+2:
+3:
+
+for ( ### < ### , ### > $$$ : ~~~ ) {
+0:entry,314 e,79 en,7 p,6 current,5 t,4 param,4 pair,3 stringExpressionEntry,3 sent,3 fe,3 r,2 element,2 innerEntry,2 propertyPair,2
+1:String,406 Map.Entry,322 Entry,166 Object,136 Integer,64 K,43 V,42 NottableString,16 T,14 JsonElement,12 Pair,11 MutableInt,9 byte[],9 Element,8 AtomicDouble,8
+2:map.entrySet,47 getMap,16 attrs.entrySet,15 map.getAll,12 properties.entrySet,12 record.getColumns,12 values.entrySet,11 getSampleElements,8 conf.entrySet,8 properties.getConfigs,6 cache.asMap,5 filtered.getPaths,5 clients.entrySet,4 multimap.entries,4 parameters.entrySet,4
+3:
+
+for ( ### < ### , ### > $$$ : $$$ ) {
+0:entry,34 entries,19 pair,17 e,15 bucket,14 p,13 list,10 pairs,9 states,7 values,7 f,6 firsts,6 s,6 seconds,6 t,6
+1:String,64 Pair,50 K,49 V,47 Entry,36 INDArray,21 Map.Entry,20 Integer,14 Map,12 Job,9 T,8 S,8 Object,8 DFSAState,7 Long,7
+2:
+3:
+
+for ( ### $$$ = !!! ; $$$ <= $$$ ; $$$ ++ ) {
+0:i,176 iter,96 numIterations,36 j,15 columnCount,14 iterationStep,12 k,9 loc,9 m,8 diff,6 l,6 n,5 length,5 index,4 x,3
+1:int,115 short,1 long,1
+2:
+3:1,83 0,29 2,4 4,1
+
+for ( ### $$$ = !!! ; $$$ < ~~~ ; ++ $$$ ) {
+0:i,336 j,15 index,9 ix,6 p,3 pos,3 rank,3 r,3 uvLayer,3
+1:int,127
+2:paramsList.size,10 array.size,4 input.length,4 data.getDoubleCount,3 data.getFloatCount,3 data.getIntegerCount,3 data.getLongCount,3 skeleton.getBoneCount,3 pairs.size,2 dotsAndXs.length,2 substring.length,2 inString.length,2 localePart.length,2 str.length,2 subtrees.size,2
+3:0,119 1,7 2000,1
+
+for ( ### $$$ = !!! ; $$$ < ~~~ ; $$$ ++ ) {
+0:i,2520 j,165 x,126 y,99 index,42 k,33 e,27 f,15 count,9 n,9 c,9 error1,6 altIndex,6 cIndex,6 z,6
+1:int,1042 Integer,4 long,2 short,2
+2:array.getSize,24 s.length,14 size,14 testset.size,14 parameters.size,13 logList.size,12 word.length,12 str.length,11 row.length,10 getChildCount,10 imageIn.getWidth,9 list.size,8 array.length,7 params.size,7 Math.min,7
+3:0,1009 1,41
+
+for ( ### $$$ = !!! ; $$$ < $$$ ; ++ $$$ ) {
+0:i,963 var4,71 j,60 length,28 l,27 col,27 row,24 var3,22 userIdx,21 len,17 n,16 reps,16 k,16 array.length,15 slice,15
+1:int,438 long,2 byte,1
+2:
+3:0,432 1,8 2,1
+
+for ( ### $$$ = !!! ; $$$ < $$$ ; $$$ ++ ) {
+0:i,10482 j,1147 n,799 reps,617 k,418 length,371 x,252 size,252 factorIdx,177 y,159 len,141 r,117 c,110 numFactors,110 f,108
+1:int,5014 long,73 short,5 byte,1
+2:
+3:0,4950 1,138 2,2 12,1 24,1 100,1
+
+for ( ### $$$ = !!! ; $$$ < $$$ ; $$$ ++ )
+0:i,720 j,52 k,42 x,21 len,18 c,18 size,17 y,15 n,12 r,12 factorIdx,12 data.length,9 iter,9 numFactors,8 length,7
+1:int,308 short,1
+2:
+3:0,295 1,13 2,1
+
+for ( ### $$$ = !!! ; $$$ < ### ; $$$ ++ ) {
+0:i,750 j,120 y,51 x,45 n,21 z,15 t,12 c,12 k,9 bitIndex,6 e,6 iteration,6 attempt,3 spin,3 b,3
+1:int,354 ARRAY_SIZE,42 NON_NULL_TEST_SIZE,24 NUM_MB,24 RUN_LIMIT,21 BannerNum,16 N,11 WIDTH,10 ITERATIONS,10 SIZE,9 COLLECTION_SIZE,8 TEST_SIZE,6 NUM_ITERATIONS,6 BOXCOUNT_X,5 BOXCOUNT_Y,5
+2:
+3:0,351 1,6
+
+for ( ### $$$ = !!! ; $$$ < !!! ; $$$ ++ ) {
+0:i,1995 j,276 x,192 y,66 k,27 i1,18 e,18 size,12 index,12 w,12 d,9 iter,9 n,9 col,6 testIterations,6
+1:int,876 long,24 byte,3 short,2 char,2
+2:
+3:0,843 100,121 10,109 3,80 2,72 4,60 5,46 1000,41 1,39 6,34 20,30 8192,24 8,22 16,20 256,19
+
+for ( ### $$$ : ~~~ ) {
+0:key,134 field,58 method,54 child,52 c,49 value,41 listener,37 v,34 s,32 l,30 node,29 k,28 item,26 type,26 arg,25
+1:String,333 Method,51 Object,51 int,47 K,45 Field,40 Element,34 Node,34 BlockNode,28 Type,26 char,23 Icon,22 Expression,20 File,19 Vector3i,18
+2:sampleKeys,36 values,28 Icon.values,22 entry.getValue,18 spec.getListeners,18 all,17 getChildList,16 map.keySet,13 mth.getBasicBlocks,13 Jenkins.getInstance,11 keySet,11 region.getSubBlocks,9 sortedTimes.keySet,9 Arrays.asList,9 node.get,9
+3:
+
+for ( ### $$$ : $$$ ) {
+0:listener,186 value,163 listeners,155 keys,117 element,104 o,100 key,95 values,87 f,87 c,84 s,80 item,78 stream,77 list,69 delegates,66
+1:String,853 Object,234 int,210 File,99 MatrixEntry,77 Integer,69 T,67 PrintStream,66 Vector.VectorEntry,63 Hasher,56 double,56 Element,56 Tree,56 StreamListener,56 Method,54
+2:
+3:
+
+for ( ### $$$ : $$$ )
+0:ip,12 data,11 t,10 i,10 p,9 d,9 attributes,8 f,7 label,7 m,6 s,6 ips,6 uniqueIps,6 rows,6 phone,6
+1:String,57 int,31 AttributeInfo,8 double,7 T,6 Object,5 long,5 byte[],5 ClassData,5 DataRenderer,4 Mesh,4 View,3 LabelAtomProperty,3 float,3 FreeStyleProject,3
+2:
+3:
+
+finally { ~~~ ; }
+0:
+1:
+2:close,81 jj,35
+3:
+
+finally {
+0:
+1:
+2:
+3:
+
+final ~~~ ;
+0:
+1:
+2:List,238 Map,110 Set,62 ArrayList,26 Graph.Edge,18 AtomicReference,13 Vertex,13 Graph.Vertex,11 Edge,10 Graph,9 TestSubscriber,7 SortedMap,7 CompletableFuture,7 WeightedValue,7 Queue,6
+3:
+
+final class ### {
+0:
+1:Node,5 BitMatrixParser,4 Util,4 SeekPoints,3 ExoPlayerMessage,3 NettyHelper,2 Helper,2 InactivityTimer,2 EncoderContext,2 EANManufacturerOrgSupport,2 BitArrayBuilder,2 FieldParser,2 Codeword,2 PDF417CodewordDecoder,2 PDF417ErrorCorrection,2
+2:
+3:
+
+final ### < ? super ### > $$$ ;
+0:downstream,128 predicate,13 onAfterNext,5 onAfterSuccess,4 collection,2 onDrop,2 onSubscribe,2 observer,1 filter,1 child,1
+1:T,128 Subscriber,41 MaybeObserver,30 SingleObserver,29 Observer,27 Predicate,14 Consumer,13 R,12 Long,9 ConditionalSubscriber,3 Boolean,3 U,2 Collection,2 K,2 Disposable,2
+2:
+3:
+
+final ### < ### > $$$ = ~~~ ;
+0:result,38 pageNums,17 localFuture,12 items,10 results,9 tokens,8 users,7 actual,7 v,7 f,6 list,6 values,6 baseEntitlementWithAddOnsSpecifiers,6 iterator,5 records,5
+1:List,257 String,79 Integer,70 Set,43 T,40 JSONObject,32 Object,29 Collection,24 Iterator,18 X509Certificate,17 Facade,16 Iterable,15 DisabledDuration,13 ArgumentCaptor,12 CommandNode,12
+2:ImmutableList.of,19 Paginator.paginate,17 impl.newFacade,16 ArgumentCaptor.forClass,12 mock,12 CollectionUtils.jsonArrayToList,10 test.build,10 CertificateUtils.filterValid,10 blockingStateDao.getBlockingAllForAccountRecordId,8 ir.getMessage,8 DNSUtil.prioritize,8 LinkedHashSet.of,6 vertices.get,6 entitlementApi.getAllEntitlementsForBundle,6 invoiceUserApi.insertExternalCharges,6
+3:
+
+final ### < ### > $$$ ;
+0:source,46 parent,19 other,11 upstream,10 data,9 queue,7 otherObserver,4 mainSubscription,3 current,3 mainDisposable,3 constructor,2 observerRef,2 observers,2 otherDisposable,2 buffer,2
+1:T,76 AtomicReference,27 List,14 MaybeSource,13 Disposable,12 SingleSource,11 Subscription,10 Object,10 U,10 ObservableSource,10 Flowable,9 Publisher,9 Node,9 Long2ObjectMap,6 Set,5
+2:
+3:
+
+final ### < ### , ### > $$$ = ~~~ ;
+0:map,57 dataModel,34 result,13 cache,9 props,8 actual,8 node,8 expected,6 schemas,4 number2numberMap,4 pathParams,4 properties,3 builder,3 model,2 models,2
+1:String,184 Map,161 Integer,47 Type,46 Object,38 Schema,21 K,11 V,11 Cache,9 Node,9 Number,8 DataWord,4 ImmutableMap.Builder,3 Pair,2 SortedMap,2
+2:parseTestXmlWithMap,46 renderer.getDataModel,34 LinkedHashMap.of,10 CacheBuilder.newBuilder,8 model.getProperties,8 ModelConverters.getInstance,7 map.replace,6 WebXmlUtils.getServletInitParams,6 WebXmlUtils.getFilterInitParams,6 mapOf,5 data.get,5 result.pathParams,4 ImmutableMap.builder,3 codec.toMap,2 get,2
+3:
+
+final ### $$$ = ~~~ ;
+0:result,171 startDate,136 targetDate,130 endDate,79 request,67 res,47 account,44 currentUser,42 value,38 name,37 c,35 response,35 now,35 retval,33 expectedValue,32
+1:String,915 int,703 LocalDate,398 JSONObject,273 long,175 UUID,143 boolean,85 BigDecimal,76 Entitlement,73 Object,68 HttpServletRequest,64 byte[],62 Account,48 double,41 RealmList,40
+2:invoiceUtil.buildDate,356 UUID.randomUUID,115 mock,77 entitlementApi.getEntitlementForId,63 Sessions.getUser,59 context.getRequest,57 createAccount,45 currentUser.optString,41 articleRepository.get,39 CalendarDay.from,36 entitlementApi.createBaseEntitlement,36 requestJSONObject.optString,34 tokens.get,32 clock.getUTCNow,31 Endpoint.of,30
+3:
+
+final ### $$$ = new ~~~ ;
+0:sb,129 reader,69 in,42 initialDate,41 spec,37 renderer,36 builder,32 mapper,26 srcBuffer,23 tagDefinition,22 request,21 filtered,19 result,17 server,17 test,17
+1:StringBuilder,196 LocalDate,85 StringReader,67 PlanPhaseSpecifier,56 JSONObject,52 AbstractFreeMarkerRenderer,34 DisabledDuration,34 AtomicInteger,32 UnsafeBuffer,30 File,29 Scanner,23 TagDefinition,22 CountDownLatch,21 OAuthRequest,21 DateTime,21
+2:StringBuilder,196 LocalDate,85 StringReader,67 PlanPhaseSpecifier,56 JSONObject,52 SkinRenderer,34 DisabledDuration,34 AtomicInteger,32 UnsafeBuffer,30 File,29 DefaultHttpHeaders,24 Scanner,23 DefaultTagDefinition,22 CountDownLatch,21 OAuthRequest,21
+3:
+
+final ### $$$ =
+0:testXmlString,58 result,8 drl,6 yaml,5 expected,4 expectedRegex,4 monthly,4 weekly,4 params,4 ppe,4 httpData1,4 json,2 input,2 builder,2 out,2
+1:String,91 DateRangeIndex,11 MonthPagerAdapter.Monthly,4 RecyclerView.LayoutParams,4 DefaultPathMapping,4 ByteBufHttpData,4 io.netty.handler.codec.http.HttpHeaders,3 Environment,2 DiscoveryConfig,2 DialogInterface.OnCancelListener,1 ReportEntry,1 IntSupplier,1 HttpURLConnection,1 Message,1 Greeting,1
+2:
+3:
+
+final ### $$$ = ( ) ~~~ ;
+0:user,15 result,12 isLoggedIn,11 c,10 pageCount,9 mantissa,8 list,7 mojo,6 exponent,6 listView,5 connection,5 property,4 message,4 updatedSlave,3 ip,3
+1:int,19 JSONObject,16 EncodedDataType,14 DateTime,12 boolean,11 Schema,11 CompositeType,10 NodeList,7 String,6 IntegerSchema,6 char,5 ListView,5 SubscriptionBase,5 Connection,5 Message,4
+2:context.attr,12 dataModel.get,11 model.getProperties,10 map.get,10 Math.ceil,9 properties.get,8 Channels.getHttpSessionAttribute,7 xPath.compile,7 lookupMojo,6 session.getAttribute,5 random.nextInt,4 view.findViewById,4 entitlementApi.getEntitlementForId,4 decimal.getType,4 decimal32.getType,4
+3:
+
+final ### $$$ = ( ) $$$ ;
+0:that,110 o,109 obj,53 other,47 listener,10 mapListener,10 t,7 src,6 rawSrc,6 dst,6 rawDst,6 m,4 value,4 bits,4 d,4
+1:EncodedDataType,4 int,3 Message,3 PrimitiveNode,3 D,3 Customer,2 Student,2 AllTypesColumnInfo,2 BooleansColumnInfo,2 NamePolicyMixedClassSettingsColumnInfo,2 NamePolicyModuleDefaultsColumnInfo,2 NullTypesColumnInfo,2 SimpleColumnInfo,2 SomeLanguages,2 EntityIdValue,2
+2:
+3:
+
+final ### $$$ = $$$ ;
+0:monitor,40 this.monitor,36 false,25 view,24 holder.itemView,24 controlTag,22 items,18 this.items,18 lock,16 this.lock,16 s,11 0L,9 localData,8 data,8 localStrategy,8
+1:int,87 Monitor,40 float,39 boolean,35 long,34 View,26 E[],18 String,16 ReentrantLock,16 double,9 Executor,8 CountingRunnable,8 Long,6 Drawable,6 BOXOFFSET_Y,5
+2:
+3:
+
+final ### $$$ = $$$
+0:result,141 command,141 newInstance,2 model,2 context,2 classAnnotation,2 targetClass,2 ObjectStreamClass.class,1 ObjectInputStream.class,1 declaringClassAnnotation,1 declaringClass,1 input,1 PID.class,1
+1:CLICommandInvoker.Result,141 Method,2 Schema,2 MonitoredWithSpring,2 MonitoredWithGuice,1 InputStream,1
+2:
+3:
+
+final ### $$$ = ### ;
+0:objectType,15 windowSize,14 pageSize,12 length,6 moneyUnit,4 type,4 qiniuDomain,2 cmtViewMode,2 mockErrorCode,2 initialTermId,2 blockedPosition,2 isDryRunForInvoiceNotification,2 maxTries,2 activityPer,1 articlePer,1
+1:int,55 ObjectType,15 long,12 ObjectType.ACCOUNT_EMAIL,12 Symphonys.USER_HOME_LIST_CNT,11 Symphonys.USER_HOME_LIST_WIN_SIZE,11 float,9 HELLO_WORLD_GZIPPED.length,6 String,5 Symphonys.POINT_EXCHANGE_UNIT,4 double,3 Symphonys.ACTIVITY_YESTERDAY_REWARD_MAX,2 Symphonys.ARTICLE_LIST_WIN_SIZE,2 Symphonys.UPLOAD_QINIU_DOMAIN,2 UserExt.USER_COMMENT_VIEW_MODE_C_REALTIME,2
+2:
+3:
+
+final ### $$$ = !!! ;
+0:prime,217 expected,26 offset,25 messageLength,14 bufferIndex,12 servletName,12 bcd,11 name,10 filterName,10 key,10 metricName,8 str,7 length,7 projectName,6 resA,6
+1:int,474 String,401 long,9 PRIME,7 BOXCOUNT_X,5 BOXCOUNT_Y,5 BOXCOUNT_Z,5 double,3 Integer,3 GUARD,3 SLOT_NUMBER,3 IMAP_LOGIN,2 STACK_DEPTH,2 N,2 CHUNK_SIZE,2
+2:
+3:"x",401 31,219 0,41 5,20 8,16 1,16 50,15 10,13 3,12 128,11 2,10 100,8 64,6 1000,6 6,5
+
+final ### $$$ ;
+0:expectedValue,36 scheduler,32 key,28 unit,19 downstream,17 value,13 error,12 index,12 requested,12 count,12 onFinally,11 delay,11 defaultValue,11 source,10 end,10
+1:int,166 long,85 String,74 boolean,55 BigDecimal,38 Scheduler,34 TypeMirror,28 T,23 TimeUnit,19 double,19 Node,18 Object,17 CompletableObserver,17 CompletableSource,14 Action,14
+2:
+3:
+
+enum ### {
+0:
+1:Impl,8 Status,8 State,6 Type,5 Mode,4 InputOrder,4 EncodingOption,4 ReadStrategy,4 CopyStrategy,4 TargetSupplier,4 MeanAlgorithm,4 VarianceAlgorithm,4 StackType,4 QueueType,4 DataMask,2
+2:
+3:
+
+else {
+0:
+1:
+2:
+3:
+
+else if ( ~~~ )
+0:
+1:
+2:t.equals,23 nameStr.equals,15 BytecodeViewer.viewer.panelGroup1.isSelected,9 BytecodeViewer.viewer.panelGroup2.isSelected,9 BytecodeViewer.viewer.panelGroup3.isSelected,9 classname.equals,8 ends,6 spec.contains,5 protocol.equals,5 morphStr.contains,4 phone.getRel,3 BytecodeViewer.viewer.apkConversionGroup.isSelected,2 spec.endsWith,2 patternClass.equals,2 type.equals,2
+3:
+
+else if ( $$$ == ### )
+0:attr,98 result,13 feat,8 t,7 mRunState,5 mMode,4 i,3 value.type,3 susp1,3 ch,2 mState,2 mRippleType,1 varTag,1 id,1 type,1
+1:RUN_STATE_STOPPING,4 MeasureSpec.AT_MOST,4 Publication.NOT_CONNECTED,3 Publication.ADMIN_ACTION,3 Publication.CLOSED,3 Publication.MAX_POSITION_EXCEEDED,3 TelnetCommand.IAC,2 MorphoFeatureType.NUM,2 MorphoFeatureType.PER,2 MODE_HOUR,2 MODE_MINUTE,2 TypedValue.TYPE_FRACTION,2 STATE_RELEASE,2 STANDARD_CONTROLLER_DPAD_DOWN,1 STANDARD_CONTROLLER_DPAD_LEFT,1
+2:
+3:
+
+do {
+0:
+1:
+2:
+3:
+
+default ### ~~~ {
+0:
+1:boolean,91 String,44 Children,31 HttpResponse,22 MutableHttpHeaders,16 int,11 TraversalControl,10 C,7 Object,5 AuthenticationPredicate,4 MetaObjectHandler,4 Type,4 SELF,4 TimeUnit,4 long,3
+2:assumeThat,11 execute,5 prefix,5 getString,4 getProperty,4 post,4 put,4 patch,4 host,4 test,3 relations,3 in,3 notIn,3 orderByAsc,3 orderByDesc,3
+3:
+
+default ### < ### > ~~~ {
+0:
+1:Optional,20 CompletableFuture,19 Observable,17 String,13 List,12 Set,11 T,11 Object,9 MutableHttpMessage,9 B,9 Void,8 V,6 Integer,5 InitialValueObservable,5 Boolean,5
+2:addListener,4 getRole,2 getPermission,2 count,2 listObjs,2 findTypeParameter,2 headers,2 contentType,2 replace,2 getPartition,2 connect,2 bootstrap,2 getFirstSelectedItem,2 calculateCulprits,1 getPosition,1
+3:
+
+continue ;
+0:
+1:
+2:
+3:
+
+class ### {
+0:
+1:LocalInnerClass,8 Node,7 TestingRemovalListeners,4 Foo,4 Latch,3 Bean,3 Solution,3 StatItem,2 DetectionResultColumn,2 TypeMirrors,2 QueueDrainSubscriberPad0,2 FileSnapshot,2 Frame,2 MainMethod,2 Huffman,2
+2:
+3:
+
+class ### implements ### {
+0:
+1:Runnable,23 Closeable,6 Result,4 SortAlgorithm,4 Logger,4 ISegmenter,3 Serializable,3 Callable,3 AnnotationPropertyValuesAdapter,2 PropertyValues,2 CompatibleResult,2 J2oVisitor,2 JSONVisitor,2 PooledConnection,2 InvocationHandler,2
+2:
+3:
+
+class ### extends ### {
+0:
+1:AbstractExecutionConditionTests,16 TestSupport,15 ValueNode,10 Thread,9 AbstractJupiterTestEngineTests,9 MockInstant,7 AbstractBase,7 SampleCommand,6 MockPartial,5 TwitterTestBase,5 QueueDrainSubscriberWip,4 AbstractInstant,4 TestGJDateTimeField,4 AnnotationVisitorPrinter,4 AnnotationVisitor,4
+2:
+3:
+
+case ### : {
+0:
+1:JSONToken.STRING,16 JSONToken.NULL,10 JSONToken.LSQUARE,8 JSONToken.LBRACE,8 ARRAY_ITEM,8 OBJECT_ITEM,8 JSONToken.BOOL,6 JSONToken.INT,6 JSONToken.FLOAT,6 START,4 OBJECT_VALUE,4 CREATE_CHOREOGRAPHER,3 MSG_ADD_OBSERVER,3 MSG_REMOVE_OBSERVER,3 DBG_START_LOCAL,3
+2:
+3:
+
+break ;
+0:
+1:
+2:
+3:
+
+assert ~~~ ;
+0:
+1:
+2:Arrays.asList,149 getAuditReader,103 name.equals,43 TestTools.checkCollection,33 rev2.getReference,20 rev1.getReference,19 f.maybeContains,19 rev3.getReference,18 rev1.getReffering,11 rev2.getReferencing,10 rev2.getReffering,10 rev3.getReffering,10 rev1.getReferencing,9 rev1.getReferences,8 DataWord.of,8
+3:
+
+abstract ### ~~~ ;
+0:set_impl,3 idx,3 l,1 d,1 f,1
+1:boolean,26 int,17 double,8 Object,6 long,5 String,5 Appendable,4 MeanAndVariance,4 Executor,4 T,4 Node,3 float,3 E,3 byte,2 short,2
+2:doEquals,4 get,4 mean,4 variance,4 executor,4 value,4 isMasked,2 newNode,2 getByte,2 getShort,2 getInt,2 getLong,2 getFloat,2 getDouble,2 getChar,2
+3:
+
+^ ### ( ) & $$$ ^ ### & $$$ ^ $$$ ;
+0:255],288 k[4],4 k[5],4 k[6],4 k[7],4 k[8],4 k[9],4 k[10],4 k[11],4 k[12],4 k[13],4 k[14],4 k[15],4 k[16],4 k[17],4
+1:FT2[,72 RT2[,72 FT3[x3,10 FT3[x0,10 FT3[x1,10 FT3[x2,10 RT3[x1,10 RT3[x2,10 RT3[x3,10 RT3[x0,10 FT3[y3,8 FT3[y0,8 FT3[y1,8 FT3[y2,8 RT3[y1,8
+2:
+3:
+
+Random $$$ = new ~~~ ;
+0:random,52 rng,31 r,24 rand,12 rd,4 rnd,4 generator,2 _random,1 random2,1 randomGen,1 gen,1 randdata,1
+1:
+2:Random,133 SecureRandom,1
+3:
+
+++ $$$ ;
+0:count,15 i,13 j,12 n,11 index,6 argumentStack,4 pos,4 zeroCount,4 startAt,4 chunkIndex,4 cnt,3 idx,3 p,3 currentRow,2 var5,2
+1:
+2:
+3:
+
++ !!!
+0:
+1:
+2:
+3:"x",197
+
++ !!! + $$$
+0:longField,17 integerField,16 value,8 creationTime,7 collation,6 key,5 version,5 lastAccessTime,5 lastUpdateTime,5 type,4 ttl,4 hits,4 integersField,4 upsert,4 bypassDocumentValidation,4
+1:
+2:
+3:"x",296
+
+( ( ) ~~~ ) ~~~ ;
+0:
+1:
+2:activity.findViewById,26 getActivity,15 findViewById,12 LoggerFactory.getLogger,11 layout.findViewById,8 mActivity.get,7 j.jenkins.getView,5 convertView.findViewById,4 getParentList,4 getChildAt,3 getSkin,3 getService,3 formalType.asWildcard,3 iter.next,2 viewHolder.arrow.getDrawable,2
+3:
+
+( ( ) $$$ ) ~~~ ;
+0:constraint,64 listener,61 out,16 value,13 this.value,13 background,12 mProgressDrawable,10 ctx,9 obj,8 con,8 event,8 target,7 view,7 channel,7 s,7
+1:
+2:
+3:
+
+&& ~~~ ;
+0:
+1:
+2:equals,31 Objects.equals,19 Util.areEqual,12 snake.getHead,6 Arrays.equals,5 sqrtFloor.pow,4 this.absentFeatures.equals,4 Objects.equal,4 properties.equals,3 statementGroups.equals,3 url.getParameter,2 this.value.equals,2 edgeValueMap,2 action.equals,2 a.context.equals,2
+3:
+
+&& ~~~
+0:
+1:
+2:equals,135 Objects.equals,20 Arrays.equals,7 EnumDict.class.isAssignableFrom,4 Util.areEqual,3 GAPLESS,3 url.getParameter,2 nodes,2 type.equals,2 Objects.equal,2 targetCacheKey.method.getName,2 CollectionUtil.getLastElement,2 SharedUtil.equals,2 source.request,1 hasSimpleReturnBlock,1
+3:
+
+$$$ = ~~~ ;
+0:result,1326 copy,351 value,336 t,173 c,138 f,132 txt,125 type,124 pattern,114 expectedValue,110 name,108 task,100 con,97 match,95 s,94
+1:
+2:Integer.parseInt,280 em.find,266 Math.min,194 System.nanoTime,189 Math.max,180 checkNotNull,171 taskService.createTaskQuery,148 System.currentTimeMillis,143 Pattern.compile,138 mock,137 txt.replaceAll,117 Arrays.copyOf,98 pattern.matcher,98 ISODateTimeFormat.forFields,90 targetClass,84
+3:
+
+$$$ = ~~~
+0:processInstance,30 this.proposal,18 this.transactionResult,12 instanceList,11 orderedCollection,6 clonedBuffers[i],6 channelFull,6 cursor,6 cache,5 this.consumes,4 this.headers,4 this.params,4 this.produces,4 allow,4 db,4
+1:
+2:historyService.createHistoricProcessInstanceQuery,28 this.proposal.toBuilder,16 this.transactionResult.toBuilder,12 ManagedChannelBuilder.forTarget,12 repositoryService.createDeployment,10 realm.where,8 runtimeService.createProcessInstanceQuery,7 runtimeService.createProcessInstanceBuilder,6 ByteBuffer.allocateDirect,6 Counter.builder,6 Manager.getInstance,6 ManagedChannelBuilder.forAddress,5 NettyChannelBuilder.forAddress,5 requestMapping.getConsumesCondition,4 requestMapping.getHeadersCondition,4
+3:
+
+$$$ = this ;
+0:head.prev,16 tail.next,13 this.prev,12 this.next,12 prev.next,7 thiz,4 stmt.list,4 instance,3 headFilter.nextFilter,3 next.prevFilter,3 headMain.nextMain,3 next.prevMain,3 next.prev,3 iterable,2 child.parent,2
+1:
+2:
+3:
+
+$$$ = null ;
+0:originalLocale,33 originalDateTimeZone,32 zone,31 originalTimeZone,31 value,27 queue,23 singleItem,20 result,19 message,16 window,14 file,13 this.delegate,13 dequeuedInputBuffer,12 uri,12 downstream,10
+1:
+2:
+3:
+
+$$$ = new ~~~ {
+0:d,51 e,16 mMemoryCache,6 field,4 decodeThread,3 this.commandRunner,3 this.creator,3 last,2 viewGroupMixIn,2 mLooperRunnable,2 mFrameCallback,2 mChoreographerCallback,2 userTokenManager,2 sqlExecutor,2 subscriber,2
+1:
+2:Decoder,50 Encoder,16 LruCache,6 Thread,5 Runnable,4 MockBaseDateTimeField,4 CommandRunner,3 Subscriber,3 Striped,3 Invoker,2 ViewGroupMixIn,2 Choreographer.FrameCallback,2 ChoreographerCompat.FrameCallback,2 DefaultUserTokenManager,2 AbstractJdbcSqlExecutor,2
+3:
+
+$$$ = new ~~~ ;
+0:test,237 c,229 types,113 program,98 parser,80 result,70 instance,46 out,46 expected,45 map,44 p,44 batch,43 sb,41 handler,39 list,38
+1:
+2:ArrayList,950 HashMap,377 AutocompleteCandidate,215 DateTime,149 File,129 HashSet,114 DenseMatrix,108 Program,98 Node,88 StringBuilder,84 VectorBasedDenseVector,78 BufferedReader,71 Paint,68 LinkedList,63 FileInputStream,59
+3:
+
+$$$ = new $$$ {
+0:ConstructorFunction<Integer, IdentifiedDataSerializable>(),174 constructors[SQL_PREDICATE],1 constructors[AND_PREDICATE],1 constructors[BETWEEN_PREDICATE],1 constructors[EQUAL_PREDICATE],1 constructors[GREATERLESS_PREDICATE],1 constructors[LIKE_PREDICATE],1 constructors[ILIKE_PREDICATE],1 constructors[IN_PREDICATE],1 constructors[INSTANCEOF_PREDICATE],1 constructors[NOTEQUAL_PREDICATE],1 constructors[NOT_PREDICATE],1 constructors[OR_PREDICATE],1 constructors[REGEX_PREDICATE],1 constructors[FALSE_PREDICATE],1
+1:
+2:
+3:
+
+$$$ = new $$$ ;
+0:byte[size],22 double[x.length],19 data,15 int[SAMPLE_SIZE],12 testBytes,8 long[SAMPLE_SIZE],8 byte[length],8 byte[0],8 keys,8 double[numItems][softmax],8 int[len],8 buffer,7 bytes,7 float[n],7 buf,7
+1:
+2:
+3:
+
+$$$ = new ### ;
+0:tmp_parser,10 n,9 value,5 array,4 this.plainLocks,4 this.detectingLocks,4 values,4 tags,4 result,4 cpdata,4 scales,4 words,4 this.entries,3 formats,3 trackGroups,3
+1:String[len],12 String[3],10 Lock[lockNestingDepth],8 Integer[SIZE],8 ArrayList[numStates],6 Permission[0],4 Object[size],4 String[0],4 Object[cpsize],4 Vector3f[times.length],4 Entry[0],3 Format[length],3 TrackGroup[length],3 Sample[MAX_RECYCLED_SAMPLES],3 Object[stackSize],3
+2:
+3:
+
+$$$ = - !!! ;
+0:x,11 expResult,9 jj_ntk,8 lastRet,6 prevHighSurrogate,6 nStart,4 nEnd,4 this.start,4 this.end,4 this.englishStart,4 this.englishEnd,4 this.arabicStart,4 this.arabicEnd,4 end,4 mark,4
+1:
+2:
+3:1,281 54,6 242,3 3,2 90,2 2,2 18,2 1333,2 15,1 10000,1 4,1 88,1
+
+$$$ = ( ) ~~~ ;
+0:event,72 value,58 result,26 ret[i],25 expected[i],20 activityEvent,17 op,17 endTime,14 holder,13 data,12 object,12 viewHolder,10 cpdata[index],10 tv,10 resp,9
+1:double,1
+2:findViewById,110 listener.getEventsReceived,93 osList.getValue,52 e2.properties.get,37 convertView.findViewById,26 v.findViewById,25 ois.readObject,23 generateValue,20 event.getEntity,20 getConstraint,20 capsule.readSavable,20 e.properties.get,19 convertView.getTag,17 opFactory.create,17 view.findViewById,15
+3:
+
+$$$ = ( ) ;
+0:result,114 increment,4 word,4 sir[2],4 e,3 delay,3 ss[i],2 mType,2 rootLayout,2 length,2 hashValue,2 probs[i],2 d,2 init[i],2 min,2
+1:
+2:
+3:
+
+$$$ = ( ) ( ) ;
+0:result,17 currentByte,7 r,6 sampleSize,5 threshold,5 e[j],4 indexToDifferAt,4 testBytesA[indexToDifferAt],4 targetPos.x,4 targetPos.y,4 probs[index],4 stepSize,4 dest[didx],4 currentIndex,4 g,4
+1:double,3
+2:
+3:
+
+$$$ = ( ) $$$ ;
+0:result,30 value,23 o,18 type,14 c,12 this.sum,12 result2,12 b,11 s,9 object,9 i,8 ret,8 DemoService.class,6 obj,6 unmanagedObject,6
+1:
+2:
+3:
+
+$$$ = $$$ ;
+0:true,2948 false,1638 name,835 id,827 this.id,801 this.name,788 value,779 this.value,464 data,416 type,405 this.data,379 this.type,349 error,346 i,320 ex,247
+1:
+2:
+3:
+
+$$$ = $$$ - $$$ ;
+0:k,26 1],26 n,12 len,10 x,10 r,9 y,9 a,9 mLimit,8 mPosition,8 result,8 hint,8 ofs,8 delta,7 height,7
+1:
+2:
+3:
+
+$$$ = $$$ - !!! ;
+0:i,15 1e,11 y,11 unread,10 n,10 end,9 mask,9 x,9 size,7 fileLength,7 up,6 ypos,6 capacity,5 indexToDifferAt,4 retries,4
+1:
+2:
+3:1,96 2,14 30,8 3,6 4,5 5,3 10000000,3 "x",2 65,1 71,1
+
+$$$ = $$$
+0:result,107 command,106 transactionList,6 blockingStubExtension,6 eval,3 true,3 username,2 equalsMethod,2 transitiveEquality,2 q,2 q0,2 this.witness,2 witnessBuilder,2 transactionCapsule,2 wallet,2
+1:
+2:
+3:
+
+$$$ = $$$ + $$$ ;
+0:1],53 i,21 args[i,17 length,13 args[argIndex,12 count,11 foundIdx,10 sum,10 a,9 start,9 orderBy,9 result,8 offset,7 index,7 x,7
+1:
+2:
+3:
+
+$$$ = $$$ + !!! ;
+0:i,71 start,17 pos,13 index,12 item.image,10 s,9 count,8 end,8 mDestPath,8 m,7 path,7 size,7 mid,6 isoDate,6 prev,6
+1:
+2:
+3:1,149 "x",44 2,18 10,11 100,8 128,7 3,3 200,3 1000000,2 4,1 26,1 0,1
+
+$$$ = $$$ * $$$ ;
+0:k,14 scale,10 inv_det,9 a,8 hash,8 i,7 s,7 strideSize,6 invDet,6 cos,5 d,5 temp.x,4 sourceWidth,4 temp.y,4 sourceHeight,4
+1:
+2:
+3:
+
+$$$ = $$$ * $$$ + ( ) ;
+0:hashCode,842 prime,650 result,458
+1:
+2:
+3:
+
+$$$ = $$$ * !!! + ( ) ;
+0:result,332 hash,8 placeholder,2
+1:
+2:
+3:37,165 10,1 31,1 13,1 17,1 19,1 23,1
+
+$$$ = ### ;
+0:state,192 upstream,101 type,66 mode,29 bd.type,24 node.status,23 mProgressState,22 buffer,18 parserState,18 status,18 this.status,18 node.type,17 this.criteriaType,17 otherState,16 newState,16
+1:DisposableHelper.DISPOSED,54 SubscriptionHelper.CANCELLED,50 Format.NO_VALUE,33 BodyType.DynamicBody,31 EMPTY_BUFFER,30 OBJECT_ITEM,24 Integer.MIN_VALUE,24 Integer.MAX_VALUE,23 C.TIME_UNSET,21 END,20 Long.MAX_VALUE,19 Long.MIN_VALUE,19 NaN,16 OBJECT_VALUE,14 OTHER_STATE_CONSUMED_OR_EMPTY,14
+2:
+3:
+
+$$$ = ### ( ) & $$$ ^ ### ( ) & $$$
+0:255],256 x0,16 x1,16 x2,16 x3,16 y0,16 y1,16 y2,16 y3,16
+1:FT0[,64 FT1[,64 RT0[,64 RT1[,64
+2:
+3:
+
+$$$ = !!! ;
+0:j,30375 expResult,225 str,204 name,72 size,55 count,42 swigCPtr,42 kind,40 i,37 offset,34 x,33 expected,32 c,27 t,27 value,26
+1:
+2:
+3:4,30415 0,1685 "x",1424 1,421 2,83 10,58 3,52 12,35 5,33 100,28 7,25 17,21 8,18 20,18 24,16
+
+$$$ = !!!
+0:count,200 i,14 arr,2 sql,2 this.name,1 number,1 minGasPrice,1 gasLimit,1 gasUsed,1
+1:
+2:
+3:9856,24 9456,20 9756,5 1,3 "x",3 200,3 9556,3 2,2 3,2 300,2 400,2 500,2 600,2 700,2 800,2
+
+$$$ = !!! * $$$ + ~~~ ;
+0:result,430 hash,66 hashCode,22 total,8 h,8 lineNumberHash,2 acc,2
+1:
+2:Arrays.hashCode,37 Objects.hashCode,12 id.hashCode,11 name.hashCode,10 hashCode,8 Float.floatToRawIntBits,6 value.hashCode,6 Longs.hashCode,6 type.hashCode,6 thing.hashCode,5 Long.hashCode,4 left.hashCode,4 right.hashCode,4 key.hashCode,3 Boolean.hashCode,3
+3:31,237 83,6 79,5 23,3 13,3 89,3 971,2 27,2 59,2 33,1 953,1 967,1 43,1 10,1 73,1
+
+$$$ = !!! * $$$ + ( ) ;
+0:result,2216 hash,68 myresult,10 hashCode,4
+1:
+2:
+3:31,1117 29,9 73,9 59,4 79,2 71,2 971,1 83,1 11,1 7,1 61,1 37,1
+
+$$$ = !!! * $$$ + $$$ ;
+0:result,298 hash,31 width,9 height,9 element,8 hashShape,6 hashStride,6 hashCode,6 age,5 port,5 bitrate,4 groupIndex,3 trackIndex,3 localeIndicator,3 typeIndicator,3
+1:
+2:
+3:31,167 61,3 971,1 17,1 67,1 13,1 32,1 23,1
+
+$$$ -- ;
+0:size,35 i,29 end,13 eIx,12 j,11 k,11 remaining,10 this.size,7 sizeT1,7 counter,6 index,6 sizeB1,6 sizeB2,6 difference,6 count,5
+1:
+2:
+3:
+
+$$$ - = $$$ ;
+0:remaining,18 bytesRemaining,14 len1,14 bytesRead,13 c,13 a,13 count,12 b,12 len,11 result,9 x,9 y,8 count1,8 count2,8 dest,8
+1:
+2:
+3:
+
+$$$ ++ ] = ( ) ( ) ;
+0:b[w,26 dArr[d,24 bytes[d,18 data[length,11 bytes[dp,9 b[off,8 data[len,6 dst[offset,5 bytes[index,5 buff[pos,5 b[offset,4 out[outIndex,4 buffer[pos,4 derSignature[offset,2 buf[pos,2
+1:
+2:
+3:
+
+$$$ ++ ] = $$$ ;
+0:rawData[rawDataIndex,33 b,8 val,7 red,7 green,7 blue,7 cs[w,6 code[64],6 i,6 sample[offset,6 result[pointer,6 r[k],6 result[resultIndex,6 array[lineIndex,6 encodingMap[i,5
+1:
+2:
+3:
+
+$$$ ++ ;
+0:i,217 count,213 size,66 index,56 n,46 j,44 tmp,32 pos,30 k,29 position,26 pNdx,24 counter,22 expectedReloads,20 start,17 cnt,16
+1:
+2:
+3:
+
+$$$ + = ~~~ ;
+0:tmp,200 dummy,96 sum,79 size,42 offset,41 r,29 result,24 count,23 total,16 value,13 rvalue,12 info,12 score,12 index,11 bytesRead,10
+1:
+2:Objects.hashCode,24 value.hashCode,22 lengthOfUleb128,22 Long.bitCount,13 System.identityHashCode,12 ImmutableList.copyOf,12 Double.doubleToRawLongBits,12 algorithm.singleQuantile,12 algorithm.multipleQuantiles,12 UnsignedLongs.parseUnsignedLong,12 UnsignedLongs.toString,12 Math.pow,11 BitUtil.pop,10 input.read,9 Math.abs,9
+3:
+
+$$$ + = $$$ ;
+0:sum,77 count,59 offset,55 len,33 pos,32 length,29 value,28 read,24 total,23 position,23 b,23 step,23 x,23 bytesRead,22 result,22
+1:
+2:
+3:
+
+$$$ + = $$$ * $$$ ;
+0:error,35 loss,26 sum,15 delta,12 rbs,12 tpf,9 value,8 err,8 val,7 diff,6 euj,6 cur,6 d,5 y[i],5 rate,5
+1:
+2:
+3:
+
+$$$ + = !!! ;
+0:i,184 s,38 offset,32 r,24 message,22 numChannels,18 pos,15 column,14 str,14 index,13 argIndex,13 sIx,12 _tp.tunit[3],12 row,10 count,10
+1:
+2:
+3:2,215 1,180 "x",168 3,45 4,23 10,14 12,14 8,12 6,7 7,7 5,5 256,5 32,5 16,4 200,4
+
+$$$ * = $$$ ;
+0:b,27 loss,24 m,22 h,16 0.5d,13 result,9 0.5,9 phaseY,8 k,8 input,7 2f,7 scaleX,7 scaleY,7 x,6 scalar,6
+1:
+2:
+3:
+
+$$$ ( ) ;
+0:wordsAtTime[i].remove,5 ctes[i].offer,5 sources[i].subscribe,4 locks[j].lock,4 locks[j].unlock,4 tests[testIndex].dispose,4 userDayFactors[userIndex].put,4 keyIndices[d].put,4 hyperLogLogs[i].offer,4 wordsStartAt[lw.startNode].remove,3 wordsEndAt[lw.endNode].remove,3 wordsAtTime[i].add,3 internalBufs[0].put,3 keyIndices[d].remove,3 ndLists[0].add,3
+1:
+2:
+3:
+
+$$$ $$$ ~~~ ;
+0:$,601 objProxy.realmSet,175 proxyState.getRealm,143 realmSet,78 unmanagedCopy.realmSet,71 proxyState.getRow,56 unmanagedCopy.realmGet,31 set,8 proxyState.setRealm,6 proxyState.setRow,6 proxyState.setAcceptDefaultValue,6 proxyState.setExcludeFields,6 realmObjectCopy.realmSet,6 objProxy.realmGet,5 prop.set,1
+1:
+2:realm,223 ref,12 columnObject,10 columnRealmList,10 fieldObjectNull,10 name,10 firstName,10 lastName,10 columnDate,9 fieldDateNotNull,9 fieldDateNull,9 age,8 columnBinary,7 fieldStringNotNull,7 fieldStringNull,7
+3:
+
+$$$ $$$ = ~~~ ;
+0:val,629 exp,36 var,35 tg,30 result,19 res,18 array,16 cublasHandle_t,12 handle,12 fb,10 cusolverDnHandle_t,9 graph,9 input0,9 arrayX,9 arrayY,8
+1:
+2:Nd4j.create,110 TFGraphMapper.getInstance,39 A.mmul,10 createNewCublasHandle,9 tg.execAndEndResult,8 PerformanceTracker.getInstance,7 Shape.getReducedShape,7 createNewSolverHandle,6 createNewStream,6 Files.readAllLines,6 newProxyInstance,6 encodeTicketId,6 SELECT,6 Nd4j.trueScalar,6 tg.asFlatBuffers,6
+3:
+
+$$$ $$$ = new ~~~ ;
+0:val,92 query,11 obj,6 t,6 mxPoint,4 executioner,4 randomDataSet,3 randomDS,3 genRandomDataSet,3 features,2 labels,2 featuresMask,2 labelsMask,2 mds,2 props,2
+1:
+2:ArrayList,11 Query,11 HashMap,7 io.realm.some,6 ClassPathResource,5 mxPoint,4 NativeGraphExecutioner,4 randomDataSet,3 genRandomDataSet,3 org.nd4j.linalg.dataset.MultiDataSet,2 ConvertCasePrincipalNameTransformer,2 FlowExecutionImplFactory,2 ConfigurationMetadataProperty,2 TicketDocument,2 FlatBufferBuilder,2
+3:
+
+$$$ ### ;
+0:grammar,148
+1:T,116 M,28 Test,2 Expr,2
+2:
+3:
+
+### ~~~ {
+0:
+1:int,547 boolean,366 String,142 long,130 double,65 ResponseMessage,40 Object,39 byte[],25 PrimitiveException,24 float,23 Expr,19 byte,17 MeanAndVariance,16 int[],13 State,9
+2:handleException,38 createException,24 get,22 doEquals,20 getValue,16 isMasked,16 hashString,16 factorial,16 log2,16 divide,16 variance,16 add,14 binomial,12 log10,12 sqrt,12
+3:
+
+### ~~~ throws ### ;
+0:
+1:TwitterException,53 Exception,45 IOException,41 Result,32 UserList,28 WxErrorException,22 User,19 String,13 int,11 T,8 Object,6 CacheException,6 long,6 boolean,5 File,4
+2:apply,35 createUserListMembers,6 get,4 destroyUserListMember,4 startReadWriteNonBlocking,3 startFile,3 create,3 destroyUserListMembers,3 createUserListSubscription,3 showUserListSubscription,3 destroyUserListSubscription,3 showUserListMembership,3 createUserListMember,3 destroyUserList,3 showUserList,3
+3:
+
+### ~~~ default !!! ;
+0:
+1:String,150 int,41 double,1
+2:interfaceName,6 version,6 group,6 stub,6 cluster,6 proxy,6 connections,6 onconnect,6 ondisconnect,6 owner,6 layer,6 actives,6 mock,6 validation,6 timeout,6
+3:"x",150 0,40 2,2
+
+### ~~~ ;
+0:
+1:String,411 boolean,405 INDArray,251 IComplexNDArray,240 int,230 Long,174 DataBuffer,110 RequestSpecification,108 long,107 T,96 Builder,68 MockMvcRequestSpecification,59 WebTestClientRequestSpecification,58 Buffer,54 TraversalControl,50
+2:multiPart,37 body,30 put,24 get,23 createFloat,23 createDouble,23 createHalf,23 createInt,20 content,18 apply,17 scan,17 getName,16 putScalar,16 cookie,15 rsubi,15
+3:
+
+### {
+0:
+1:InterruptedException,8 SIMPLE,8 KAHAN,8 KNUTH,8 Structure.ByReference,8 IOException,7 ClassNotFoundException,5 EAGER,5 LAZY_STACK_TRACE,4 GET_STACK_TRACE,4 Hash,4 LinkedHM,4 UnmodHM,4 SyncHM,4 Tree,4
+2:
+3:
+
+### = ~~~ ;
+0:
+1:Type,22 A,10 JULIAN,9 ISO,9 Result,6 VIEW_MARGIN,6 TAIL,5 C,4 HEAD,4 Q,3 WishartScalePost,3 N,3 AB,3 AC,3 config.SSID,2
+2:l.findVarHandle,25 type.ordinal,20 Collections.unmodifiableMap,18 elementUtils.getTypeElement,18 rot8,12 JulianChronology.getInstance,9 ISOChronology.getInstance,9 typeUtils.getPrimitiveType,8 Integer.parseInt,5 c.getString,5 ClassLoader.class.getDeclaredMethod,4 String.format,4 ParseUtil.getBoolean,4 BasicUiUtils.dip2px,4 A.reshape,4
+3:
+
+### = new ~~~ ;
+0:
+1:INSTANCE,8 FIELD_OBJECT_DEFAULT_VALUE,6 FIELD_LIST_DEFAULT_VALUE,6 config.Healthcheck,5 VISITED_ELEMENTS,4 W,3 Q,3 FOCUS_MODES_CALLING_AF,2 FIELD_STRING_LIST_DEFAULT_VALUE,2 FIELD_BOOLEAN_LIST_DEFAULT_VALUE,2 FIELD_BINARY_LIST_DEFAULT_VALUE,2 FIELD_LONG_LIST_DEFAULT_VALUE,2 FIELD_INTEGER_LIST_DEFAULT_VALUE,2 FIELD_SHORT_LIST_DEFAULT_VALUE,2 FIELD_BYTE_LIST_DEFAULT_VALUE,2
+2:RealmList,26 ArrayList,12 HashMap,10 ConstantImpl,9 DenseMatrix,7 RandomPrimaryKey,6 HealthCheckObjectTemplate,5 Gradient,3 DescriptorList,2 DecimalFormat,2 RandomAccessFile,2 JavassistCompiler,2 SequentialAccessSparseMatrix,2 ContextHolder,1 FixedWidthImporter,1
+3:
+
+### = $$$ ;
+0:false,63 true,27 c2,18 c3,18 c4,18 value,14 c0,13 c1,13 0xFFFFFFFFFFFFFFFFL,9 i,8 logger,4 r,3 code,3 0.0,3 initStd,3
+1:trainOptions.PA,12 A[12],6 A[20],6 A[17],6 K,5 LOGGER,4 A[18],4 A[24],4 A[10],4 A[16],4 A[22],4 A[13],4 A[19],4 A[11],4 A[23],4
+2:
+3:
+
+### = ### ;
+0:
+1:this.N,8 N,8 this.Flags,4 Flags,4 A[11],4 A[20],4 A[12],4 A[19],4 A[15],4 A[18],3 A[10],3 A[22],3 A[24],3 A[13],3 A[23],3
+2:
+3:
+
+### = !!! ;
+0:
+1:Count,36 A,5 B,5 X,5 Y,5 L_BUMPER,5 R_BUMPER,5 BACK,5 START,5 L_TRIGGER,5 R_TRIGGER,5 L_STICK_VERTICAL_AXIS,5 L_STICK_HORIZONTAL_AXIS,5 R_STICK_VERTICAL_AXIS,5 R_STICK_HORIZONTAL_AXIS,5
+2:
+3:"x",131 0,58 4,11 2,10 1,9 3,9 5,9 6,4 8,4 9,4 7,3 10,2 12,2 75,2 11,1
+
+### < ? extends ### > $$$ = ~~~ ;
+0:parameters,10 constructor,8 vtype,7 ancestors,6 ig,5 type,4 annotatedElements,4 tokens,4 clazz,4 symbolReference,4 c,3 typeArguments,3 annotationMirrors,3 iterator,3 i,3
+1:List,48 Class,45 VariableElement,12 Set,12 T,10 Element,9 HasWord,9 Constructor,8 Iterator,7 A,7 ItemGroup,6 TopLevelItem,5 Enumeration,5 ZipEntry,5 SymbolReference,5
+2:executableElement.getParameters,10 validate,7 getOwner,5 solveWith,4 throwable.getClass,2 mapping.getKey,2 testClazz.getConstructor,2 jdkInstallerClass.getConstructor,2 zip.entries,2 zipFile.entries,2 p.getAllActions,2 declaredType.getTypeArguments,2 rInnerTypeElement.getEnclosedElements,2 objects.iterator,2 resolveClass,2
+3:
+
+### < ? > $$$ = ~~~ ;
+0:clazz,57 type,39 constructor,19 c,18 connection,14 t,12 superClass,11 klazz,10 cls,9 virtualClass,9 aClass,8 classWithNoAdditionalProperties,8 cl,7 result,7 e,6
+1:Class,362 Constructor,24 Future,23 Connection,14 Expression,13 List,11 Comparator,10 Collection,9 Enumeration,8 TypeInformation,7 ActorRef,6 Model,6 ComponentMetadata,6 Fetchable,6 Enum,5
+2:Class.forName,38 resultsClassLoader.loadClass,23 classLoader.loadClass,18 type,15 unloaded.load,13 clazz.getSuperclass,12 ctx.getConnection,10 typeComparators.get,10 resolveClass,9 vm.getClassLoader,9 method.getReturnType,8 getClass,7 scala.collection.JavaConversions.asJavaCollection,7 mock,6 modelClass.newInstance,6
+3:
+
+### < ### > ~~~ {
+0:
+1:List,37 CompletableFuture,20 Set,17 byte[],15 Lock,13 String,13 Striped,12 Stream,12 Collection,11 T,10 DynamicTest,10 StackTraceElement,8 Optional,7 TypeRef,6 E,5
+2:get,18 getStackTrace,8 getOrCreateQueue,4 getFields,4 edges,2 handleException,2 successfulTest,2 failedTest,2 abortedTest,2 skippedTest,2 getDefinitions,2 getDelegate,2 entries,2 metadata,2 getHierarchyPackages,1
+3:
+
+### < ### > ~~~ ;
+0:
+1:Long,396 RedisFuture,300 String,273 AsyncExecutions,158 Executions,158 List,155 Mono,153 V,77 CompletableFuture,72 Boolean,69 StreamScanCursor,44 K,40 Object,21 Double,20 T,19
+2:scan,44 zrangebyscore,30 zrevrangebyscore,30 zadd,24 zrangebyscoreWithScores,24 zrevrangebyscoreWithScores,24 sort,20 zscan,20 keys,14 set,13 zcount,12 zremrangebyscore,12 bitpos,12 expireat,10 migrate,10
+3:
+
+### < ### > $$$ = ~~~ ;
+0:values,158 result,149 list,142 iterator,115 collection,104 it,86 query,84 guava,50 gs,50 iter,45 apache,45 expirable,39 future,38 tasks,38 foo,35
+1:List,2262 String,1651 Set,432 Collection,398 Integer,359 Iterator,345 RealmResults,232 V,203 Owner,202 T,196 Object,151 Optional,147 Iterable,88 Node,79 Long,70
+2:Lists.newArrayList,239 testRealm.where,204 Arrays.asList,155 Sets.newHashSet,76 FastList.newListWith,71 Helpers.copyToList,60 multimap,56 UnifiedSet.newSetWith,56 template.createQuery,50 taskService.createTaskQuery,44 getExpirable,39 Generics.newHashSet,33 FastList.newList,32 realm.where,28 create,27
+3:
+
+### < ### > $$$ = ~~~
+0:recs,9 result,7 rv,6 response,6 normal,5 resultList,4 obs,4 source,4 historicTaskInstances,3 historicActivities,3 future,3 kittens,3 withConsider,3 names,2 allConstraints,2
+1:List,85 IDValue,17 String,14 Long,8 Object,7 Car,7 Cat,7 RealmResults,6 HttpResponse,6 RequestCapture,6 Set,5 HistoricActivityInstance,5 Object[],5 AllJavaTypes,4 HistoricTaskInstance,4
+2:target,17 auditReader.createQuery,11 CollQueryFactory.from,9 Observable.interval,8 realm.where,6 Unirest.get,6 historyService.createHistoricActivityInstanceQuery,5 getAuditReader,5 Arrays.stream,4 historyService.createHistoricTaskInstanceQuery,4 ExtensionLoader.getExtensionLoader,3 getOperationService,3 getConstraintStatements,2 getTreePathByTerm,2 getJobEntityManager,2
+3:
+
+### < ### > $$$ = null ;
+0:collection,8 result,6 list,4 results,4 meshes,3 n,3 filters,3 synonyms,3 p,3 node,3 ratedItems,3 coordinates,3 mapping,3 selectedInvoker,2 errors,2
+1:List,68 T,31 String,22 Node,15 Integer,15 ArrayList,11 Collection,11 V,8 Set,8 E,4 Class,4 Cue,3 Mesh,3 StopRecognition,3 SynonymsRecgnition,3
+2:
+3:
+
+### < ### > $$$ =
+0:iter,38 task,8 list,7 itr,6 cold,5 allSampleElements,4 future,4 loader,4 alwaysTrue,4 alwaysTrue2,4 alwaysFalse,4 alwaysFalse2,4 newValues,4 imageLayers,3 iterable,2
+1:Integer,56 Iterator,42 List,24 Object,22 Predicate,16 Callable,12 String,7 Long,7 Set,6 Header,6 Boolean,5 Layer,5 Observable,5 E,4 Future,4
+2:
+3:
+
+### < ### > $$$ = ( ) ~~~ ;
+0:enumClass,9 asMapValue,8 rootEnumClass,5 clone,5 pres,5 subBlocks,4 defaultList,4 blocks,3 list,3 stack,3 entry,3 clazz,3 projection,3 realize,2 element,2
+1:List,47 T,28 Class,27 Object,19 String,19 Enum,16 V,8 IContainer,7 Set,5 Predict,5 ArrayList,3 Integer,3 E,3 Stack,3 Entry,3
+2:resultsClassLoader.loadClass,11 super.clone,6 getter.invoke,6 knn.classify,5 multimap,4 asMapEntry.getValue,4 delegate.getObject,3 vars.get,3 Class.forName,3 classWithDefaults.getClassLoader,3 queryMixin.getMetadata,3 PojoUtils.realize,2 graph.map.get,2 transferable.getTransferData,2 collectionClazz.newInstance,2
+3:
+
+### < ### > $$$ = ( ) $$$ $$$ ~~~ ;
+0:$,124 columnRealmListList,4 columnStringListList,4 columnBinaryListList,4 columnBooleanListList,4 columnLongListList,4 columnIntegerListList,4 columnShortListList,4 columnByteListList,4 columnDoubleListList,4 columnFloatListList,4 columnDateListList,4 fieldStringListNotNullList,4 fieldStringListNullList,4 fieldBinaryListNotNullList,4
+1:RealmList,124 java.lang.String,12 byte[],12 java.lang.Boolean,12 java.lang.Long,12 java.lang.Integer,12 java.lang.Short,12 java.lang.Byte,12 java.lang.Double,12 java.lang.Float,12 java.util.Date,12 some.test.AllTypes,4
+2:columnRealmList,4 columnStringList,4 columnBinaryList,4 columnBooleanList,4 columnLongList,4 columnIntegerList,4 columnShortList,4 columnByteList,4 columnDoubleList,4 columnFloatList,4 columnDateList,4 fieldStringListNotNull,4 fieldStringListNull,4 fieldBinaryListNotNull,4 fieldBinaryListNull,4
+3:
+
+### < ### > $$$ = $$$ ;
+0:iterable,55 collection,50 node,34 queue,19 q,17 head,16 logList,12 DubboAppender.logList,12 parent,11 collection1,10 collection2,10 set,9 stripedLocal,8 striped,8 current,7
+1:T,121 Node,98 String,87 List,72 Iterable,66 Integer,20 E,19 Collection,14 SimplePlainQueue,13 Log,12 Object,10 Disposable,8 Striped,8 Lock,8 ArrayList,8
+2:
+3:
+
+### < ### > $$$ ;
+0:orderedCollection,14 result,13 list,8 set,6 type,5 phones,4 linkedHashMultiset,4 hashMultiset,4 treeMultiset,4 alpha,4 lambda,4 minim,4 list3,4 userTenantApplications,4 files,4
+1:List,157 String,70 Integer,48 Set,40 T,36 Object,35 ArrayList,32 OrderedRealmCollection,16 Class,12 Collection,12 Double,11 AllJavaTypes,10 Flowable,10 Iterator,9 Observable,8
+2:
+3:
+
+### < ### < ### > > ~~~ ;
+0:
+1:List,135 V,132 RedisFuture,75 AsyncExecutions,40 Executions,40 K,33 KeyScanCursor,28 ScoredValue,24 ScoredValueScanCursor,16 Object,16 Mono,13 Versioned,10 String,9 byte[],9 Set,6
+2:scan,28 zrangebyscore,24 zrevrangebyscore,24 zrangebylex,16 zscan,16 zrevrangebylex,8 sort,6 zrangebyscoreWithScores,6 zrevrangebyscoreWithScores,6 commandInfo,6 slowlogGet,6 zpopmin,5 zpopmax,5 keys,4 zrange,4
+3:
+
+### < ### < ### > > $$$ = ~~~ ;
+0:future,13 subscriber,12 observer,12 topK,5 next,4 trees,4 synonyms,4 diffs,4 deltas,4 sf,3 path,3 batch,3 o,2 asRanges,2 itr,2
+1:List,100 String,78 Response,25 T,16 Collection,15 Result,13 ScoredObject,13 RecordingSubscriber,12 Tree,11 SmartForest,11 CompletableFuture,8 Future,8 Integer,8 Delta,8 Counter,7
+2:service.response,13 observerRule.create,12 subscriberRule.create,10 Generics.newArrayList,6 get,4 diff.diff,4 patch.getDeltas,4 Lists.newArrayList,3 SynonymsLibrary.get,3 tree.findNearest,3 vs.topK,3 subscriberRule.createWithInitialRequest,2 ImmutableList.copyOf,2 rangeSet.asRanges,2 load,2
+3:
+
+### < ### < ### , ### > > $$$ = ~~~ ;
+0:entries,35 iterator,20 pairs,15 it,9 x,6 channelMessages,4 patternMessages,4 children,3 mapList,3 list,3 visited,3 res,3 result,3 values,3 delegatedSet,2
+1:String,124 Entry,77 List,72 K,47 V,45 Pair,36 Iterator,32 Set,26 Integer,22 Map.Entry,20 Map,19 Object,15 Collection,14 INDArray,13 T,11
+2:multimap,20 Helpers.copyToList,12 db.iterator,10 failStore.fetchTop,8 LettuceFactories.newBlockingQueue,8 valuesByMetricName.get,6 NDArrayCreationUtil.getAll3dTestArraysWithShape,6 getSampleElements,4 copyToList,4 asPriorityQueue,4 Generics.newHashSet,4 labels.get,4 map.entrySet,4 JSON.parseObject,3 CollectionUtil.sortMapByValue,3
+3:
+
+### < ### , ### > $$$ = ~~~ ;
+0:map,105 cache,41 entry,32 result,28 inv,24 source,19 vars,18 pair,17 listeners,14 connection,13 globalStyles,12 builder,12 reverseConverter,12 kv,11 variableMap,10
+1:String,867 Map,562 Integer,234 Object,215 V,89 K,86 Pair,52 Multimap,45 Converter,44 Element,40 Cache,36 Long,36 Entry,34 BiMap,32 ConcurrentMap,30
+2:CacheBuilder.newBuilder,28 Maps.newHashMap,25 getMap,24 iterator.next,21 getSubjectGenerator,20 it.next,16 Generics.newHashMap,14 getGlobalStyles,12 Longs.stringConverter,12 ArrayUtil.sortMapByValue,12 createMap,12 headers.get,12 HashMultimap.create,10 getDB,10 sentMessage.getContent,10
+3:
+
+### ;
+0:
+1:INSTANCE,63 NOT_AT_ALL,4 TokenVerificationException,4 INCOMPATIBLE_SYNC_FILE,2 MANAGE,2 NONE,2 LL_EXACT_AMBIG_DETECTION,2 Integer.MAX_VALUE,2 BAR,2 JobNotDeployedException,2 MapSortField,1 Absolute,1 READ_WRITE,1 SKIP_API_MODEL,1 RpcMeasureConstants.RPC_CLIENT_ERROR_COUNT,1
+2:
+3:
+
+### $$$ = ~~~ ;
+0:result,1421 value,769 f,414 testResult,312 key,288 c,259 p,249 s,248 size,235 name,234 index,230 array,224 test,218 type,217 method,211
+1:String,6403 int,6012 INDArray,1856 long,1766 Object,1299 double,1132 byte[],1071 boolean,766 String[],743 float,449 JSONObject,442 File,430 JsonNode,339 Method,314 int[],298
+2:mock,595 Nd4j.create,585 getAuditReader,352 System.currentTimeMillis,348 Nd4j.linspace,331 get,311 jsonObject.getJSONObject,302 getEntityManager,242 JSON.parseObject,222 runtimeService.startProcessInstanceByKey,213 Integer.parseInt,177 Math.min,176 taskService.createTaskQuery,175 System.nanoTime,168 mapper.readTree,147
+3:
+
+### $$$ = ~~~
+0:httpUriRequest,116 jwt,44 response,20 input,18 signed,17 op,15 javaFileObject,14 dateFormatter,12 receiverType,12 f,11 reqEntity,11 processInstance,10 detector,10 lock1,10 lock2,10
+1:HttpUriRequest,116 String,78 DecodedJWT,37 TypeDescription.Generic,19 boolean,18 JWTVerifier,17 RealmSyntheticTestClass,14 Response,12 DateTimeFormatter,12 AtomicLock,12 DistributedLock,12 long,11 PeriodFormatter,11 List,11 HttpEntity,11
+2:RequestBuilder.post,103 atomix,37 JWT.require,30 JWTCreator.init,27 request.getReader,24 JWTVerifier.init,23 DynamicCustomOp.builder,22 createCounterTestClass,14 repositoryService.createDeployment,13 RequestBuilder.get,13 DateTimeFormat.forPattern,12 describe,12 historyService.createHistoricProcessInstanceQuery,11 getAuditReader,11 MultipartEntityBuilder.create,11
+3:
+
+### $$$ = ~~~ $$$ ;
+0:[0],39 [1],10 [i],10 child,7 type,6 delta,6 intClass,5 callback,4 con,3 opName,3 rate,3 fullWidth,3 h,3 nonce,3 number,2
+1:int,33 String,18 long,12 AbstractJClass,9 Tree,7 double,7 Format,5 JPrimitiveType,5 float,5 IExtraDataCallback,4 FileHandle,3 Class,3 Constructor,3 EntityRef,3 Type,2
+2:getClasses,8 getDialog,6 track.getSampleDurations,6 holder.getCodeModel,5 playlist.audios.get,4 Ethash.getForBlock,4 Manager.getInstance,4 handle.list,3 node.children,3 cls.getDeclaredConstructors,3 instruction.getOpcode,3 logger.newSamplingPeriod,3 bb.getCenter,3 DataUtil.scaleWithinRange,3 smsResult.getNumbers,2
+3:
+
+### $$$ = {
+0:test,24 invocationState,20 expected,6 train_X,6 train_Y,6 test_X,6 expect,4 testRunnables,3 mask0,2 mask1,2 mask2,2 mask3,2 mask4,2 mask5,2 mask6,2
+1:String[],56 int[][],28 AtomicBoolean[],20 double[][],6 byte[],5 TestRunnable[],3 Object[][],2 X509Certificate[],2 String,2 int,2 double,2 Type[],1 Runnable[],1 InitialWeightDistribution[],1 double[],1
+2:
+3:
+
+### $$$ = null ;
+0:error,300 con,96 result,69 value,53 line,41 out,34 in,27 pstmt,26 is,22 type,22 conn,22 br,20 temp,19 param,19 cursor,17
+1:String,445 Exception,209 Connection,117 JSONException,97 Object,70 InputStream,54 BufferedReader,53 File,42 PreparedStatement,38 byte[],37 Throwable,31 String[],28 FileOutputStream,27 Token,27 Integer,26
+2:
+3:
+
+### $$$ = new ~~~ {
+0:c,21 listener,13 one,7 two,7 statistic,7 subscriber,6 r,6 t,6 toolTipBuilder,6 br,6 dict,5 r1,4 observer,4 a,4 callback,4
+1:Runnable,25 ImageFilter,18 Thread,13 Object,9 IntervalConverter,7 Statistic,7 EvaluationListener,6 ToolTipBuilder,6 NumberRepresentation,6 InstantConverter,5 PartialConverter,5 Fiber,5 PinyinMapDict,5 Observer,4 MvpView,4
+2:Runnable,25 ImageFilter,18 Thread,13 Object,7 IntervalConverter,7 Statistic,7 EvaluationListener,6 ToolTipBuilder,6 NumberRepresentation,6 InstantConverter,5 PartialConverter,5 Fiber,5 PinyinMapDict,5 Observer,4 MvpView,4
+3:
+
+### $$$ = new ~~~ ;
+0:test,1541 testCase,1315 sb,793 builder,332 expected,268 result,232 parser,198 dt,179 reader,163 dt1,159 dt2,150 file,148 buf,146 props,143 lexer,143
+1:StringBuilder,1621 DateTime,869 File,532 ByteArrayOutputStream,287 com.google.common.collect.ImmutableSortedSetTest,250 MutableDateTime,250 com.google.common.collect.IteratorsTest,244 com.google.common.collect.IterablesTest,240 String,210 Date,199 Properties,194 MonthDay,175 YearMonthDay,174 Period,173 LocalTime,172
+2:StringBuilder,1634 DateTime,898 File,592 ByteArrayOutputStream,289 com.google.common.collect.ImmutableSortedSetTest,250 MutableDateTime,250 com.google.common.collect.IteratorsTest,244 com.google.common.collect.IterablesTest,240 Date,202 Properties,193 MonthDay,175 YearMonthDay,174 Period,173 LocalTime,172 TimeOfDay,171
+3:
+
+### $$$ = new ~~~
+0:bld,30 standalone,24 thumbnail,23 retrofit,20 request,11 opt,11 f,10 builder,10 gson,9 config,9 ruleB,9 dateFormatter,9 rule,7 ruleA,7 body,6
+1:DateTimeFormatterBuilder,30 MockStandalone,24 BufferedImage,23 Retrofit,21 ParamFlowRule,19 StringBuilder,14 PeriodFormatter,11 Options,11 Request,10 ItemUpdate,10 AuthorityRule,10 Event,10 DateTimeFormatter,10 Gson,9 FlowRule,8
+2:DateTimeFormatterBuilder,40 MockStandalone,24 Retrofit.Builder,21 FixedSizeThumbnailMaker,21 ParamFlowRule,19 StringBuilder,15 ItemUpdateBuilder,12 PeriodFormatterBuilder,11 OptionsBuilder,11 Request.Builder,10 AuthorityRule,10 Event.Builder,10 GsonBuilder,9 FlowRule,8 VersionTwo.Builder,7
+3:
+
+### $$$ = new $$$ ;
+0:buffer,80 bytes,72 data,52 buf,51 byte[1024],50 result,47 target,45 byte[TEST_DATA.length],42 byte[len],37 array,37 ret,33 byte[length],31 b,26 byte[4],25 double[numFactors],25
+1:byte[],535 int[],231 double[],166 float[],104 char[],86 double[][],32 int[][],24 short[],23 boolean[],16 byte,13 long[],12 int,12 float[][],11 double,7 byte[][],7
+2:
+3:
+
+### $$$ = new $$$ ( ) ] ;
+0:result,15 bytes,9 int[list.size,6 array,5 byte[version.getTotalCodewords,4 newChars,4 char[chars.length,4 initial,4 double[results.size,4 jArray,4 double[domainDimension,3 arr,3 featMap,3 int[featureIndex.size,3 colors,3
+1:byte[],50 int[],43 double[],19 char[],11 long[],7 float[],6 int,6 boolean[],4 byte,3 int[][],2 short[],1 double,1
+2:
+3:
+
+### $$$ = new ### {
+0:pair,70 fields,38 types,15 array,8 colors,5 schedules,4 states,4 rawTimeSignalSection,3 rawSpliceInsertCommand1,3 rawSpliceInsertCommand2,3 data,3 labels,2 resultLine,2 arr,2 key,2
+1:String[],182 DateTimeFieldType[],106 byte[],22 Converter[],16 int[],12 ISchedule[],8 int[][],8 Object[],5 ObjectMarshallingStrategy[],4 Object,2 boolean[],2 float[],2 Geometry[],2 ColorRGBA[],2 Expectation[],2
+2:
+3:
+
+### $$$ = new ### ;
+0:array,25 result,23 newFolders,12 threads,11 handles,9 ret,9 classesOfParameters,8 hashers,8 vertices,8 time_grid,8 mediaSources,6 arr,6 types,6 values,6 newHandles,5
+1:String[],97 Object[],33 Type[],17 Thread[],16 Class[],13 INDArray[],13 Integer[],12 String[6],11 String[count],9 String[][],9 Vector3f[],9 Class[2],8 Hasher[],8 Hasher[functions.length],8 FileHandle[],8
+2:
+3:
+
+### $$$ = - !!! ;
+0:index,17 j,15 result,11 patIdxTmp,6 position,6 count,5 n,5 foundIdx,5 idx,5 dummyMentionId,5 start,5 indexToDifferAt,4 size,4 end,4 currentPosition,4
+1:int,268 long,42 double,10 float,3 Integer,2 DEFAULT_SSL_PORT,2 F_NEW,1 byte,1 short,1
+2:
+3:1,316 2147483648,2 1000,2 16,1 1001,1 60,1 10000,1 15957,1 100,1 2,1
+
+### $$$ =
+0:expected,76 toTest,72 grammar,64 imgToWrite,27 length,20 input,16 array,12 template,12 data,9 eventMessage,8 expectedEmsgBody,8 thread,8 connection,8 alwaysTrue,8 alwaysTrue2,8
+1:String,296 byte[],29 BufferedImage,29 long,26 int,22 boolean,22 EventMessage,16 Runnable,16 DoublePredicate,16 IntPredicate,16 ParsableNalUnitBitArray,12 FakeExtractorInput,12 QueryTemplate,12 Thread,8 Connection,8
+2:
+3:
+
+### $$$ = ( ) ~~~ ;
+0:result,96 value,56 key,41 fullHttpResponse,38 arrayNode,31 columnInfo,25 service,23 b,21 obj,20 actual,18 event,18 p,17 n,17 idx,17 factory,17
+1:String,265 int,184 float,68 T,41 JSONObject,39 Integer,33 ArrayNode,32 ECDSAAlgorithm,28 Button,26 RLPList,25 FullHttpRequest,24 double,23 FullHttpResponse,23 Number,22 TextView,20
+2:findViewById,48 output.get,47 actualObj.get,31 activity.findViewById,30 ois.readObject,29 listener.getEventsReceived,29 JSON.parse,27 super.clone,25 realm.getSchema,25 ScopeUtils.getScopeService,22 page.getElementById,20 session.getAttribute,20 get,20 readPublicKeyFromFile,18 field.get,17
+3:
+
+### $$$ = ( ) ;
+0:result,29 definition,8 result2,8 a,7 length,6 i,6 patLength,6 strLength,6 b,6 classindex,6 g,5 min,5 max,5 size,5 cs,4
+1:int,116 boolean,35 double,33 long,15 String,14 CharSequence,4 String[],4 CacheKey,4 Long,4 Double,4 Float,4 Integer,4 float,3 Class,3 DirectionalLightsAttribute,2
+2:
+3:0,2
+
+### $$$ = ( ) ( ) ;
+0:result,29 wordNum,14 i,10 index,8 tics,7 startWord,6 approxLog10,4 remaining,4 maxChars,4 g,4 totalPage,4 min,4 time,4 level,4 l,3
+1:int,252 short,16 float,13 byte,12 char,10 long,10 Object[],2 ExecutableElement,2 int[],2 LowHi,1 IIOMetadataNode,1
+2:
+3:
+
+### $$$ = ( ) $$$ ;
+0:o,941 that,596 other,442 obj,407 value,120 object,90 element,54 type,39 n,33 request,32 flowElement,30 executableElement,29 result,28 t,27 node,26
+1:int,56 String,48 ParameterizedType,43 ExecutableElement,30 Number,22 Object[],21 TextView,21 Person,14 MethodInsnNode,14 SubProcess,14 long,13 StackTraceElement,13 IRegion,12 JSONObject,12 byte[],11
+2:
+3:
+
+### $$$ = $$$ ;
+0:false,914 true,285 result,188 0.0,188 value,134 i,88 length,83 x,81 0L,76 len,70 v,66 size,64 found,62 n,62 k,61
+1:int,1403 boolean,1239 double,458 long,423 float,358 String,304 T,118 Node,108 int[],73 Object,60 byte,54 Class,48 GL20,48 long[],41 Throwable,38
+2:
+3:
+
+### $$$ = $$$ / $$$ ;
+0:2f,16 scale,8 p,7 size,7 width,6 normTot,6 tot,6 1f,5 1.0,5 div,4 q,4 nonAlpha,4 nonAlphaRatio,4 height,4 oldNormIScore,4
+1:float,71 int,38 double,36 long,4 A,1
+2:
+3:
+
+### $$$ = $$$ - $$$ ;
+0:delta,49 1],43 x,41 y,28 mean,26 diff,24 offset,19 i,16 value,16 n,14 left,13 start,12 max,11 err,11 dmin,11
+1:int,217 double,111 long,103 float,47 String,10 Object,2 Long,1 String[],1 Chunk,1 Integer,1 X509Certificate,1 Column,1
+2:
+3:
+
+### $$$ = $$$ - !!! ;
+0:length,10 mask,9 index,9 i,9 n,8 1e,8 count,6 last,6 size,6 end,5 dimension,4 queries.length,4 numStripes,4 stackSize,4 r,4
+1:int,129 double,9 long,6 TOL,1 EPSILON,1
+2:
+3:1,109 2,6 128,6 "x",5 6,3 7,2 11,2 5,2 3,2 8,1 65536,1 1968,1 16400000,1 15,1 4,1
+
+### $$$ = $$$
+0:result,40 command,40 jwt,9 verification,9 wallet,9 reply,8 builder,6 context,5 blockingStubSolidity,5 values,5 stringCollection,4 f,4 newParameters,4 parameters,4 value,4
+1:CLICommandInvoker.Result,40 DecodedJWT,9 long,8 int,7 String,6 PeriodFormatter,5 ExecutionStrategyParameters,4 boolean,3 Transaction,3 GrpcAPI.NodeList,3 ProcessInstance,2 org.apache.tapestry5.ioc.annotations.ImportModule,2 TransactionList,2 GrpcAPI.WitnessList,2 GrpcAPI.AssetIssueList,2
+2:
+3:
+
+### $$$ = $$$ + $$$ ;
+0:1],24 x,18 y,15 i,12 end,12 len,11 count,10 i],8 t,8 b,8 a,7 start,7 oldValue,6 array[start,6 index],6
+1:int,127 float,42 String,27 double,23 long,22 byte,5 boolean,2 char,2 Integer,1 T,1
+2:
+3:
+
+### $$$ = $$$ + !!! ;
+0:i,28 datapath,15 confPath,14 longSize,12 0x80000000L,12 start,9 log4jPath,8 j,6 targetDepth,6 originalDepth,6 cfgPath,6 propName,5 newcount,4 protocolEnd,4 n,4
+1:int,87 String,56 long,14 float,1 double,1
+2:
+3:1,80 "x",56 8192,12 2,3 256,2 27,2 4,2 3,1 1000,1
+
+### $$$ = $$$ * $$$ ;
+0:sigma,16 width,10 delta,8 sigmaSq,8 x,7 expectedCardinality,7 numToMerge,7 components,6 cardinality,6 offset,5 y,5 i,5 dataRegionSizeRows,4 dataRegionSizeColumns,4 deltaSquared,4
+1:int,57 float,29 double,19 long,8
+2:
+3:
+
+### $$$ = $$$ & ### ;
+0:j,224 i,224 gravity,2 align,2 mGravity,2 groupOrFieldEncoding,2 tagAndFieldEncoding,2 rhs,2 unitType,1 data,1 currentVisFlags,1 accFlags,1 horizontalGravity,1 verticalGravity,1 plain,1
+1:int,234 ARRAY_MASK,192 SAMPLE_MASK,32 Gravity.VERTICAL_GRAVITY_MASK,3 FIELD_ENCODING_MASK,2 LOW_16_MASK,2 COMPLEX_UNIT_MASK,1 VISIBILITY_FLAGS,1 Gravity.HORIZONTAL_GRAVITY_MASK,1
+2:
+3:
+
+### $$$ = $$$ != null ? ~~~ : !!! ;
+0:result,226 id,45 name,20 uri,8 key,7 accountId,7 tagId,5 summary,4 parent,4 this.target,4 tagDefinitionId,4 firstName,3 type,3 entity,3 customFieldId,3
+1:int,232 String,7 long,2
+2:id.hashCode,45 name.hashCode,20 uri.hashCode,8 key.hashCode,7 accountId.hashCode,7 tagId.hashCode,5 tagDefinitionId.hashCode,4 firstName.hashCode,3 type.hashCode,3 entity.hashCode,3 customFieldId.hashCode,3 media.hashCode,2 help.summary,2 objects.hashCode,2 hp.getConf,2
+3:0,232 "x",7 1,2
+
+### $$$ = ### ;
+0:result,44 resizer,18 min,17 features,13 max,13 test,12 strategy,12 expected,11 state,9 level,8 pageSize,8 value,7 type,7 keyCode,6 rowIndex,6
+1:int,162 long,78 String,69 double,32 TEST_TIME_NOW,28 Integer.MAX_VALUE,26 Long.MAX_VALUE,21 float,20 Integer.MIN_VALUE,18 Resizer,18 JSON.DEFAULT_PARSER_FEATURE,13 ParallelExecutionConfigurationStrategy,12 int[],12 BigInteger,11 DEFAULT_PAYLOAD,10
+2:
+3:
+
+### $$$ = !!! ;
+0:result,278 i,272 tmp,265 count,236 expected,142 sum,120 index,107 hashCode,105 value,99 size,97 expecting,96 action,90 dummy,89 jwt,86 token,84
+1:int,4504 String,2638 long,419 double,309 float,136 byte,52 char,45 CharSequence,33 Integer,31 short,30 Object,14 Result,12 DEFAULT,12 M2,11 ROOT_HASH_BEFORE,9
+2:
+3:0,3476 "x",2722 1,602 2,102 5,77 10,65 4,63 3,61 17,51 7,50 100,40 1000,34 6,26 32,22 20,21
+
+### $$$ ;
+0:result,270 value,124 upstream,99 line,76 i,73 expResult,63 name,56 xsp,52 c,48 b,45 n,43 size,42 count,41 batch,33 index,32
+1:int,1197 String,901 boolean,352 long,291 double,153 float,128 Object,114 byte[],96 Node,82 T,79 Token,76 char,70 TextView,67 int[],61 Disposable,52
+2:
+3:
+
+### $$$ , $$$ ;
+0:val,8 userId,7 itemId,7 step,6 left,5 right,5 i,5 v,5 end,5 x,4 y,4 v2,4 expSum,4 derivativeIncrement,4 t,4
+1:int,59 double,16 long,13 String,12 float,11 byte,6 Node,4 char,3 SparseTensor,3 Integer[],3 Object,2 boolean,2 ZipEntry,2 InputStream,2 AbstractInsnNode[],2
+2:
+3:
+
+### $$$ $$$ $$$ = ( ) $$$ $$$ ~~~ ;
+0:$,224 realmGet,112 firstName,8 lastName,8 columnDate,4 columnBinary,4 columnMutableRealmInteger,4 fieldStringNotNull,4 fieldStringNull,4 fieldBooleanNotNull,4 fieldBooleanNull,4 fieldBytesNotNull,4 fieldBytesNull,4 fieldByteNotNull,4 fieldByteNull,4
+1:Number,32 String,28 java.util.Date,12 byte[],12 Boolean,8 Float,8 Double,8 Long,4
+2:firstName,8 lastName,8 columnDate,4 columnBinary,4 columnMutableRealmInteger,4 fieldStringNotNull,4 fieldStringNull,4 fieldBooleanNotNull,4 fieldBooleanNull,4 fieldBytesNotNull,4 fieldBytesNull,4 fieldByteNotNull,4 fieldByteNull,4 fieldShortNotNull,4 fieldShortNull,4
+3:
+
+!!! ;
+0:
+1:
+2:
+3:"x",395
+
+!!! ,
+0:
+1:
+2:
+3:"x",118
+
+!!! , !!! + ### + !!! ,
+0:
+1:ErrorType.UNKNOWN_SIMPLE_ATTRIBUTE.code,76 ErrorType.UNDEFINED_RULE_IN_NONLOCAL_REF.code,32 ErrorType.UNKNOWN_RULE_ATTRIBUTE.code,24 ErrorType.ISOLATED_RULE_REF.code,18 ErrorType.INVALID_RULE_PARAMETER_REF.code,6 ErrorType.ASSIGNMENT_TO_LIST_LABEL.code,4 ActionSplitter.SET_NONLOCAL_ATTR,2
+2:
+3:"x",486
+
+!!! +
+0:
+1:
+2:
+3:"x",2560
+
+!!! + $$$ +
+0:id,42 value,10 data,9 type,9 count,8 port,8 length,7 character,7 key,6 canRead,6 canUpdate,6 canDelete,6 canSetPermissions,6 canQuery,6 canCreate,6
+1:
+2:
+3:"x",820
+
+!!! + $$$ + !!! $$$ +
+0:',420 name,52 url,12 ip,10 description,8 query,7 path,6 id,6 value,6 nodeGroup,6 identity,6 key,5 token,5 app,5 note,5
+1:
+2:
+3:"x",840
+
+!!! + ### +
+0:
+1:NEW_LINE,153 SLL_TotalLook,2 SLL_ATNTransitions,2 SLL_DFATransitions,2 LL_Fallback,2 LL_TotalLook,2 LL_ATNTransitions,2 IS_DELETE,1 NOT_DELETE,1 PojoEntityManager.NULL_ID,1
+2:
+3:"x",168
+
+!!! + ### + !!! +
+0:
+1:ErrorType.INVALID_ESCAPE_SEQUENCE.code,30 ErrorType.ILLEGAL_OPTION.code,18 ErrorType.INCOMPATIBLE_COMMANDS.code,18 ErrorType.TOKEN_UNREACHABLE.code,16 ErrorType.SYNTAX_ERROR.code,14 ErrorType.EMPTY_STRINGS_AND_SETS_NOT_ALLOWED.code,14 ErrorType.LABEL_TYPE_CONFLICT.code,12 ErrorType.CHARACTERS_COLLISION_IN_SET.code,8 ErrorType.LABEL_CONFLICTS_WITH_RULE.code,6 ErrorType.ACTION_REDEFINITION.code,6 ErrorType.IMPLICIT_TOKEN_DEFINITION.code,6 ErrorType.CONSTANT_VALUE_IS_NOT_A_RECOGNIZED_CHANNEL_NAME.code,6 ErrorType.DUPLICATED_COMMAND.code,6 ErrorType.UNICODE_PROPERTY_NOT_ALLOWED_IN_RANGE.code,6 ErrorType.REPEATED_PREQUEL.code,4
+2:
+3:"x",448
+
+!!! $$$ $$$ !!! +
+0:\,200 schema,24 properties,16 content,13 items,11 responses,8 decimal,6 false,6 get,5 cells,4 id,4 model,4 color,4 manufacture,4 1.0,4
+1:
+2:
+3:"x",400
+

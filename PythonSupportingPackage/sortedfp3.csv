@@ -1,0 +1,500 @@
+~~~ { ,3289
+~~~ ; ,278550
+~~~ ,12143
+~~~ , ~~~ ) ; ,132
+~~~ , ,8591
+~~~ ) ; ,877
+~~~ ) ,192
+~~~ ) ) ; ,113
+~~~ && ,152
+~~~ $$$ ,1631
+~~~ $$$ ( ,174
+} ~~~ { } ,902
+} ~~~ { ,10111
+} finally { ,1685
+} else { ,9866
+} else if ( ~~~ ) { ,1301
+} else if ( $$$ instanceof ### ) { ,943
+} else if ( $$$ == $$$ ) { ,166
+} else if ( $$$ == ### ) { ,400
+} else if ( $$$ == !!! ) { ,239
+} else if ( $$$ ( ) ) { ,159
+} else if ( $$$ != null ) { ,134
+} else if ( !!! ~~~ ) { ,179
+} else if ( ! ~~~ ) { ,190
+} else if ( ! ~~~ ) ,139
+} else ,147
+} ,334789
+} ) ~~~ ; ,136
+{ !!! , !!! , !!! , !!! } , ,112
+while ( ~~~ ) { ,902
+while ( ( ) != null ) { ,224
+while ( $$$ < $$$ ) { ,161
+while ( $$$ ) { ,385
+while ( $$$ != null ) { ,153
+while ( ! ~~~ ) { ,193
+void ~~~ { ,2757
+void ~~~ throws ### { ,322
+void ~~~ ; ,1396
+try { ~~~ ; ~~~ ; } ~~~ { } ,180
+try { ,12027
+throws ### { ,402
+throw ~~~ ; ,508
+throw new ~~~ ; ,11182
+throw $$$ ; ,432
+synchronized ( this ) { ,162
+synchronized ( $$$ ) { ,504
+switch ( ~~~ ) { ,266
+switch ( $$$ ) { ,1251
+static { ,503
+static void ~~~ { ,266
+static public ### ~~~ { ,126
+static final ### $$$ = !!! ; ,261
+static class ### { ,248
+static class ### extends ### { ,144
+static ### ~~~ { ,564
+static ### $$$ ; ,120
+return ~~~ ; ,34464
+return ~~~ ,653
+return ~~~ && ~~~ ; ,125
+return ~~~ $$$ ; ,151
+return this ; ,6917
+return null ; ,4669
+return new ~~~ { ,526
+return new ~~~ ; ,6788
+return new ~~~ ,183
+return new ### ; ,161
+return ; ,3191
+return - !!! ; ,551
+return ( ( ) $$$ ) ~~~ ; ,307
+return ( ### ) ~~~ ; ,966
+return ( ### ) this ; ,1136
+return ( ### ) ( ) ; ,195
+return ( ### ) $$$ ; ,455
+return $$$ == ### ; ,116
+return $$$ ; ,52318
+return $$$ - $$$ ; ,134
+return ### ; ,3986
+return !!! ; ,3247
+return !!! ,144
+return !!! + ,333
+return !!! + $$$ ; ,125
+return !!! + $$$ + !!! ; ,122
+return !!! + $$$ + !!! + $$$ + !!! ; ,168
+return ! ~~~ ; ,162
+public ~~~ { } ,159
+public ~~~ { ,12806
+public ~~~ throws ### { ,227
+public ~~~ ,202
+public void ~~~ { } ,197
+public void ~~~ { ,47627
+public void ~~~ throws ### { ,13687
+public void ~~~ throws ### ,387
+public void ~~~ throws ### , ### { ,421
+public void ~~~ ; ,119
+public void ~~~ ,975
+public void $$$ $$$ ~~~ { ,175
+public synchronized void ~~~ { ,251
+public synchronized ### ~~~ { ,207
+public static void ~~~ { ,2483
+public static void ~~~ throws ### { ,531
+public static final ~~~ ; ,176
+public static final ### ~~~ { ,159
+public static final ### $$$ = ~~~ ; ,909
+public static final ### $$$ = new ~~~ ; ,1434
+public static final ### $$$ = $$$ ; ,960
+public static final ### $$$ = ### ; ,171
+public static final ### $$$ = ### + !!! ; ,158
+public static final ### $$$ = !!! ; ,4625
+public static class ### { ,1082
+public static class ### implements ### { ,214
+public static class ### implements ### < ### > { ,118
+public static class ### extends ### { ,813
+public static < ### > ### ~~~ { ,166
+public static < ### > ### < ### > ~~~ { ,322
+public static ### ~~~ { ,7864
+public static ### ~~~ throws ### { ,621
+public static ### ~~~ ,348
+public static ### < ### > ~~~ { ,591
+public static ### $$$ = $$$ ; ,129
+public static ### $$$ = !!! ; ,404
+public interface ### { ,349
+public final void ~~~ { ,398
+public final static native void ~~~ ; ,1414
+public final static native ### ~~~ ; ,1479
+public final static ### $$$ = !!! ; ,164
+public final class ### { ,693
+public final class ### implements ### { ,216
+public final class ### extends ### { ,308
+public final ### ~~~ { ,644
+public final ### $$$ ; ,707
+public enum ### { ,334
+public class ### { ,5696
+public class ### implements ### { ,1802
+public class ### implements ### < ### > { ,203
+public class ### implements ### , ### { ,127
+public class ### extends ### { ,3928
+public class ### extends ### implements ### { ,394
+public class ### extends ### < ### > { ,306
+public abstract void ~~~ ; ,139
+public abstract class ### { ,258
+public abstract class ### implements ### { ,194
+public abstract class ### extends ### { ,169
+public abstract ### ~~~ ; ,713
+public < ### extends ### > ### ~~~ { ,124
+public < ### > ### ~~~ { ,413
+public < ### > ### < ### > ~~~ { ,191
+public ### ~~~ { return ~~~ ; } ,234
+public ### ~~~ { return $$$ ; } ,305
+public ### ~~~ { ,61837
+public ### ~~~ throws ### { ,2680
+public ### ~~~ throws ### , ### { ,263
+public ### ~~~ ; ,365
+public ### ~~~ ,901
+public ### < ? extends ### > ~~~ { ,182
+public ### < ? > ~~~ { ,317
+public ### < ### > ~~~ { ,5190
+public ### < ### > ~~~ throws ### { ,159
+public ### < ### > $$$ ; ,144
+public ### < ### < ### > > ~~~ { ,224
+public ### < ### < ### , ### > > ~~~ { ,201
+public ### < ### , ### > ~~~ { ,1012
+public ### $$$ = null ; ,256
+public ### $$$ = new ~~~ ; ,226
+public ### $$$ = $$$ ; ,372
+public ### $$$ = !!! ; ,991
+public ### $$$ ; ,2915
+public ### $$$ $$$ ~~~ { ,137
+protected ~~~ { ,681
+protected ~~~ ; ,183
+protected void ~~~ { ,2593
+protected void ~~~ throws ### { ,777
+protected static final ### $$$ = !!! ; ,135
+protected static ### ~~~ { ,179
+protected final ### ~~~ { ,116
+protected final ### $$$ ; ,267
+protected abstract void ~~~ ; ,196
+protected abstract ### ~~~ ; ,276
+protected ### ~~~ { ,2205
+protected ### ~~~ throws ### { ,291
+protected ### < ### > ~~~ { ,301
+protected ### < ### > $$$ ; ,169
+protected ### < ### , ### > ~~~ { ,110
+protected ### $$$ = new ~~~ ; ,128
+protected ### $$$ = $$$ ; ,148
+protected ### $$$ = !!! ; ,146
+protected ### $$$ ; ,2173
+private ~~~ { } ,246
+private ~~~ { ,1380
+private ~~~ ; ,824
+private volatile ### $$$ ; ,233
+private void ~~~ { ,3522
+private void ~~~ throws ### { ,550
+private static void ~~~ { ,727
+private static void ~~~ throws ### { ,146
+private static final ~~~ ; ,234
+private static final ### $$$ = ~~~ ; ,1654
+private static final ### $$$ = new ~~~ ; ,540
+private static final ### $$$ = new $$$ ; ,157
+private static final ### $$$ = - $$$ ; ,353
+private static final ### $$$ = ,159
+private static final ### $$$ = $$$ ; ,956
+private static final ### $$$ = ### ; ,124
+private static final ### $$$ = !!! ; ,2888
+private static final ### $$$ ; ,138
+private static class ### { ,251
+private static class ### implements ### { ,161
+private static class ### extends ### { ,221
+private static ### ~~~ { ,1871
+private static ### ~~~ throws ### { ,154
+private static ### < ### > ~~~ { ,130
+private static ### $$$ = ~~~ ; ,238
+private static ### $$$ = !!! ; ,139
+private static ### $$$ ; ,407
+private native void ~~~ ; ,127
+private final ~~~ ; ,711
+private final static ### $$$ = !!! ; ,123
+private final ### < ### > $$$ ; ,845
+private final ### < ### , ### > $$$ ; ,304
+private final ### $$$ = ~~~ ; ,225
+private final ### $$$ = new ~~~ ; ,701
+private final ### $$$ = !!! ; ,260
+private final ### $$$ ; ,6549
+private ### ~~~ { ,3441
+private ### ~~~ throws ### { ,351
+private ### < ? > $$$ ; ,128
+private ### < ### > ~~~ { ,346
+private ### < ### > $$$ ; ,1514
+private ### < ### , ### > $$$ ; ,329
+private ### $$$ = ~~~ ; ,250
+private ### $$$ = null ; ,716
+private ### $$$ = new ~~~ ; ,627
+private ### $$$ = - !!! ; ,205
+private ### $$$ = ,164
+private ### $$$ = $$$ ; ,1211
+private ### $$$ = ### ; ,587
+private ### $$$ = !!! ; ,1169
+private ### $$$ ; ,19685
+private ### $$$ , $$$ ; ,110
+package $$$ ; ,17816
+new ~~~ { ,323
+new ~~~ ; ,1465
+new ~~~ ,174
+new ~~~ , ,243
+import static $$$ ; ,8325
+import static $$$ * ; ,1039
+import static ### ; ,2378
+import $$$ ; ,1115
+import $$$ * ; ,2614
+import ### ; ,136871
+if ( ~~~ || ~~~ ) { ,184
+if ( ~~~ instanceof ### ) { ,122
+if ( ~~~ > !!! ) { ,559
+if ( ~~~ == null ^ ~~~ == null ) ,421
+if ( ~~~ == null ) { ,295
+if ( ~~~ == $$$ ) { ,185
+if ( ~~~ == ### ) { ,274
+if ( ~~~ == !!! ) { ,624
+if ( ~~~ < !!! ) { ,133
+if ( ~~~ ) { ,9895
+if ( ~~~ ) return $$$ ; ,351
+if ( ~~~ ) ,920
+if ( ~~~ && ~~~ ) { ,244
+if ( ~~~ != ~~~ ) { ,201
+if ( ~~~ != null ) { ,767
+if ( ~~~ != null ) ,499
+if ( ~~~ != null && ~~~ == $$$ ) ,415
+if ( ~~~ != ### ) { ,134
+if ( ~~~ != !!! ) { ,204
+if ( this == $$$ ) { ,794
+if ( this == $$$ ) return $$$ ; ,311
+if ( this == $$$ ) ,194
+if ( null == $$$ ) { ,258
+if ( null != $$$ ) { ,160
+if ( ( ) != !!! ) { ,150
+if ( $$$ instanceof ### ) { ,2056
+if ( $$$ instanceof ### ) ,152
+if ( $$$ >= $$$ ) { ,240
+if ( $$$ >= !!! ) { ,276
+if ( $$$ > $$$ ) { ,466
+if ( $$$ > !!! ) { ,903
+if ( $$$ > !!! ) ,144
+if ( $$$ == null || ~~~ ) { ,219
+if ( $$$ == null || ~~~ != ~~~ ) { ,371
+if ( $$$ == null || ~~~ != ~~~ ) return $$$ ; ,221
+if ( $$$ == null || ! ~~~ ) { ,112
+if ( $$$ == null ) { ,7135
+if ( $$$ == null ) throw new ~~~ ; ,110
+if ( $$$ == null ) return null ; ,150
+if ( $$$ == null ) ,992
+if ( $$$ == - !!! ) { ,261
+if ( $$$ == $$$ ) { ,869
+if ( $$$ == $$$ ) ,155
+if ( $$$ == ### ) { ,914
+if ( $$$ == ### ) ,143
+if ( $$$ == !!! ) { ,1469
+if ( $$$ == !!! ) ,222
+if ( $$$ <= !!! ) { ,230
+if ( $$$ < $$$ ) { ,504
+if ( $$$ < !!! ) { ,614
+if ( $$$ < !!! ) ,162
+if ( $$$ ) { ,3063
+if ( $$$ ) ,315
+if ( $$$ $$$ $$$ != null ) { ,112
+if ( $$$ != null ? ! ~~~ : $$$ != null ) { ,805
+if ( $$$ != null ? ! ~~~ : $$$ != null ) return $$$ ; ,183
+if ( $$$ != null ) ~~~ ; ,283
+if ( $$$ != null ) { ,6702
+if ( $$$ != null ) ,935
+if ( $$$ != null && ~~~ > !!! ) { ,144
+if ( $$$ != null && ~~~ ) { ,269
+if ( $$$ != null && $$$ != null ) { ,132
+if ( $$$ != null && ! ~~~ ) { ,238
+if ( $$$ != - !!! ) { ,123
+if ( $$$ != $$$ ) { ,666
+if ( $$$ != $$$ ) return $$$ ; ,252
+if ( $$$ != $$$ ) ,198
+if ( $$$ != ### ) { ,315
+if ( $$$ != !!! ) { ,499
+if ( $$$ != !!! ) ,124
+if ( ### ) { ,416
+if ( !!! ~~~ ) { ,256
+if ( ! ~~~ ) { ,3104
+if ( ! ~~~ ) return $$$ ; ,219
+if ( ! ~~~ ) ,493
+if ( ! ( ) ) { ,631
+if ( ! ( ) ) return $$$ ; ,141
+if ( ! $$$ ) { ,990
+if ( ! $$$ ) ,186
+for ( final ### $$$ : $$$ ) { ,141
+for ( ; ; ) { ,193
+for ( ### < ### > $$$ : $$$ ) { ,145
+for ( ### < ### , ### > $$$ : ~~~ ) { ,511
+for ( ### < ### , ### > $$$ : $$$ ) { ,143
+for ( ### $$$ = !!! ; $$$ <= $$$ ; $$$ ++ ) { ,117
+for ( ### $$$ = !!! ; $$$ < ~~~ ; ++ $$$ ) { ,127
+for ( ### $$$ = !!! ; $$$ < ~~~ ; $$$ ++ ) { ,1050
+for ( ### $$$ = !!! ; $$$ < $$$ ; ++ $$$ ) { ,441
+for ( ### $$$ = !!! ; $$$ < $$$ ; $$$ ++ ) { ,5093
+for ( ### $$$ = !!! ; $$$ < $$$ ; $$$ ++ ) ,309
+for ( ### $$$ = !!! ; $$$ < ### ; $$$ ++ ) { ,357
+for ( ### $$$ = !!! ; $$$ < !!! ; $$$ ++ ) { ,907
+for ( ### $$$ : ~~~ ) { ,2285
+for ( ### $$$ : $$$ ) { ,5280
+for ( ### $$$ : $$$ ) ,255
+finally { ~~~ ; } ,116
+finally { ,172
+final ~~~ ; ,630
+final class ### { ,111
+final ### < ? super ### > $$$ ; ,159
+final ### < ### > $$$ = ~~~ ; ,534
+final ### < ### > $$$ ; ,173
+final ### < ### , ### > $$$ = ~~~ ; ,201
+final ### $$$ = ~~~ ; ,5913
+final ### $$$ = new ~~~ ; ,1917
+final ### $$$ = ,140
+final ### $$$ = ( ) ~~~ ; ,223
+final ### $$$ = ( ) $$$ ; ,253
+final ### $$$ = $$$ ; ,466
+final ### $$$ = $$$ ,149
+final ### $$$ = ### ; ,112
+final ### $$$ = !!! ; ,893
+final ### $$$ ; ,1020
+enum ### { ,121
+else { ,867
+else if ( ~~~ ) ,136
+else if ( $$$ == ### ) ,156
+do { ,283
+default ### ~~~ { ,348
+default ### < ### > ~~~ { ,114
+continue ; ,1157
+class ### { ,417
+class ### implements ### { ,167
+class ### extends ### { ,266
+case ### : { ,232
+break ; ,5646
+assert ~~~ ; ,614
+abstract ### ~~~ ; ,192
+^ ### ( ) & $$$ ^ ### & $$$ ^ $$$ ; ,144
+Random $$$ = new ~~~ ; ,134
+++ $$$ ; ,166
++ !!! ,197
++ !!! + $$$ ,296
+( ( ) ~~~ ) ~~~ ; ,142
+( ( ) $$$ ) ~~~ ; ,531
+&& ~~~ ; ,141
+&& ~~~ ,223
+$$$ = ~~~ ; ,27146
+$$$ = ~~~ ,280
+$$$ = this ; ,152
+$$$ = null ; ,2150
+$$$ = new ~~~ { ,157
+$$$ = new ~~~ ; ,10128
+$$$ = new $$$ { ,174
+$$$ = new $$$ ; ,579
+$$$ = new ### ; ,310
+$$$ = - !!! ; ,304
+$$$ = ( ) ~~~ ; ,1450
+$$$ = ( ) ; ,270
+$$$ = ( ) ( ) ; ,334
+$$$ = ( ) $$$ ; ,411
+$$$ = $$$ ; ,45800
+$$$ = $$$ - $$$ ; ,194
+$$$ = $$$ - !!! ; ,139
+$$$ = $$$ ,148
+$$$ = $$$ + $$$ ; ,278
+$$$ = $$$ + !!! ; ,248
+$$$ = $$$ * $$$ ; ,131
+$$$ = $$$ * $$$ + ( ) ; ,650
+$$$ = $$$ * !!! + ( ) ; ,171
+$$$ = ### ; ,2095
+$$$ = ### ( ) & $$$ ^ ### ( ) & $$$ ,128
+$$$ = !!! ; ,34624
+$$$ = !!! ,223
+$$$ = !!! * $$$ + ~~~ ; ,269
+$$$ = !!! * $$$ + ( ) ; ,1149
+$$$ = !!! * $$$ + $$$ ; ,176
+$$$ -- ; ,450
+$$$ - = $$$ ; ,313
+$$$ ++ ] = ( ) ( ) ; ,137
+$$$ ++ ] = $$$ ; ,193
+$$$ ++ ; ,2363
+$$$ + = ~~~ ; ,993
+$$$ + = $$$ ; ,1284
+$$$ + = $$$ * $$$ ; ,180
+$$$ + = !!! ; ,731
+$$$ * = $$$ ; ,216
+$$$ ( ) ; ,299
+$$$ $$$ ~~~ ; ,601
+$$$ $$$ = ~~~ ; ,726
+$$$ $$$ = new ~~~ ; ,124
+$$$ ### ; ,148
+### ~~~ { ,1960
+### ~~~ throws ### ; ,190
+### ~~~ default !!! ; ,192
+### ~~~ ; ,3599
+### { ,346
+### = ~~~ ; ,281
+### = new ~~~ ; ,113
+### = $$$ ; ,357
+### = ### ; ,110
+### = !!! ; ,276
+### < ? extends ### > $$$ = ~~~ ; ,154
+### < ? > $$$ = ~~~ ; ,585
+### < ### > ~~~ { ,143
+### < ### > ~~~ ; ,1157
+### < ### > $$$ = ~~~ ; ,5714
+### < ### > $$$ = ~~~ ,131
+### < ### > $$$ = null ; ,155
+### < ### > $$$ = ,153
+### < ### > $$$ = ( ) ~~~ ; ,130
+### < ### > $$$ = ( ) $$$ $$$ ~~~ ; ,124
+### < ### > $$$ = $$$ ; ,378
+### < ### > $$$ ; ,467
+### < ### < ### > > ~~~ ; ,210
+### < ### < ### > > $$$ = ~~~ ; ,164
+### < ### < ### , ### > > $$$ = ~~~ ; ,177
+### < ### , ### > $$$ = ~~~ ; ,1111
+### ; ,148
+### $$$ = ~~~ ; ,51027
+### $$$ = ~~~ ,713
+### $$$ = ~~~ $$$ ; ,161
+### $$$ = { ,136
+### $$$ = null ; ,2939
+### $$$ = new ~~~ { ,287
+### $$$ = new ~~~ ; ,23520
+### $$$ = new ~~~ ,395
+### $$$ = new $$$ ; ,1295
+### $$$ = new $$$ ( ) ] ; ,153
+### $$$ = new ### { ,189
+### $$$ = new ### ; ,487
+### $$$ = - !!! ; ,327
+### $$$ = ,792
+### $$$ = ( ) ~~~ ; ,2507
+### $$$ = ( ) ; ,300
+### $$$ = ( ) ( ) ; ,316
+### $$$ = ( ) $$$ ; ,2733
+### $$$ = $$$ ; ,5970
+### $$$ = $$$ / $$$ ; ,149
+### $$$ = $$$ - $$$ ; ,496
+### $$$ = $$$ - !!! ; ,144
+### $$$ = $$$ ,126
+### $$$ = $$$ + $$$ ; ,252
+### $$$ = $$$ + !!! ; ,159
+### $$$ = $$$ * $$$ ; ,113
+### $$$ = $$$ & ### ; ,234
+### $$$ = $$$ != null ? ~~~ : !!! ; ,241
+### $$$ = ### ; ,624
+### $$$ = !!! ; ,8221
+### $$$ ; ,6673
+### $$$ , $$$ ; ,164
+### $$$ $$$ $$$ = ( ) $$$ $$$ ~~~ ; ,112
+!!! ; ,395
+!!! , ,118
+!!! , !!! + ### + !!! , ,162
+!!! + ,2560
+!!! + $$$ + ,820
+!!! + $$$ + !!! $$$ + ,420
+!!! + ### + ,168
+!!! + ### + !!! + ,224
+!!! $$$ $$$ !!! + ,200
